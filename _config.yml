@@ -2,8 +2,8 @@
 title: Taylor Xu
 email: taylorhxu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Powered by <a href="http://jekyllrb.com">Jekyll</a> 
-  Hosted on <a href="http://github.com">Github</a>
+  Powered by [Jekyll](http://jekyllrb.com)
+  Hosted on [Github](http://github.com)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: taylorhxu
