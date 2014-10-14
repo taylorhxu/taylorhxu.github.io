@@ -1,31 +1,17 @@
-<<<<<<< Updated upstream
-# Site settings
-title: Taylor Xu
-email: taylor.h.xu@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Engineering, Technology and Photography.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: taylorhxu
-github_username:  taylorhxu
-
-# Build settings
-markdown: kramdown
-=======
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
+  title:        "Taylor Xu"
+  subtitle:     "Engineering, technology and photography."
   cover_image:  blog-cover.jpg
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
+  company:      Taylor Xu
+  url:          http://taylorhxu.co.uk/
+  facebook:     taylorhxu 
+  twitter:      taylorhxu
   gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  about_link:   http://about.me/taylorhxu/
   
   # Product Information
   product_link: http://incorporated.sendtoinc.com/
