@@ -16,9 +16,9 @@ links:
     url:          http://github.com/taylorhxu
     external:     true
   - name:         Photography
-    url:           http://taylorhxu.com
+    url:          http://taylorhxu.com
     external:     true
-  -name:          Twitter
+  - name:         Twitter
     url :         http://twitter.com/taylorhxu
     external:     true
 highlighter:      pygments
