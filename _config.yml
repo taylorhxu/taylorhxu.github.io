@@ -1,16 +1,5 @@
-# Site settings
-title: Taylor Xu
-email: taylor.h.xu@gmail.com
-description: "Engineering, technology and photography."
-baseurl: ""
-url: "http://taylorhxu.giyhub.io"
-twitter_username: taylorhxu
-github_username:  taylorhxu
-facebook_username:  taylorhxu
-linkedin_suername: taylorhxu
-
-# Build settings
-markdown: kramdown
-permalink: pretty
-paginate: 5
-exclude: ["node_modules"]
+# General Jekyll Config
+highlighter: pygments
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
