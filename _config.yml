@@ -18,6 +18,9 @@ links:
   - name:         Photography
     url:           http://taylorhxu.com
     external:     true
+  -name:          Twitter
+    url :         http://twitter.com/taylorhxu
+    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
