@@ -18,6 +18,9 @@ links:
   - name:         GitHub
     url:          http://github.com/taylorhxu
     external:     true
+  - name:         Photography
+    url:           http://taylorhxu.com
+    external:     true
 highlighter:      pygments
 permalink:        pretty
 markdown:         redcarpet
