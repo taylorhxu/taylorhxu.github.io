@@ -1,11 +1,29 @@
 ---
-layout: page
-title: Taylor Xu
-excerpt: "A simple and clean responsive Jekyll theme for words and photos."
+layout: default
 ---
+<div id="home" class="page-content wc-container">
+	<div class="posts">
+  		{% for post in site.posts limit:10 %}
+  			<div class="post">
+    			<h3 class="post-title">
+			      <a href="{{ site.url }}{{ post.url }}">
+			        {{ post.title }}
+			      </a>
+    			</h3>
 
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+    			<span class="post-date">{{ post.date | date_to_string }}</span>    			
+  				<p>
+	  				{{ post.description }}	
+  				</p>
+  				<p>
+  					<a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title}}">
+  						Read More
+					</a>
+  				</p>
+  			</div>
+  		{% endfor %}
+	</div>
+	<div class="post-footer">
+		<div class="column-full"><a href="{{ site.baseurl }}/blog/">Blog archive</a></div>
+	</div>
+</div>
