@@ -18,9 +18,11 @@ WordPress is great, and it has been working wonderfully, but it is just not for 
 
 1. Let’s be honest, I am a student, I don’t want to pay for the hosting. Why do I want to pay around £100 per year just for hosting somewhere.
 
-2. Jekyll allows [markdown](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85). I am writing this post using markdown, how wonderful it is. I know WordPress allows markdown as well( only started recently, if I remember correctly), but I am just fed up with all those plugins and updates.
+2. Jekyll allows [markdown](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85). I am writing this post using markdown, how wonderful it is. I know WordPress allows markdown as well (started early 2014, if I remember correctly), but I am just fed up with all those plugins and updates.
 
 3. Github offers free hosting. Link back to my first point, I can surely afford £10 for the domain. And also I can have version control with Github, sweet.
+
+4. Loading speed. Jekyll is the winner. 
 
 ### Plan(s)
 1. So my plans from now on is posting more frequently here, writing blog posts is also a good way to learn coding. 
