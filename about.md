@@ -3,8 +3,10 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+Taylor Xu is a biomedical engineering student, tech enthusiast, music festival goer & former London 2012 cast.
 
-This theme is made by me. You have a nice day. ♥
+Her main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved software engineering, and also she enjoys photography, travelling, foreign language learning, liberal arts and performing arts.
+
+Tweet at [@taylorhxu](http://twitter.com/taylorhxu)
+Connect Taylor on [LinkedIn](http://uk.linkedin.com/in/taylorhxu).
