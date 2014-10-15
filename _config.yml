@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Taylor Xu
 
 description: Engineering, technology and photography.
 author:
@@ -22,7 +22,7 @@ author:
   twitter: taylorhxu
   pinterest: taylorhxu
   linkedin: taylorhxu
-  bio: Engineering, technology and photography.
+  bio: Her main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved software engineering, and also she enjoys photography, travelling, foreign language learning, liberal arts and performing arts.
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
