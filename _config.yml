@@ -1,5 +1,5 @@
 title:            Scribble
-description:      A jekyll theme. Because I scribble.
+description:      A Jekyll blog by Taylor.
 url:              # Site url.
 signoff:          # Your name.
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
@@ -13,10 +13,10 @@ links:
     url:          http://muan.co
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:taylor.h.xu@gmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/taylorhxu
     external:     true
 highlighter:      pygments
 permalink:        pretty
