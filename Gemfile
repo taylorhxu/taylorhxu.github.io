@@ -1,5 +1,3 @@
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 gem 'github-pages'
-gem 'jemoji'
-gem 'jekyll-mentions'

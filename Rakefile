@@ -1,9 +1,9 @@
 desc "compile and run the site"
 task :default do
   pids = [
-    spawn("jekyll server -w"),
-    spawn("scss --watch _assets:assets"),
-    spawn("coffee -b -w -o assets -c _assets/*.coffee")
+    spawn("bundle exec jekyll server -w"),
+    spawn("scss --watch _assets:stylesheets"),
+    spawn("coffee -b -w -o javascripts -c _assets/*.coffee")
   ]
  
   trap "INT" do
