@@ -7,14 +7,8 @@ facebook_appid:   # appid for like button, remove from /_includes/share.html if 
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         Home
-    url:          http://taylorhxu.github.io/
-    external:     true
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          /_posts
-    external:     true
   - name:         Email
     url:          mailto:taylor.h.xu@gmail.com
     external:     true
