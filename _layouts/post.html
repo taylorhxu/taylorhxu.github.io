@@ -1,48 +1,43 @@
----
-layout: default
----
+<html>
+  <head>
+    {% include head.html %}
+  </head>
+  <body>
+    <div class="wrapper">
 
-<div class="page-content wc-container">
-	
-	<div class="post">
-		<h1>{{ page.title }}</h1>
-		<span class="post-date">{{ page.date | date_to_string }}</span>
-		<div class="post">
-			{{ content }}
-		</div>
-	</div>
+      {% include header.html %}
 
+      <section class="content">
+        <div class="container">
+          <article>
+            <header class="post-header">
 
-	{% if site.related_posts %}
-	<div class="related">
-		<h4>Related Posts</h2>
-		<ul class="posts">
-		    {% for post in site.related_posts limit:3 %}
-		    <li>
-			  <span>{{ post.date | date_to_string }} &raquo;</span>
-			  <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-		    </li>
-		    {% endfor %}
-		</ul>
-	</div>
-	{% endif %}
+              <div class="post-title">{{ page.title }}</div>
+              {% if page.date %}
+                <small class="meta">
+                  {{ page.date | date_to_string }} -
+                  by <a href="https://twitter.com/muanchiou" target="_blank">@muanchiou</a>
+                </small>
+                <div class="pagination">
+                  {% if page.previous %}
+                    <a class="page-nav previous" {% if page.previous %}href="{{ page.previous.url }}" id="js-previous-post"{% endif %}>
+                      &lt;
+                    </a>
+                  {% endif %}
+                  {% if page.next %}
+                    <a class="page-nav next" {% if page.next %}href="{{ page.next.url }}" id="js-next-post"{% endif %}>
+                      &gt;
+                    </a>
+                  {% endif %}
+                </div>
+              {% endif %}
+            </header>
+            {{ content }}
+          </article>
+        </div>
+      </section>
 
-	<div class="post-footer">
-		<div class="column-1">
-			{% if page.previous %}
-				<a href="{{page.previous.url | prepend: site.baseurl }}"><< Older</a>
-			{% else %}
-				<span><< Older</span>
-			{% endif %}
-		</div>
-		<div class="column-2"><a href="{{ site.url | prepend: site.baseurl }} ">Home</a></div>
-		<div class="column-3">
-			{% if page.next %}
-				<a href="{{ page.next.url | prepend: site.baseurl }}">Newer >></a>
-			{% else %}
-				<span>Newer >></span>
-			{% endif %}
-		</div>
-	</div>
-</div>
- 
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
