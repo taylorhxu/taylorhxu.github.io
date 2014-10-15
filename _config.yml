@@ -1,7 +1,7 @@
-title:            Scribble
+title:            TAYLEGRAM by Taylor Xu
 description:      A Jekyll blog by Taylor.
 url:              # Site url.
-signoff:          # Your name.
+signoff:          Taylor Xu
 disqus_shortname: # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
