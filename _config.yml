@@ -1,32 +1,53 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+# Site wide configuration
 
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: true
-markdown: kramdown
+title: Site Title
+locale: en_US
+description: Describe your website here.
+logo: site-logo.png
+search: true
+url: 
 
 
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: Taylor Xu
+# Jekyll configuration
 
-description: Engineering, technology and photography.
-author:
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
   name: Taylor Xu
-  email: taylor.h.xu@gmail.com
+  avatar: bio-photo.jpg
+  email: you@email.com
+  disqus-shortname:
+  twitter: #taylorhxu 
+  facebook: taylorhxu
   github: taylorhxu
-  twitter: taylorhxu
-  pinterest: taylorhxu
+  stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: taylorhxu
-  bio: Taylor Xu is a biomedical engineering student, tech enthusiast, music festival goer & former London 2012 cast. Her main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved software engineering, and also she enjoys photography, travelling, foreign language learning, liberal arts and performing arts.
-  email_md5: 726351295ec82e145928582f595aa3aa
-
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
-BASE_PATH:
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot: 
+  bing-verify:
