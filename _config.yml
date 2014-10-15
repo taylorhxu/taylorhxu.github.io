@@ -34,16 +34,16 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Taylor Xu
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: taylor.h.xu@gmail.com
   disqus-shortname:
-  twitter: #taylorhxu 
+  twitter: taylorhxu 
   facebook: taylorhxu
   github: taylorhxu
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: taylorhxu
-  instagram: #username
-  flickr: #username
-  tumblr: #username
+  instagram: taylorhxu
+  flickr: splendorevision
+  tumblr: 
   google:
     plus: #username
     analytics:
