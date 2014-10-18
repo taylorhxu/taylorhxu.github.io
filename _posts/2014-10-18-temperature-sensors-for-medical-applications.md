@@ -180,7 +180,7 @@ With the correct calculation and the schematic of the complete thermometer alarm
 9. http://www.thebackshed.com/windmill/articles/TL084_Controller/TL084.gif
 10. NTC thermistor, NTC thermistors datasheet.
 11. P.231, S. P. Bali, Linear Integrated Circuits, Tata McGraw-Hill Education,2008. 
-12. [http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/componentsrev.shtml](http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/componentsrev.shtml)
+12. [BBC electronics](http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/componentsrev.shtml)
 13. Document 1: Project Background and Outline Sheet
 
 
