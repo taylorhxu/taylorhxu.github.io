@@ -49,8 +49,6 @@ During this project, different channels were used in order to integrate differen
 
 ## Thermistor 
 
-
-
 The thermistors used are designed with a semiconductor material, which internally produces a level of resistivity,which is very sensitive and responsive to temperature. Unlike other temperature related devices, the resistance of thermistors decreases as temperature increases. Therefore it is easy to predict the resistance change when the temperature adjusts, known as a Negative Temperature Co-efficient (NTC) thermistor.
 
 ### Procedure
@@ -58,7 +56,6 @@ The thermistors used are designed with a semiconductor material, which internall
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T>37°c
 
 # Theory
-
 When the non-inverting input (V+) was at a higher voltage than the inverting input (V-), the high gain of the op-amp caused the output to go to the highest positive voltage it could output (approx. Vcc+). When the non-inverting input (V+) dropped below the inverting input (V-), the output went to the most negative voltage it could output (approx. Vcc-). The op-amp's output voltage was determined by the supply voltage [13]. Therefore, by setting one of the op-amp inputs to be the voltage from the LM35 sensor and creating a reference voltage for the other input, we compared the two voltages to see if one was greater than or less than the other.
 
 The voltage divider rule is:
@@ -66,7 +63,6 @@ The voltage divider rule is:
 Vref = (Vcc+)*R2/ (R1+R2) 
 
 # Experiment
-
 Firstly, the LM35 sensor was tested by supplying the voltage pin of the sensor by
 9V from the power supply, connecting the GND pin and getting the voltage read
 in the multi-meter from the output of the sensor. The readings were between (25
@@ -86,11 +82,9 @@ R1 = (900 – 37)/0.37 = 2300 Ω.
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T<25°c
 
 # Theory 
-
 When the non-inverting input (V+) was at a higher voltage than the inverting input (V-), the high gain of the op-amp caused the output to go to the highest positive voltage it could output (approx. Vcc+). When the non-inverting input (V+) dropped below the inverting input (V-), the output went to the most negative voltage it can output (approx. Vcc-). The op-amp's output the supply voltage determines voltage [13]. Therefore, by setting one of the op-amp inputs to be the voltage from the LM35 sensor and creating a reference voltage for the other input, two voltages was compared therefore for checking both values were either similar or exactly the same.
 
 # Experiment 
-
 According to the function of the op-amp, the resistors and the sensor were swapped in order to make a precise comparison when the temperature was below 25°c.
 
 First of all, a reference voltage was made using two resistors that were different than those were used for T> 37°c and the voltage divider rule.
@@ -106,7 +100,6 @@ R1= (900 – 25)/0.25 = 3500Ω
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T<25°c or T>37°c
 
 # Experiment 
-
 In order to combine the two circuits’ measurement together, the LM35 output was split into two: one was connected to the non-inverting input (+) of the first circuit, which was V > 370mV at pin number 3 and the other was linked to the inverting input (-) of the second circuit which V< 250mV at pin number 10.
 
 After that, two diodes were linked to the output of the two op-amps. The diode passed the voltage in one way – from the positive to the negative. Therefore, only the positive output from the op-amp was allowed to reach the buzzer. When T >
@@ -115,7 +108,6 @@ After that, two diodes were linked to the output of the two op-amps. The diode p
 ## Development of the Respiration Sensor System
 
 # Design Consideration of Nasal Airflow Sensor
-
 The project was to design a very simple nasal airflow sensor, using limited components. Traditional thermistors and thermocouples used to detect a patients airflow where composed of prongs and probes which were directly inserted into the nostrils. This designed element can be very uncomfortable and irritating for the patient, therefore a nasal airflow sensor was developed during the group project week, as discussed among the group, the final product was comfortable to wear as well as producing an accurate reading.
 
 A suitable and cost effective design was carried out carefully, which is suitable for pediatric patients as well as adults. Considerations where made regarding how comfortable the devise was to wear, and how well it was with staying in place – so that constant readjustments where not needed, and a design where the airflow sensor could be taken on and off patients, with minimum ease, was wanted and finally produced and developed.
@@ -131,6 +123,89 @@ A hot air gun is a power tool useful for many types of repairs; the hot air gun 
 A small segment of plastic tubing was used to attach both thermistors together under the nose, so that the ends of each thermistor stuck out slightly and rested directly below each nostril.  Each thermistor was carefully measured and it fitted properly and where tightly secured by the plastic tubing.  Once placed inside the extensions where bent at 45 degree angles and then hooped around ears. Comparisons for the placement of the thermistors where made between allmembers of the group, making the device suitable for all group members to wear. Due to the flexible nature of the plastic tube, the thermistors can be adjusted to fit any patient, which would eliminate any discomfort compared to other devices that would be ill fitted.
 
 Incorporating a pair of glasses to the design means that the thermistors can be worn and taken off with the same level of ease as just wearing a pair of glasses. There is no problem with wires or chance of the wires being tangled causing difficulty for the patient to manage. Instead of using a mask, which could affect the airway reading by not allowing sufficient air exchange, the glasses leave the face free which results in a more accurate results as well as also allowing the patient to communicate freely.
+
+## Development and Evaluation of the Wheatstone bridge
+
+# Theory
+The thermistor of the Nasal Airflow changed resistance with the difference in temperature between inhaled and exhaled air. The Wheatstone bridge converted the change in resistance into a change in voltage [13].
+
+If the 4 resistors of the Wheatstone bridge are equal, the output voltage is Zero. For the resistors, we used R1=10 KΩ, R2 = 10 KΩ and at 25°c, the thermistor of the nasal airflow should be RT1 = 10 KΩ and RT2 = 10 KΩ.
+
+V1 = (Vs) RT1/ (R1 + RT1)                                                                                V2 = (Vs) RT2/ (R2 + RT2)                                                                                
+Vout = V1 – V2 = Vs [RT1/ (R1 + RT1)  – (Vs)* RT2/ (R2 + RT2)]                
+
+# Experiment 
+Firstly, the two resistances of the two Nasal Airflow sensors were checked at the room temperature which was 25°c to 27°c using the ohmmeter. RT1 = 9.5 KΩ and RT2 = 9.8 KΩ
+
+Secondly, the circuit was supplied by 9V. Using equations (2.2, 2.3, 2.4) the theoretical values of V1, V2 and Vout were as follow:
+
+V1= (9)*[9.5/ (10+9.5)]= V1 = 4.52 V V2= (9)*[9.8/ (10+9.8)] = V2 = 4.45 V
+Vout = V1- V2 = 4.52V- 4.45V = Vout = 0.07 V
+
+However, the measured Vout was between 0.032V to 0.048V, which was due to that room temperature varied during the measurement and the resistances uncertainty (± 5%).
+
+## Development and Evaluation of the Differential Amplifier
+
+# Theory
+The differential amplifier was used to amplify the measured Vout from the Wheatstone bridge-which was very small- so that the Vout signal would have high amplitude. It was configured using a selection of resistors and the operational amplifier (Op-amp)[13].
+
+The amplified voltage depended on the V1 and V2 from the Wheatstone bridge, R1
+and R2 as shown in the next equation:
+
+Vout = (V2 – V1) R2/R1                    
+
+# Experiment 
+Firstly, four resistors were chosen to build the above differential amplifier to amplify the signal by 10 as shown:
+R2= 10KΩ,
+Vout= 0.48V and Vin = 0.048V
+0.48= 0.048*10/R1
+R1= 1KΩ
+
+However, amplified signal had low amplitude, so it was amplified again by 390 in order to get a clear signal with high amplitude:
+
+R2=3.9KΩ, Vin = 0.048V and Vout= 18.72 V
+4.8 = 0.048*10/ R1
+R1= 10 Ω
+
+## Development and Evaluation of the Filter
+
+# Filter                                                                                                                 
+The respiration signal lies between frequency ranges of 0.1 Hz to 10 Hz. Therefore, an RC low-pass filter was designed to remove the unwanted noise of the output of the differential amplifier signal that was above 10 Hz [13].
+The cut-off frequency that we wanted the filter to pass was calculated from the
+next equation:
+
+
+ƒc = 1/2πRC                                                                                                         
+
+It consisted of a resistor of 68 KΩ and a capacitor of 220 nF.  
+
+The output of the circuit was observed when the person breathed normally and it was one and half complete cycles in five seconds which was calculated as below:
+
+Breath rate: (1.5/5)*60 = 18 breathe per minute
+Frequency: 1/3 = 0.333 Hz
+
+###  Results and Conclusion
+
+## The results for the thermometer Alarm System
+
+1.   The alarm buzzed when the temperature exceeded 37°c and the exact voltage reading from the voltmeter was 370.45 mV.
+2.   The alarm buzzed when the temperature was below 25°c and the exact
+voltage reading from the voltmeter was 249.23 mV.
+3.   The two circuits worked simultaneously - when T > 37°c or T<25°c, the final circuit had one sensor, one buzzer and two op-amps with a mechanism that allowed both circuits to work as a one system.
+
+## The results for the Respiration Sensor System
+
+1.   A member of the group volunteered to put the nasal airflow sensors on.
+When the person inhaled, the amplitude of the signal that was shown on the oscilloscope was low. Meanwhile, the exhalation showed a high amplitude and the frequency varied with the respiration rate.
+
+2.   The filter reduced the amount of noise that contaminated the output signal by passing the low frequency signals and attenuating signals with frequencies higher than the cut-off frequency (10 Hz).
+
+3.   By blowing on the thermistors of the Nasal Airflow sensors, the temperature increased and thus, the voltage readings also increased. The change in the signal was also shown on the oscilloscope.
+
+## Conclusion
+
+With the correct calculation and the schematic of the complete thermometer alarming system, there were also some issues occurred. As mentioned earlier,the actual values of temperature derived from voltages were a little bit off the theoretical values: as 249.23mV for <25°c has a percentage error of -0.308%, and 370.45mV has a percentage error of 0.122%. These percentage errors were really small and less than 1% that can be considered as excellent results. The possible reason that occurred was due to there wasn’t exact value of resistors in the lab, therefore, similar value was used, and this caused some uncertainly during the experimental measurement.
+
 
 
 
