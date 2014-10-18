@@ -169,7 +169,20 @@ When the person inhaled, the amplitude of the signal that was shown on the oscil
 # Conclusion
 With the correct calculation and the schematic of the complete thermometer alarming system, there were also some issues occurred. As mentioned earlier,the actual values of temperature derived from voltages were a little bit off the theoretical values: as 249.23mV for <25°c has a percentage error of -0.308%, and 370.45mV has a percentage error of 0.122%. These percentage errors were really small and less than 1% that can be considered as excellent results. The possible reason that occurred was due to there wasn’t exact value of resistors in the lab, therefore, similar value was used, and this caused some uncertainly during the experimental measurement.
 
-
+—
+[1] LM35 Precision Centigrade Temperature Sensors, TEXAS INSTRUMENTS.
+[2] The World Health Report 2006: Working Together For Health. Geneva: WHO;2006.
+[3] Shortage of Healthcare Workers in Developing Countries - Africa, Ethnicity & Disease, Volume 19, Spring 2009.
+[4] Edited by Bernd Rechel, Carl-Ardy Dubois, Martin McKee, The health Care workforce in Europe, WHO; 2006.
+[5] New United Kingdom Population Projections, Government Actuary’s Department, 2003.
+[6] Elaine N. Marieb, Katja Hoehn, P8, human anatomy & physiology, ninth edition, Pearson.
+[7] Working principle, http://sainsmart.com/wiki/index.php/LM35_temperature_sensor 
+[8] Datasheet of TL084, http://www.ti.com/product/tl084
+[9] (http://www.thebackshed.com/windmill/articles/TL084_Controller/TL084.gif)
+[10] NTC thermistor, NTC thermistors datasheet.
+[11] P.231, S. P. Bali, Linear Integrated Circuits, Tata McGraw-Hill Education,2008. 
+[12] (http://www.bbc.co.uk/schools/gcsebitesize/design/electronics/componentsrev.shtml)
+[13] Document 1: Project Background and Outline Sheet
 
 
                                                                         
