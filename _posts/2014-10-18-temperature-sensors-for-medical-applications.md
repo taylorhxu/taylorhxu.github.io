@@ -32,5 +32,5 @@ LM35 temperature sensor converts temperature to electricity by using substances 
 
 Vout_LM35=10mV/°c x T °c        
 
-!({{ taylorhxu.github.io }}/images/sensors/sensors-1.png)
+!(/_assets/sensors/sensors-1.png)
                                                                         
