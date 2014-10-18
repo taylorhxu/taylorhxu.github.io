@@ -36,32 +36,24 @@ Vout_LM35=10mV/°c x T °c
 The LM35 sensor used in this project came in TO-220 packaging. This sensor is sensitive to a small change in temperature, which gives accurate measurements.
 
 ## Diode
-
 A diode is a discrete component that allows current to flow in one direction only. It is a polarised component with two leads, called the cathode and the anode. The cathode is normally marked with a silver or coloured band or the symbol '-'.
 If the anode is connected to a higher voltage than the cathode, current will flow from anode to cathode. This is called forward bias.
 If the diode is put in the circuit back to front, so that the voltage at the cathode is
 higher than the voltage at the anode, the diode will not conduct electricity. This is called reverse bias [12].
-
 ## Operational Amplifier 
-
 The operational amplifier chip used in this project was TL084; it has 4 channels and 14 pins. [8] The operational amplifier produces an output voltage that is the difference between the two input terminals.
 During this project, different channels were used in order to integrate different circuits together.
-
 ## Thermistor 
-
 The thermistors used are designed with a semiconductor material, which internally produces a level of resistivity,which is very sensitive and responsive to temperature. Unlike other temperature related devices, the resistance of thermistors decreases as temperature increases. Therefore it is easy to predict the resistance change when the temperature adjusts, known as a Negative Temperature Co-efficient (NTC) thermistor.
 
 # Procedure
-
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T>37°c
-
 ### Theory
 When the non-inverting input (V+) was at a higher voltage than the inverting input (V-), the high gain of the op-amp caused the output to go to the highest positive voltage it could output (approx. Vcc+). When the non-inverting input (V+) dropped below the inverting input (V-), the output went to the most negative voltage it could output (approx. Vcc-). The op-amp's output voltage was determined by the supply voltage [13]. Therefore, by setting one of the op-amp inputs to be the voltage from the LM35 sensor and creating a reference voltage for the other input, we compared the two voltages to see if one was greater than or less than the other.
 
 The voltage divider rule is:
 
 Vref = (Vcc+)*R2/ (R1+R2) 
-
 ### Experiment
 Firstly, the LM35 sensor was tested by supplying the voltage pin of the sensor by
 9V from the power supply, connecting the GND pin and getting the voltage read
@@ -80,10 +72,8 @@ R1 = (900 – 37)/0.37 = 2300 Ω.
 *When the Vref was measured, it was 381.23 mV. An extra 100 Ω were used, so that R1=2400Ω and the measured Vref = 370.45 mV.*
 
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T<25°c
-
 ### Theory 
 When the non-inverting input (V+) was at a higher voltage than the inverting input (V-), the high gain of the op-amp caused the output to go to the highest positive voltage it could output (approx. Vcc+). When the non-inverting input (V+) dropped below the inverting input (V-), the output went to the most negative voltage it can output (approx. Vcc-). The op-amp's output the supply voltage determines voltage [13]. Therefore, by setting one of the op-amp inputs to be the voltage from the LM35 sensor and creating a reference voltage for the other input, two voltages was compared therefore for checking both values were either similar or exactly the same.
-
 ### Experiment 
 According to the function of the op-amp, the resistors and the sensor were swapped in order to make a precise comparison when the temperature was below 25°c.
 
@@ -98,7 +88,6 @@ R2 was chosen randomly to be 100 Ω.
 R1= (900 – 25)/0.25 = 3500Ω
 
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T<25°c or T>37°c
-
 ### Experiment 
 In order to combine the two circuits’ measurement together, the LM35 output was split into two: one was connected to the non-inverting input (+) of the first circuit, which was V > 370mV at pin number 3 and the other was linked to the inverting input (-) of the second circuit which V< 250mV at pin number 10.
 
@@ -106,7 +95,6 @@ After that, two diodes were linked to the output of the two op-amps. The diode p
 37°c the LM35 (non-inverted +) was higher than the inverted thus the op-amp output was positive, the diodes passed the positive voltage to the buzzer. Meanwhile, when T<25°c the LM35 (inverted -) was lower than the non-inverted thus the op-amp output was positive, the diode passed the positive voltage to the buzzer.
 
 ## Development of the Respiration Sensor System
-
 ### Design Consideration of Nasal Airflow Sensor
 The project was to design a very simple nasal airflow sensor, using limited components. Traditional thermistors and thermocouples used to detect a patients airflow where composed of prongs and probes which were directly inserted into the nostrils. This designed element can be very uncomfortable and irritating for the patient, therefore a nasal airflow sensor was developed during the group project week, as discussed among the group, the final product was comfortable to wear as well as producing an accurate reading.
 
@@ -184,8 +172,7 @@ The output of the circuit was observed when the person breathed normally and it 
 Breath rate: (1.5/5)*60 = 18 breathe per minute
 Frequency: 1/3 = 0.333 Hz
 
-#  Results and Conclusion
-
+#  Results 
 ## The results for the thermometer Alarm System
 
 1.   The alarm buzzed when the temperature exceeded 37°c and the exact voltage reading from the voltmeter was 370.45 mV.
@@ -203,7 +190,6 @@ When the person inhaled, the amplitude of the signal that was shown on the oscil
 3.   By blowing on the thermistors of the Nasal Airflow sensors, the temperature increased and thus, the voltage readings also increased. The change in the signal was also shown on the oscilloscope.
 
 # Conclusion
-
 With the correct calculation and the schematic of the complete thermometer alarming system, there were also some issues occurred. As mentioned earlier,the actual values of temperature derived from voltages were a little bit off the theoretical values: as 249.23mV for <25°c has a percentage error of -0.308%, and 370.45mV has a percentage error of 0.122%. These percentage errors were really small and less than 1% that can be considered as excellent results. The possible reason that occurred was due to there wasn’t exact value of resistors in the lab, therefore, similar value was used, and this caused some uncertainly during the experimental measurement.
 
 
