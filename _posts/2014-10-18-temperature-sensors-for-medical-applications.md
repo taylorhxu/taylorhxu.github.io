@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Temperature sensors 
+title: Temperature sensors for medical applications
 date: 2014-10-18 22:43:25
 disqus: y
 ---
