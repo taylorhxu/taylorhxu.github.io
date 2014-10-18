@@ -20,3 +20,17 @@ The shortage of healthcare workers in the UK makes the development on medical de
 
 The aim of this project is to develop a wearable medical monitoring device using LM35 temperature sensor and designed Nasal Airflow sensor to get instant measurement on body temperature, by combining the thermometer alarm system and the respiration sensor system into one complete circuit, that enables either medical professionals or general public in the hospital routinely monitoring the physiological state of an individual’s health.
 
+## Nasal Airflow Sensor
+
+Nasal Airflow sensors are utilised in clinical practice, traditionally airflow monitoring relied on physical examination and history. However, recently tools and medical equipments have been extensively developed that aid a physician in completing a thorough assessment by measuring factors that are directly or indirectly affecting airflow. Many conditions, whether they are physiological or pathological, can affect breathing. So, measuring airflow can be very important in diagnosing and treating a patient.
+
+## LM35 Temperature Sensor
+
+Temperature sensors are used in many diverse applications, one of them being for the use in medical devices. The main purpose is to measure temperature change with the range that is limited within a minimum temperature of about -
+25°c to a maximum of about 200°c.
+LM35 temperature sensor converts temperature to electricity by using substances of various physical properties with temperature variation of the sensor. The output voltage of LM35 temperature sensor has a linear relationship with the Celsius temperature. The voltage output is:
+
+Vout_LM35=10mV/°c x T °c        
+
+!(/images/sensors/sensors-1)
+                                                                        
