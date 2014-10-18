@@ -9,13 +9,13 @@ google_analytics: UA-55488001-1
 links:
   - name:         About
     url:          /about
-  - name:         Email
+  - name:         Contact
     url:          mailto:taylor.h.xu@gmail.com
     external:     true
   - name:         GitHub
     url:          http://github.com/taylorhxu
     external:     true
-  - name:         Photography
+  - name:         Photo blog
     url:          http://taylorhxu.com
     external:     true
   - name:         Twitter
