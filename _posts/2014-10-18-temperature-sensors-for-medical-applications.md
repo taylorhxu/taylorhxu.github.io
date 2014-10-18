@@ -5,13 +5,10 @@ date: 2014-10-18 22:43:25
 disqus: y
 share: y
 ---
-
 This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. The temperature sensors in use are precision integrated-circuit temperature sensors that output voltage is linearly proportional to Celsius temperature [1] alongside with thermistors that have relatively rapid response time. The purpose of the laboratory test and circuit design presented here were to demonstrate an excellent and accurate performance of the integrated device with
 two functioning systems built-in, for specified medical monitoring
 purposes.
-
 # Background
-
 The world health report 2006 has estimated there are 57 countries with absolute shortage of healthcare workers. [2] Europe including UK has 16.63 millions doctors nurses and midwives, which has health workers rate of 18.9 per 1000 population. [3] The Health Care Workforce in Europe suggested that there were only 346,537 qualified healthcare workers in the UK, [4] compared to the total population in the United Kingdom of 59.2 million people in 2002. [5]
 
 “If chemical reactions are to continue life-sustaining rates, normal body temperature must be maintained. As body temperature drops below 37 degrees Celsius, metabolic reactions become slower and slower, and finally stop. When body temperature is too high, chemical reactions occur at a frantic pace and body proteins has their characteristic shape and stop functioning. At either extreme, death occurs. The activity of the muscular system generates most body heat.” [6]
@@ -20,13 +17,9 @@ Maintenance and measurement of temperature of patients are fundamental and natur
 The shortage of healthcare workers in the UK makes the development on medical devices that can be used for body temperature measurement in the hospital and other organisations is crucial, as fewer members of staff are available.
 
 The aim of this project is to develop a wearable medical monitoring device using LM35 temperature sensor and designed Nasal Airflow sensor to get instant measurement on body temperature, by combining the thermometer alarm system and the respiration sensor system into one complete circuit, that enables either medical professionals or general public in the hospital routinely monitoring the physiological state of an individual’s health.
-
 ## Nasal Airflow Sensor
-
 Nasal Airflow sensors are utilised in clinical practice, traditionally airflow monitoring relied on physical examination and history. However, recently tools and medical equipments have been extensively developed that aid a physician in completing a thorough assessment by measuring factors that are directly or indirectly affecting airflow. Many conditions, whether they are physiological or pathological, can affect breathing. So, measuring airflow can be very important in diagnosing and treating a patient.
-
 ## LM35 Temperature Sensor
-
 Temperature sensors are used in many diverse applications, one of them being for the use in medical devices. The main purpose is to measure temperature change with the range that is limited within a minimum temperature of about -
 25°c to a maximum of about 200°c.
 LM35 temperature sensor converts temperature to electricity by using substances of various physical properties with temperature variation of the sensor. The output voltage of LM35 temperature sensor has a linear relationship with the Celsius temperature. The voltage output is:
@@ -34,7 +27,6 @@ LM35 temperature sensor converts temperature to electricity by using substances 
 Vout_LM35=10mV/°c x T °c        
 
 The LM35 sensor used in this project came in TO-220 packaging. This sensor is sensitive to a small change in temperature, which gives accurate measurements.
-
 ## Diode
 A diode is a discrete component that allows current to flow in one direction only. It is a polarised component with two leads, called the cathode and the anode. The cathode is normally marked with a silver or coloured band or the symbol '-'.
 If the anode is connected to a higher voltage than the cathode, current will flow from anode to cathode. This is called forward bias.
@@ -45,7 +37,6 @@ The operational amplifier chip used in this project was TL084; it has 4 channels
 During this project, different channels were used in order to integrate different circuits together.
 ## Thermistor 
 The thermistors used are designed with a semiconductor material, which internally produces a level of resistivity,which is very sensitive and responsive to temperature. Unlike other temperature related devices, the resistance of thermistors decreases as temperature increases. Therefore it is easy to predict the resistance change when the temperature adjusts, known as a Negative Temperature Co-efficient (NTC) thermistor.
-
 # Procedure
 ## Development of the thermometer alarm system - Development and evaluation of the Alarm circuit for T>37°c
 ### Theory
@@ -101,7 +92,6 @@ The project was to design a very simple nasal airflow sensor, using limited comp
 A suitable and cost effective design was carried out carefully, which is suitable for pediatric patients as well as adults. Considerations where made regarding how comfortable the devise was to wear, and how well it was with staying in place – so that constant readjustments where not needed, and a design where the airflow sensor could be taken on and off patients, with minimum ease, was wanted and finally produced and developed.
 
 ### Development of Sensing Elements
-
 Thermistors are the sensing element of the airflow-monitoring device. Thermistors are inexpensive, readily available and easy to use and adaptable.
 
 The Airflow sensor requires two thermistors, one for each nostril. Because each thermistor was connected to extension wires the two legs of the thermistor needed to be isolated from one another, to achieve this shrink-wrap was used. Shrink wrap or also known as shrink film, is a special material made up of polymer or plastic film, which when applied with heat, it shrinks tightly over whatever it is covering.
@@ -111,9 +101,7 @@ A hot air gun is a power tool useful for many types of repairs; the hot air gun 
 A small segment of plastic tubing was used to attach both thermistors together under the nose, so that the ends of each thermistor stuck out slightly and rested directly below each nostril.  Each thermistor was carefully measured and it fitted properly and where tightly secured by the plastic tubing.  Once placed inside the extensions where bent at 45 degree angles and then hooped around ears. Comparisons for the placement of the thermistors where made between allmembers of the group, making the device suitable for all group members to wear. Due to the flexible nature of the plastic tube, the thermistors can be adjusted to fit any patient, which would eliminate any discomfort compared to other devices that would be ill fitted.
 
 Incorporating a pair of glasses to the design means that the thermistors can be worn and taken off with the same level of ease as just wearing a pair of glasses. There is no problem with wires or chance of the wires being tangled causing difficulty for the patient to manage. Instead of using a mask, which could affect the airway reading by not allowing sufficient air exchange, the glasses leave the face free which results in a more accurate results as well as also allowing the patient to communicate freely.
-
 ## Development and Evaluation of the Wheatstone bridge
-
 ### Theory
 The thermistor of the Nasal Airflow changed resistance with the difference in temperature between inhaled and exhaled air. The Wheatstone bridge converted the change in resistance into a change in voltage [13].
 
@@ -121,7 +109,6 @@ If the 4 resistors of the Wheatstone bridge are equal, the output voltage is Zer
 
 V1 = (Vs) RT1/ (R1 + RT1)                                                                                V2 = (Vs) RT2/ (R2 + RT2)                                                                                
 Vout = V1 – V2 = Vs [RT1/ (R1 + RT1)  – (Vs)* RT2/ (R2 + RT2)]                
-
 ### Experiment 
 Firstly, the two resistances of the two Nasal Airflow sensors were checked at the room temperature which was 25°c to 27°c using the ohmmeter. RT1 = 9.5 KΩ and RT2 = 9.8 KΩ
 
@@ -133,7 +120,6 @@ Vout = V1- V2 = 4.52V- 4.45V = Vout = 0.07 V
 However, the measured Vout was between 0.032V to 0.048V, which was due to that room temperature varied during the measurement and the resistances uncertainty (± 5%).
 
 ## Development and Evaluation of the Differential Amplifier
-
 ### Theory
 The differential amplifier was used to amplify the measured Vout from the Wheatstone bridge-which was very small- so that the Vout signal would have high amplitude. It was configured using a selection of resistors and the operational amplifier (Op-amp)[13].
 
@@ -141,7 +127,6 @@ The amplified voltage depended on the V1 and V2 from the Wheatstone bridge, R1
 and R2 as shown in the next equation:
 
 Vout = (V2 – V1) R2/R1                    
-
 ### Experiment 
 Firstly, four resistors were chosen to build the above differential amplifier to amplify the signal by 10 as shown:
 R2= 10KΩ,
@@ -154,14 +139,11 @@ However, amplified signal had low amplitude, so it was amplified again by 390 in
 R2=3.9KΩ, Vin = 0.048V and Vout= 18.72 V
 4.8 = 0.048*10/ R1
 R1= 10 Ω
-
 ## Development and Evaluation of the Filter
-
 ### Filter                                                                                                                 
 The respiration signal lies between frequency ranges of 0.1 Hz to 10 Hz. Therefore, an RC low-pass filter was designed to remove the unwanted noise of the output of the differential amplifier signal that was above 10 Hz [13].
 The cut-off frequency that we wanted the filter to pass was calculated from the
 next equation:
-
 
 ƒc = 1/2πRC                                                                                                         
 
@@ -171,24 +153,19 @@ The output of the circuit was observed when the person breathed normally and it 
 
 Breath rate: (1.5/5)*60 = 18 breathe per minute
 Frequency: 1/3 = 0.333 Hz
-
 #  Results 
 ## The results for the thermometer Alarm System
-
 1.   The alarm buzzed when the temperature exceeded 37°c and the exact voltage reading from the voltmeter was 370.45 mV.
 2.   The alarm buzzed when the temperature was below 25°c and the exact
 voltage reading from the voltmeter was 249.23 mV.
 3.   The two circuits worked simultaneously - when T > 37°c or T<25°c, the final circuit had one sensor, one buzzer and two op-amps with a mechanism that allowed both circuits to work as a one system.
-
 ## The results for the Respiration Sensor System
-
 1.   A member of the group volunteered to put the nasal airflow sensors on.
 When the person inhaled, the amplitude of the signal that was shown on the oscilloscope was low. Meanwhile, the exhalation showed a high amplitude and the frequency varied with the respiration rate.
 
 2.   The filter reduced the amount of noise that contaminated the output signal by passing the low frequency signals and attenuating signals with frequencies higher than the cut-off frequency (10 Hz).
 
 3.   By blowing on the thermistors of the Nasal Airflow sensors, the temperature increased and thus, the voltage readings also increased. The change in the signal was also shown on the oscilloscope.
-
 # Conclusion
 With the correct calculation and the schematic of the complete thermometer alarming system, there were also some issues occurred. As mentioned earlier,the actual values of temperature derived from voltages were a little bit off the theoretical values: as 249.23mV for <25°c has a percentage error of -0.308%, and 370.45mV has a percentage error of 0.122%. These percentage errors were really small and less than 1% that can be considered as excellent results. The possible reason that occurred was due to there wasn’t exact value of resistors in the lab, therefore, similar value was used, and this caused some uncertainly during the experimental measurement.
 
