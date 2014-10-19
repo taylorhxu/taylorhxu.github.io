@@ -34,7 +34,7 @@ The LM35 sensor used in this project came in TO-220 packaging. This sensor is se
 A diode is a discrete component that allows current to flow in one direction only. It is a polarised component with two leads, called the cathode and the anode. The cathode is normally marked with a silver or coloured band or the symbol '-'.
 If the anode is connected to a higher voltage than the cathode, current will flow from anode to cathode. This is called forward bias. If the diode is put in the circuit back to front, so that the voltage at the cathode is higher than the voltage at the anode, the diode will not conduct electricity. This is called reverse bias [12].
 
-![diode](/images/sensors/sensor-3.jpg)
+![diode](/images/sensors/sensors-3.jpg)
 
 ## Operational Amplifier 
 The operational amplifier chip used in this project was TL084; it has 4 channels and 14 pins. [8] The operational amplifier produces an output voltage that is the difference between the two input terminals.
