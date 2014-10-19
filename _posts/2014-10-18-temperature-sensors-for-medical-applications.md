@@ -183,7 +183,7 @@ next equation:
 
 It consisted of a resistor of 68 KΩ and a capacitor of 220 nF.  
 
-![16](images/sensors/sensors-16.jpg)
+![16](/images/sensors/sensors-16.jpg)
 
 The output of the circuit was observed when the person breathed normally and it was one and half complete cycles in five seconds which was calculated as below:
 
