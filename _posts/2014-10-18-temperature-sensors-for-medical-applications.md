@@ -24,7 +24,7 @@ LM35 temperature sensor converts temperature to electricity by using substances 
 
 Vout_LM35=10mV/°c x T °c        
 
-[LM35](/images/sensors/sensors-1.jpg)
+![LM35](/images/sensors/sensors-1.jpg)
 The LM35 sensor used in this project came in TO-220 packaging. This sensor is sensitive to a small change in temperature, which gives accurate measurements.
 ## Diode
 A diode is a discrete component that allows current to flow in one direction only. It is a polarised component with two leads, called the cathode and the anode. The cathode is normally marked with a silver or coloured band or the symbol '-'.
