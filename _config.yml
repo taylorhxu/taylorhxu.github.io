@@ -1,4 +1,4 @@
-title:            TAYLEGRAM by Taylor Xu @taylorhxu
+title:            TAYLEGRAM by Taylor Xu
 description:      A Jekyll blog by Taylor.
 url:              taylorhxu.co.uk
 signoff:          Taylor Xu
@@ -18,7 +18,7 @@ links:
   - name:         Photo blog
     url:          http://taylorhxu.com
     external:     true
-  - name:         Twitter
+  - name:         @taylorhxu
     url :         http://twitter.com/taylorhxu
     external:     true
 highlighter:      pygments
