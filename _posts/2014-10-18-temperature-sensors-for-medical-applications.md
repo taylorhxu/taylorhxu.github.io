@@ -204,7 +204,7 @@ When the person inhaled, the amplitude of the signal that was shown on the oscil
 3.   By blowing on the thermistors of the Nasal Airflow sensors, the temperature increased and thus, the voltage readings also increased. The change in the signal was also shown on the oscilloscope.
 # Conclusion
 With the correct calculation and the schematic of the complete thermometer alarming system, there were also some issues occurred. As mentioned earlier,the actual values of temperature derived from voltages were a little bit off the theoretical values: as 249.23mV for <25°c has a percentage error of -0.308%, and 370.45mV has a percentage error of 0.122%. These percentage errors were really small and less than 1% that can be considered as excellent results. The possible reason that occurred was due to there wasn’t exact value of resistors in the lab, therefore, similar value was used, and this caused some uncertainly during the experimental measurement.
-## Reference
+# Reference
 1. LM35 Precision Centigrade Temperature Sensors, TEXAS INSTRUMENTS.
 2. The World Health Report 2006: Working Together For Health. Geneva: WHO;2006.
 3. Shortage of Healthcare Workers in Developing Countries - Africa, Ethnicity & Disease, Volume 19, Spring 2009.
