@@ -1,20 +1,17 @@
----
-layout: default
-title: Taylor Xu - Blog
-category: blog
----
-
-<section class="inner">
-  <h1>Blog</h1>
-  <p>My thoughts on Technology, Engineering and Photography.</p>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="date">{{ post.date | date_to_string }}</span>
-        <strong><a href="{{ post.url }}">{{ post.title }}</a></strong>
-        <br />
-        <span class="description">{{ post.description }}</span>
-      </li>
-    {% endfor %}
-  </ul>
-</section>
+<html>
+  <head>
+    <meta content='{{ site.title }}' property='og:title' />
+    <title>{{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id='container'>
+      {% include links.html %}
+      <div class="content">
+        {{ content }}
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

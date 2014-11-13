@@ -1,16 +1,29 @@
-title: Taylor Xu
+title:            Taylor Xu
+description:      A Jekyll blog by Taylor.
+url:              #
+signoff:          Taylor Xu
+disqus_shortname: taylorhxugj
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: UA-55488001-1
 
-# Overriden by GitHub Pages: https://help.github.com/articles/using-jekyll-with-pages#configuring-jekyll
-safe: true
-lsi: false
-markdown: redcarpet
+links:
+  - name:         About
+    url:          /about
+  - name:         Contact
+    url:          mailto:taylor.h.xu@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/taylorhxu
+    external:     true
+  - name:         Photo blog
+    url:          http://taylorhxu.com
+    external:     true
+  - name:         Twitter
+    url :         http://twitter.com/taylorhxu
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
-
-# Keybase
-include:
-  - .well-known
-
-# White-listed plugins
-gems:
-  - jekyll-sitemap
+  extensions:
+    - smart

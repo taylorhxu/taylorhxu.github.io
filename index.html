@@ -1,21 +1,12 @@
 ---
-layout: default
-category: about
-title: Taylor Xu
-description:
+layout: index
 ---
 
-<section class="about-me">
-<h1>About Taylor</h1>
-  <p>
-    Taylor Xu is a biomedical engineering student, tech enthusiast, music festival goer and former London 2012 cast.
-  </p>
-
-  <p>
-    Her main academic interest lies in the field of computational
-    neuroscience and artificial intelligence applications for improved
-    software engineering, and also she enjoys photography, travelling,
-    foreign language learning, liberal arts and performing arts.
-  </p>
-
-</section>
+<ul class="posts">
+  {% for post in site.posts %}
+  <li>
+    <small class="datetime muted" data-time="{{ post.date }}">{{ post.date | date_to_string }} </small>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
