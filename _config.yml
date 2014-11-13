@@ -1,29 +1,6 @@
-title:            TAYLEGRAM by Taylor Xu
-description:      A Jekyll blog by Taylor.
-url:              taylorhxu.co.uk
-signoff:          Taylor Xu
-disqus_shortname: taylorhxugj
-facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-55488001-1
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://yihui.name/en
+author: Yihui Xie
+pygments: true
 
-links:
-  - name:         About
-    url:          /about
-  - name:         Contact
-    url:          mailto:taylor.h.xu@gmail.com
-    external:     true
-  - name:         GitHub
-    url:          http://github.com/taylorhxu
-    external:     true
-  - name:         Photo blog
-    url:          http://taylorhxu.com
-    external:     true
-  - name:         Twitter
-    url :         http://twitter.com/taylorhxu
-    external:     true
-highlighter:      pygments
-permalink:        pretty
-markdown:         redcarpet
-redcarpet:
-  extensions:
-    - smart
