@@ -43,10 +43,10 @@ Now let’s take a look at [forms by Brace.io](http://forms.brace.io/)
 
 ![braceio.png](/images/braceio.png)
 
-The Editing interface reminds me a little bit about tumblr. And you can add more text inputs and even *file submission*, the function that I really need, to the form.
+The Editing interface reminds me a little bit about tumblr. And you can add more text inputs and even **file submission**, the function that I really need.
 
 This tool is provided free of charge with an upper limit of 1000 emails per month, if you need more, you can contact the team in due course, simply by email to: team@brace.io
 
 Interested?
 
-[Create your own form here](http://brace.io/sites/build/anon?template=formspree-example.brace.io)
+[Create your own form here!](http://brace.io/sites/build/anon?template=formspree-example.brace.io)
