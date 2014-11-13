@@ -1,12 +1,5 @@
-<div class="links">
-  <p> <a href="/">Blog</a>
-
-    | <a href="/about/">About</a>
-<!--    | <a href="https://github.com/taiyun">Source</a>  -->
-
-    {% if site.server %}
-    | <a href="/drafts/">drafts</a>
-    {% endif %}
-<!--    | <a href="http://feeds.feedburner.com/taiyun">rss</a>       -->
-  </p>
+<div class="block">
+  {% for link in site.links %}
+    <a target="{% if link.external %}_blank{% else %}_top{% endif %}" class="main" href="{{ link.url }}">{{ link.name }}</a>
+  {% endfor %}
 </div>
