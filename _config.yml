@@ -1,6 +1,6 @@
-title:            TAYLEGRAM by Taylor Xu
+title:            Taylor Xu
 description:      A Jekyll blog by Taylor.
-url:              taylorhxu.co.uk
+url:              #
 signoff:          Taylor Xu
 disqus_shortname: taylorhxugj
 facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
