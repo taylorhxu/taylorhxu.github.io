@@ -7,6 +7,8 @@ Taylor Xu is a biomedical engineering student, tech enthusiast, music festival g
 
 Her main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved software engineering, and also she enjoys photography, travelling, foreign languages.
 
+She has specific interests in statistics, data analysis, algorithm and machine learning.
+
 Currently, She is:
 
 - studying biomedical engineering with a specific interest in signal processing and neuroscience.
