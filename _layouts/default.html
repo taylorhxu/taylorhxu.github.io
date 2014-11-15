@@ -19,12 +19,13 @@
 
   <body>
     <header>
-      <a id="logo" href="/favicon.ico"></a>
+      <a id="shortcut icon" href="/favicon.ico"></a>
       <nav>
+        <a href="/about" class="{% if page.category == 'about' %} selected {% endif %}">About</a>
         <a href="/" class="{% if page.category == 'blog' %} selected {% endif %}">Blog</a>
         <a href="/photos" class="{% if page.category == 'photos' %} selected {% endif %}">Photo</a>
+        <a href="/projects" class="{% if page.category == 'projects' %} selected {% endif %}">Projects</a>
         <a href="/reviews" class="{% if page.category == 'reviews' %} selected{% endif %}">Reviews</a>
-        <a href="/about" class="{% if page.category == 'about' %} selected {% endif %}">About</a>
       </nav>
     </header>
 
