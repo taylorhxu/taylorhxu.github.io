@@ -1,11 +1,10 @@
 ---
 layout: post
-title: Welcome, one and all
+title: Moving over from WordPress
 date: 2013-10-14 22:43:25
-disqus: y
-share: y
 ---
 ### Welcome!
+Welcome, one and all.
 First of all, welcome to my brand new site. This so-called blog is built with Jekyll and hosted on Github. 
 
 ### Moving over from WordPress
