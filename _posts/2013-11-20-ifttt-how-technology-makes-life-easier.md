@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IFTTT: how technology makes life easier
-date: 2013-11-20 19:43:25
+date: 2013–11-20 09:43:25
 ---
 Most of you may have all of the following accounts: Facebook, Twitter, Foursquare, Instagram, Dropbox and Skydrive. But are you tired of updating all these accounts manually? Even sometimes accidentally post something should be on that specific account? Or you are looking for a better way to connect with your friends but not spending quite as much time? Here comes the solution: [ifttt.com](http://ifttt.com/)
 
