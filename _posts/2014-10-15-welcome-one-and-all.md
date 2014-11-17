@@ -20,8 +20,8 @@ WordPress is great, and it has been working wonderfully, but it is just not for 
 
 2. Jekyll allows [markdown](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85). I am writing this post using markdown, and I love markdown for two reasons:
 
-— Using plain text lets you concentrate on the words, rather than their formatting
-— It’s one of the most portable formats out there
+1) Using plain text lets you concentrate on the words, rather than their formatting
+2) It’s one of the most portable formats out there
 
 I know WordPress allows markdown as well (started early 2014, if I remember correctly), but I am just fed up with all those plugins and updates with an error page shown afterwards.
 
