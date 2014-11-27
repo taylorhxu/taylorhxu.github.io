@@ -8,8 +8,9 @@ Medium’s time to read feature is pleasing. It’s a piece of UX so obvious it 
 It’s a natural user action to glance at the scrollbar to check the page length. Placing the time to read component in the top right corner provides great usability.
 
 Like many others I was keen to copy this in Jekyll. To mimic Medium we want to display something human friendly. Think “x minutes” rather than “y seconds”. It’s obvious that the solution looks like 
-	var timeToRead = Math.round( content.length() /	avgWordsPerMinute ) 
-	
+`
+var timeToRead = Math.round( content.length() /avgWordsPerMinute ) 
+`
 (but in Ruby - I’m thinking in JS at the moment), but those of us looking to take advantage of hosting on Github Pages run into the problem that it prevents the use of any plugins. We can use the Liquid templating language, but the Liquid filter divided_by has the slightly odd behaviour of returning the integer part of the result (essentially the floor), so lateral thinking is required.
 
 My solution is to deal with the lower word count cases explicitly, then not care once we get above a certain threshold. Above this I assume the variance in reading speed trumps any inaccuracy introduced by taking the floor rather than rounding to the nearest minute. Wikipedia suggests aproofreading speed on screen of 180 wpm, so we end up with:
