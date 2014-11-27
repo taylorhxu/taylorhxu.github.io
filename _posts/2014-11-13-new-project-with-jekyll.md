@@ -29,13 +29,11 @@ And I don’t need a database for my contact form. This is just perfect.
 
 I just need to open your text editor, and paste the following code: 
 
-`
-<form action="//forms.brace.io/you@email.com">
-  <input type="email" name="_replyto">
-  <textarea name="body">
-  <input type="submit" value="Send">
-</form>
-`
+	<form action="//forms.brace.io/you@email.com">
+ 	<input type="email" name="_replyto">
+	<textarea name="body">
+	<input type="submit" value="Send">	
+	</form>
 
 Simply change the email address to my email address. And it’s ready to go!
 
