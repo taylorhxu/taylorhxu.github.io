@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Medium inspired reading time estimate in Jekyll
-date: 2014-11-27 19:43:25
+date: 2014-11-27 09:43:25
 ---
 Medium’s time to read feature is pleasing. It’s a piece of UX so obvious it is hard to see why someone didn’t think of it before. That’s what makes it so brilliant. A more subtle observation, which Matt Swanson makes in the link above, is that the on-page positioning is also clever. 
 
