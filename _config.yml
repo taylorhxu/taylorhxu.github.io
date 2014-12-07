@@ -10,8 +10,8 @@ relative_permalinks: true
 
 # Setup
 title:               Taylor Xu
-tagline:             Technologist.
-description:         Engineeing, technology and photography.
+tagline:             #
+description:         Engineering, technology and photography.
 url:                 #
 baseurl:             /
 paginate:            2
