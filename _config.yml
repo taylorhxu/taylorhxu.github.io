@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Taylor Xu
-tagline:             #
-description:         Biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 drumming cast.
+title:               Taylor H. Xu
+tagline:             Technology enthusiast
+description:         Biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast.
 url:                 #
 baseurl:             /
 paginate:            2
