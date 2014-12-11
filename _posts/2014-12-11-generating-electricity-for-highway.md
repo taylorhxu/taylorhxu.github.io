@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Generating electricity for highway lights using transportation pressure on road humps.
+title: Generating electricity for highway lights using transportation pressure on road humps
 date: 2014-12-11 19:43:25
 ---
 ![1](/images/shell/1.jpg)
 
 As United Nation reported recently, carbon dioxide emissions must be reduced significantly by second half of century to prevent climate disaster. 
 
-In developing countries, most of the countries are generating electricity from burning fuels, such as coal. According to the US Energy Information Administration, on average, there are 211.1 Lbs of CO2 per Million btu [1]. The issue we are facing is that the power shortage in developing countries with the large amount of carbon dioxide is produced per kilowatt-hour when generating electricity with fossil fuels.
+In developing countries, most of the countries are generating electricity from burning fuels, such as coal. According to the US Energy Information Administration, on average, there are 211.1 lbs of CO2 per Million btu. The issue we are facing is that the power shortage in developing countries with the large amount of carbon dioxide is produced per kilowatt-hour when generating electricity with fossil fuels.
 
 Carbon dioxide is widely known as the greenhouse gas, and it is causing serious climate problems. For reduction of carbon dioxide emission, an alternative way of generating electricity is needed. 
 
@@ -32,4 +32,3 @@ This solution is easily achievable as in developing countries, highways are the 
 
 At last, not only the developing countries could use this method to generate electricity and reduce carbon dioxide emission, recently UK has reported possible power shortage during the winter, in fact, all the countries in the world could start using this method and slow down the global warming, prevent natural disaster caused by such.
 
-[1] http://www.eia.gov/tools/faqs/faq.cfm?id=74&t=11
