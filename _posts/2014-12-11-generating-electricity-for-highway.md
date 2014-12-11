@@ -19,12 +19,12 @@ The detailed process is outlined as follows:
 
 ![2](/images/shell/2.png)
 
-1) Running vehicles passing the hump, pressure levers under the humps are being pressurised, mechanical gear will rotate
-2) Flywheel rotates 
-3) Kinetic energy is accumulated and stored 
-4) Stored kinetic energy forces electric generator to rotate
-5) The rotation of coil and generated electricity are stored in rechargeable batteries 
-6) Batteries are directly linked to the street lamps
+-  Running vehicles passing the hump, pressure levers under the humps are being pressurised, mechanical gear will rotate
+-  Flywheel rotates 
+-  Kinetic energy is accumulated and stored 
+-  Stored kinetic energy forces electric generator to rotate
+-  The rotation of coil and generated electricity are stored in rechargeable batteries 
+-  Batteries are directly linked to the street lamps
 
 This solution is easily achievable as in developing countries, highways are the main transportation route, therefore, there will be a large number of travel flow on those highways, considering longer direct sunlights in most of the developing countries, the electricity generated will be more than enough for maximum 8 hours of lighting. Also, highway maintenance happens regularly, hence replacing the existing humps by special designed humps is also doable. 
 
