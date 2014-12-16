@@ -2,7 +2,7 @@
 layout: page
 title: Goodreads
 ---
-	<style>
+	<iframe><style>
 		#customize-list{
 			float:left;
 			margin-left:20px;
@@ -43,3 +43,4 @@ title: Goodreads
             <a href="https://www.goodreads.com/"><img alt="Goodreads: Book reviews, recommendations, and discussion" src="https://www.goodreads.com/images/layout/goodreads_logo_140.png" /></a>
           </div>
         </div>
+</iframe>
