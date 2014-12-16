@@ -2,7 +2,8 @@
 layout: page
 title: Goodreads
 ---
-	<iframe><style>
+	<iframe>
+<style>
 		#customize-list{
 			float:left;
 			margin-left:20px;
