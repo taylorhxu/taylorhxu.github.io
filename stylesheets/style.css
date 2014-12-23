@@ -265,7 +265,7 @@ section.post {
     border-top-right-radius: 3px; }
 
 section.post, section > p {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.6em; }
   section.post *, section > p * {
     max-width: 100%; }
@@ -294,7 +294,7 @@ section.post, section > p {
       right: -2px; }
     section.post blockquote:before, section.post blockquote:after, section > p blockquote:before, section > p blockquote:after {
       content: "^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
-      font-size: 24px;
+      font-size: 16px;
       overflow: hidden;
       position: absolute;
       top: 0px;
@@ -324,7 +324,7 @@ pre {
   box-sizing: border-box; }
 
 code {
-  font-size: 13px;
+  font-size: 12px;
   color: #eee;
   background: #39382e;
   padding: 2px 4px 3px;
