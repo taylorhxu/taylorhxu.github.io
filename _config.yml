@@ -1,26 +1,35 @@
-# Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+# Site wide configuration
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+title: Taylor H. Xu
+description:
+logo: # 120x120 px default image used for Twitter summary card
+teaser: # 400x250 px default teaser image used in image archive grid
+locale:
+url:
 
-# Setup
-title:               Taylor H. Xu
-tagline:             Technology enthusiast
-description:         Biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast.
-url:                 #
-baseurl:             /
-paginate:            2
+# Jekyll configuration
 
-# About/contact
-author:
-  name:              Taylor Xu
-  url:               https://twitter.com/taylorhxu
-  email:             taylor.h.xu@gmail.com
+sass:
+    sass_dir: _sass
+    style: compressed
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: pygments
+gems:
+  - jekyll-sitemap
 
-# Custom vars
-version:             1.0.0
+
+# Site owner
+owner: Taylor H. Xu 
+  name: Taylor Xu
+  email:taylorhxu@gmail.com
+  twitter:taylorhxu
+  google:
+    ad-client: 
+    ad-slot: 
+  bio: 
+  avatar: bio-photo.jpg # 160x160 px image for author byline
+disqus-shortname:taylorhxuhj
+
+
+exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
