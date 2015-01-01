@@ -1,9 +1,11 @@
+markdown: rdiscount
+pygments: true
+safe: false
+
 name: Taylor Xu
 description: Biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast
 meta_description: "Technology enthusiast"
 
-markdown: redcarpet
-highlighter: pygments
 logo: false
 paginate: 5
 baseurl: /
@@ -11,5 +13,6 @@ domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
+name:           Rosario's Blog
 url:            'blog url'
 author:         'Taylor Xu'

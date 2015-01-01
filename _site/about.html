@@ -5,14 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="google-site-verification" content="E5QWjEt__JKMGX4N_H_MlsBrj6ul7FA34r6hwd-0GhY" />
 
-    {% if page.title %}
-    <title>{{ page.title }} - {{ site.name }}</title>
-    {% else %}
-    <title>{{ site.description }} - {{ site.name }}</title>
-    {% endif %}
+    
+    <title>About me - Rosario's Blog</title>
+    
 
 
-    <meta name="description" content="{{site.meta_description}}" />
+    <meta name="description" content="Rosario's Blog. Coding, startups and ideas." />
 
     <meta name="HandheldFriendly" content="True" />
     <meta name="MobileOptimized" content="320" />
@@ -30,12 +28,40 @@
 <body class="home-template">
 
     
-    {{ content }}
+    <main class="content" role="main">
+    <article class="post">
+        <header class="post-header">
+            <a id="blog-logo" href="/">
+                
+                    <span class="blog-title">Rosario's Blog</span>
+                 
+            </a>
+        </header>
+
+        <h1 class="post-title">About me</h1>
+
+        <section class="post-content">
+            <p>The volcano in the main page is the place where I grew up. Now I live in London.</p>
+
+<p>I'm a freelance software developer teaching at <a href="http://coderwave.com">Coderwave</a>.</p>
+
+<p>I develop and maintain <a href="http://roundabout.io">Roundabout.io - London Startup Map</a> and
+<a href="http://codersumo.com">Codersumo</a> a community of coders who like to solve programming puzzles.</p>
+
+<p>I'm <a href="http://twitter.com/_sarhus">@_sarhus</a> on Twitter, and you can reach me
+at <a href="mailto:rosario@roundbout.io">rosario@roundabout.io</a>.</p>
+
+        </section>
+
+    </article>
+
+</main>
+
 
     <footer class="site-footer">
         <a class="subscribe icon-feed" href="/rss.xml"><span class="tooltip">Subscribe!</span></a>
         <div class="inner">
-             <section class="copyright"><a href="{{site.baseurl}}">{{ site.name }}</a> &copy; {{date format="YYYY"}} &bull; All rights reserved.</section>
+             <section class="copyright"><a href="/">Rosario's Blog</a> &copy;  &bull; All rights reserved.</section>
                 <section class="poweredby">Made with Jekyll using <a href="http://github.com/rosario/kasper">Kasper theme</a></section>
              </section>
         </div>
