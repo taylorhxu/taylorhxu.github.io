@@ -16,11 +16,11 @@ archive: 'archive.html'
       {% endif %}
       <h1 class="blog-title">{{ site.name}}</h1>
       <h2 class="blog-description">
-        {{ site.description }}  </h2>
-      <h3 class="page-tab">
+        {{ site.description }}</h2>
+      <h4 class="page-tab">
        {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'> About me </a> {% endif %}
        {% if page.archive %} <a href='{{site.baseurl}}{{ page.archive }}'> Archive </a> {% endif %}
-      </h3>
+     </h4>
     </div>
   </div>
 </header>
