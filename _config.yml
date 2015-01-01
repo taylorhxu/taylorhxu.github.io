@@ -13,6 +13,6 @@ domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 
 # Details for the RSS feed generator
-name:           Rosario's Blog
+name:           Taylor Xu
 url:            'blog url'
 author:         'Taylor Xu'
