@@ -2,10 +2,12 @@
 layout: post
 title: Temperature sensors for medical applications
 date: 2014-10-18 22:43:25
+categories: engineering, biomedical engineering, medical applications, sensors
+excerpt: This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. The temperature sensors in use are precision integrated-circuit temperature sensors that output voltage is linearly proportional to Celsius temperature [1] alongside with thermistors that have relatively rapid response time. The purpose of the laboratory test and circuit design presented here were to demonstrate an excellent and accurate performance of the integrated device with
+two functioning systems built-in, for specified medical monitoring purposes.
 ---
 This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. The temperature sensors in use are precision integrated-circuit temperature sensors that output voltage is linearly proportional to Celsius temperature [1] alongside with thermistors that have relatively rapid response time. The purpose of the laboratory test and circuit design presented here were to demonstrate an excellent and accurate performance of the integrated device with
-two functioning systems built-in, for specified medical monitoring
-purposes.
+two functioning systems built-in, for specified medical monitoring purposes.
 # Background
 The world health report 2006 has estimated there are 57 countries with absolute shortage of healthcare workers. [2] Europe including UK has 16.63 millions doctors nurses and midwives, which has health workers rate of 18.9 per 1000 population. [3] The Health Care Workforce in Europe suggested that there were only 346,537 qualified healthcare workers in the UK, [4] compared to the total population in the United Kingdom of 59.2 million people in 2002. [5]
 
