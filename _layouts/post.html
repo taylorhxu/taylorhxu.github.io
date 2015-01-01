@@ -15,10 +15,10 @@ archive: false
                     <img src="{{site.logo}}" alt="Rosario's Blog" />
                 {% else %}
                     <span class="blog-title">{{ site.name }}</span>
-                {%endif%} 
+                {%endif%}
             </a>
         </header>
-        
+
         <span class="post-meta">
         	<time datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>
         	{% if post.categories %}
@@ -41,7 +41,7 @@ archive: false
     		<ul>
     			{% for post in site.posts %}
     				<li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}">{{ post.title }}</a></li>
-    			{% endfor %}	
+    			{% endfor %}
     		</ul>
         </section>
         {% endif %}
@@ -50,18 +50,15 @@ archive: false
         	<!-- If we want to display author's name and bio -->
             {% if site.author %}
                 <section class="author">
-                	<header> <a href="{{ site.baseurl }}"> <img class="profile" src="/images/profile.png"></a></header>
+                	<header> <a href="{{ site.baseurl }}"> <img class="profile" src="/images/logo.jpg"></a></header>
                 	<article>
                 		<!-- Author Name -->
                     	<h4> {{ site.author }} </h4>
                     	<!-- Author Bio -->
-                    	<p> I'm a software developer, currently teaching <a href="http://coderwave.com">Coderwave</a>. 
-                    		I'm the developer of the <a href="http://roundabout.io"> London Startup Map </a> and 
-                    		 <a href="http://codersumo.com"> Codersumo </a>. I'm <a href="http://twitter.com/_sarhus"> @_sarhus </a> on Twitter.
-                             You can find me on <a href="https://plus.google.com/107675697693587701246?rel=author"> Google+</a>.
+                    	<p> I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast. I'm <a href="http://twitter.com/taylorhxu"> @taylorhxu </a> on Twitter.
                     	</p>
                     </article>
-                </section>                
+                </section>
             {% endif %}
 
             <section class="share">
@@ -79,13 +76,13 @@ archive: false
                     <span class="hidden">Google+</span>
                 </a>
             </section>
-            
+
             {% if page.disqus %}
             <section class="disqus">
             	<div id="disqus_thread"></div>
             	<script type="text/javascript">
 
-            	    var disqus_shortname = 'sarhus'; 
+            	    var disqus_shortname = 'sarhus';
             		var disqus_developer = 0; // developer mode is on
             	    (function() {
             	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -97,13 +94,9 @@ archive: false
             	<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
             </section>
             {% endif %}
-        	
+
         </footer>
 
     </article>
 
 </main>
-
-
-
-
