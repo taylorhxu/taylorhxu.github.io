@@ -1,26 +1,39 @@
-# Dependencies
-markdown:            redcarpet
-highlighter:         pygments
+# Site settings
+title:       Pixyll
+email:       your_email@example.com
+author:      John Otander
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl:     ""
+url:         "http://pixyll.com"
 
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# Google analytics
+google_analytics:
 
-# Setup
-title:               Taylor H. Xu
-tagline:             Technology enthusiast
-description:         Biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast.
-url:                 #
-baseurl:             /
-paginate:            2
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  false
 
-# About/contact
-author:
-  name:              Taylor Xu
-  url:               https://twitter.com/taylorhxu
-  email:             taylor.h.xu@gmail.com
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
 
-# Custom vars
-version:             1.0.0
+# Social icons
+show_social_icons: false
+github_username:
+stackoverflow_id:
+twitter_username:
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
