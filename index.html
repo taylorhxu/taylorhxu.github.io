@@ -17,7 +17,9 @@ archive: 'archive.html'
             <h1 class="blog-title">{{ site.name}}</h1>
             <h2 class="blog-description">
                 {{ site.description }}
+                <br>
                 {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'> About me </a> {% endif %}
+              </br>
                 {% if page.archive %} <a href='{{site.baseurl}}{{ page.archive }}'> Archive </a> {% endif %}
             </h2>
         </div>
