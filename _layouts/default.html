@@ -27,7 +27,7 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 
 </head>
-<body class="home-template">
+<body class="{% if page.post_class %}{{page.post_class}}{% else %}home-template{% endif %}">
 
 
     {{ content }}

@@ -19,4 +19,3 @@ Tweet at [@taylorhxu](http://twitter.com/taylorhxu).
 Connect Taylor on [LinkedIn](http://uk.linkedin.com/in/taylorhxu).
 
 Thank you for stopping by.
-
