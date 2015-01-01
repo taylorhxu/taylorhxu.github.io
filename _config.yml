@@ -3,16 +3,16 @@ pygments: true
 safe: false
 
 name: Taylor Xu
-description: Biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast.
+description: Technology enthusiast.
 meta_description: "Technology enthusiast"
 
 logo: false
 paginate: 5
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
+domain_name: 'http://taylorhxu.com'
 google_analytics: 'UA-55488001-1'
 
 # Details for the RSS feed generator
 name:           Taylor Xu
-url:            'blog url'
+url:            'http://taylorhxu.com'
 author:         'Taylor Xu'
