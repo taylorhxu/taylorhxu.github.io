@@ -15,8 +15,8 @@ Currently, She is:
 - studying biomedical engineering with a specific interest in EEG signal processing and neuroscience.
 - a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer).
 
-Tweet at [@taylorhxu](http://twitter.com/taylorhxu).
+Twitter: [@taylorhxu](http://twitter.com/taylorhxu).
 
-Connect Taylor on [LinkedIn](http://uk.linkedin.com/in/taylorhxu).
+Connect on [LinkedIn](http://uk.linkedin.com/in/taylorhxu).
 
 Thank you for stopping by.
