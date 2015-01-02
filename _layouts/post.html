@@ -28,7 +28,8 @@ archive: false
           {% if page.categories.size > 0 %}
           {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
           {% endif %}
-       	</span><span class="post-meta small">{{ minutes }} minute read</span>
+       	</span>
+        <span class="post-meta small">{{ minutes }} minute read</span>
 
         <h1 class="post-title">{{ page.title }}</h1>
 
