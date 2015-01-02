@@ -1,39 +1,18 @@
-# Site settings
-title:       Taylor Xu
-email:       taylor.h.xu@gmail.com
-author:      Taylor Xu
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "taylorhxu.com"
+markdown: rdiscount
+pygments: true
+safe: false
 
-# Google analytics
-google_analytics:
+name: Taylor Xu
+description: Technology enthusiast.
+meta_description: "Technology enthusiast"
 
-# Optional features
-animated:           true
-show_related_posts: true
-show_post_footers:  true
+logo: false
+paginate: 5
+baseurl: /
+domain_name: 'http://taylorhxu.com'
+google_analytics: 'UA-55488001-1'
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
-
-# Social icons
-show_social_icons: true
-github_username: taylorhxugj
-stackoverflow_id:
-twitter_username: taylorhxu
-google_plus_id:
-linkedin_username: taylorhxu
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Build settings
-markdown:     redcarpet
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     3
-sass:
-  compressed: true
+# Details for the RSS feed generator
+name:           Taylor Xu
+url:            'http://taylorhxu.com'
+author:         'Taylor Xu'
