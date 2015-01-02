@@ -11,7 +11,6 @@ paginate: 5
 baseurl: /
 domain_name: 'http://taylorhxu.com'
 google_analytics: 'UA-55488001-1'
-paginate_per_category: true 
 
 # Details for the RSS feed generator
 name:           Taylor Xu
