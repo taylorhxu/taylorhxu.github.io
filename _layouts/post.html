@@ -20,7 +20,6 @@ archive: false
                 {% else %}
                     <span class="blog-title">{{ site.name }}</span>
                 {%endif%}
-                <span class="post-meta small">{{ minutes }} minute read</span>
             </a>
         </header>
 
@@ -30,6 +29,7 @@ archive: false
           {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
           {% endif %}
        	</span>
+        <span class="post-meta small">{{ minutes }} minute read</span>
 
         <h1 class="post-title">{{ page.title }}</h1>
 
