@@ -1,98 +1,52 @@
 ---
 layout: default
-disqus: true
-archive: false
 ---
 
-<main class="content" role="main">
+{% assign minutes = content | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
 
-    <article class="post">
+<div class="post-header mb2">
+  <h1>{{ page.title }}</h1>
+  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  {% if page.update_date %}
+    <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
+  {% endif %}
+  <span class="post-meta small">{{ minutes }} minute read</span>
+</div>
 
-        <header class="post-header">
-            <a id="blog-logo" href="{{site.baseurl}}">
-                {% if site.logo %}
-                    <img src="{{site.logo}}" alt="Rosario's Blog" />
-                {% else %}
-                    <span class="blog-title">{{ site.name }}</span>
-                {%endif%}
-            </a>
-        </header>
+<article class="post-content">
+  {{ content }}
+</article>
 
-        <span class="post-meta">
-        	<time datetime="{{ page.date | date_to_string }}">{{ page.date | date_to_string }}</time>
-          {% if page.categories.size > 0 %}
-          {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
-          {% endif %}
-       	</span>
+{% if site.show_post_footers %}
+  {% include post_footer.html %}
+{% endif %}
 
-        <h1 class="post-title">{{ page.title }}</h1>
+{% if site.disqus_shortname %}
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname  = '{{ site.disqus_shortname }}';
+    var disqus_identifier = '{{ page.id }}';
 
-        <section class="post-content">
-            {{content}}
-        </section>
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
 
-        {% if page.archive %}
-        <section class="archive">
-        	<h5>Archive</h5>
-    		<ul>
-    			{% for post in site.posts %}
-    				<li><span>{{ post.date | date_to_string }}</span>  <a href="{{ post.url }}">{{ post.title }}</a></li>
-    			{% endfor %}
-    		</ul>
-        </section>
-        {% endif %}
-
-        <footer class="post-footer">
-        	<!-- If we want to display author's name and bio -->
-            {% if site.author %}
-                <section class="author">
-                	<header> <a href="{{ site.baseurl }}"> <img class="profile" src="/images/logo.jpg"></a></header>
-                	<article>
-                		<!-- Author Name -->
-                    	<h4> {{ site.author }} </h4>
-                    	<!-- Author Bio -->
-                    	<p> I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast. Tweet <a href="http://twitter.com/taylorhxu"> @taylorhxu </a>.
-                    	</p>
-                    </article>
-                </section>
-            {% endif %}
-
-            <section class="share">
-                <h4>Share this post</h4>
-                <a class="icon-twitter" href="http://twitter.com/share?text={{page.title}}&url={{site.url}}{{ page.url }}"
-                    onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <span class="hidden">Twitter</span>
-                </a>
-                <a class="icon-facebook" href="https://www.facebook.com/sharer/sharer.php?u={{site.url}}{{page.url}}"
-                    onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <span class="hidden">Facebook</span>
-                </a>
-                <a class="icon-google-plus" href="https://plus.google.com/share?url={{site.url}}{{page.url}}"
-                   onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <span class="hidden">Google+</span>
-                </a>
-            </section>
-
-            {% if page.disqus %}
-            <section class="disqus">
-            	<div id="disqus_thread"></div>
-            	<script type="text/javascript">
-
-            	    var disqus_shortname = 'taylorhxugj';
-            		var disqus_developer = 0; // developer mode is on
-            	    (function() {
-            	        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            	        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-            	        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-            	    })();
-            	</script>
-            	<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            	<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-            </section>
-            {% endif %}
-
-        </footer>
-
-    </article>
-
-</main>
+{% if site.show_related_posts %}
+  <h3 class="related-post-title">Related Posts</h3>
+  {% for post in site.related_posts %}
+    <div class="post ml2">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+        <h4 class="post-title">{{ post.title }}</h4>
+        <p class="post-summary">{{ post.summary }}</p>
+      </a>
+    </div>
+  {% endfor %}
+{% endif %}
