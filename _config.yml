@@ -10,7 +10,7 @@ url:         "http://taylorhxu.com"
 google_analytics: UA-55488001-1
 
 # Optional features
-animated:           true
+animated:           false
 show_related_posts: false
 show_post_footers:  true
 
