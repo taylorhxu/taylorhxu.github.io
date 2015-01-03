@@ -1,8 +1,5 @@
-taylorhxu.github.io
-or
-taylorhxu.com
+taylorhxu.github.io / taylorhxu.com
 ===================
-Taylor H. Xu's website
 # Infomation
 This is my personal site, including all my posts on [Medium.com](https://medium.com/@taylorhxu) and other relevant works.
 
@@ -23,15 +20,7 @@ I am a biomedical engineer, technologist, photography enthusiast, minimalist, co
 - Programming 
 - Personal
 
-In progress:
-### Tags
-- Personal
-- Photography
-- Film Photography
-- Reviews
-- Technology
-- Programming 
-
 ### Other functionality under construction:
 - Tag cloud search page
 - Built-in contact form
+- Tags (personal / photography / film photography / reviews / technology / engineering / programming)
