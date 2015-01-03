@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 markdown: rdiscount
 pygments: true
 safe: false
+=======
+# Site settings
+title:       Taylor Xu
+email:       taylor.h.xu@gmail.com
+author:      Taylor Xu
+description: "I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast."
+baseurl:     ""
+url:         "taylorhxu.com"
+>>>>>>> FETCH_HEAD
 
 name: Taylor Xu
 description: Technology enthusiast.
