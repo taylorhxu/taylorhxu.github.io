@@ -17,5 +17,4 @@ By simply adding the following code into `/_layouts/post.html`
 
 Then add the following to where indication is needed.
 
-```<span class="post-meta small">{{ minutes }} minute read</span> 
-```
+`<span class="post-meta small">{{ minutes }} minute read</span>`
