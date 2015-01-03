@@ -16,8 +16,8 @@ name: Taylor Xu
 description: Technology enthusiast.
 meta_description: "Technology enthusiast"
 
-logo: false
-paginate: 5
+logo: true
+paginate: 3
 baseurl: /
 domain_name: 'http://taylorhxu.com'
 google_analytics: 'UA-55488001-1'
