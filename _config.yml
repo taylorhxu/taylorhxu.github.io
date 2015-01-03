@@ -7,11 +7,11 @@ baseurl:     "http://taylorhxu.com"
 url:         "http://taylorhxu.com"
 
 # Google analytics
-google_analytics:
+google_analytics: UA-55488001-1
 
 # Optional features
 animated:           false
-show_related_posts: false
+show_related_posts: true
 show_post_footers:  true
 
 # Disqus post comments
