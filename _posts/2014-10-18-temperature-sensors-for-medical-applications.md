@@ -2,7 +2,7 @@
 layout: post
 title: Temperature sensors for medical applications
 date: 2014-10-18 22:43:25
-excerpt: This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. 
+summary: This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. 
 ---
 This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. The temperature sensors in use are precision integrated-circuit temperature sensors that output voltage is linearly proportional to Celsius temperature [1] alongside with thermistors that have relatively rapid response time. The purpose of the laboratory test and circuit design presented here were to demonstrate an excellent and accurate performance of the integrated device with
 two functioning systems built-in, for specified medical monitoring purposes.
