@@ -4,6 +4,7 @@ title: Home
 cover: '/images/cover.jpg'
 about: 'about.html'
 archive: 'archive.html'
+contact: 'contact.hmtl'
 ---
 
 <header class="site-head" {% if page.cover %} style="background-image: url({{ page.cover }})"{% endif%}>
@@ -18,7 +19,9 @@ archive: 'archive.html'
       <h2 class="blog-description">
         {{ site.description }}
       </br>
-       {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'>About me</a> {% endif %} &nbsp;{% if page.archive %} <a href='{{site.baseurl}}{{ page.archive }}'>Archive</a> {% endif %}
+       {% if page.about %} <a href='{{site.baseurl}}{{ page.about }}'>About me</a> {% endif %}
+       &nbsp;{% if page.archive %} <a href='{{site.baseurl}}{{ page.archive }}'>Archive</a> {% endif %}
+       &nbsp;{% if page.contact %} <a href='{{site.baseurl}}{{ page.contact }}'>Contact</a> {% endif %}
      </h2>
     </div>
   </div>
