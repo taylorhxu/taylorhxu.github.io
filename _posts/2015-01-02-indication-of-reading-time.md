@@ -9,7 +9,8 @@ excerpt: Indication of reading time
 
 By simply adding the following code into `/_layouts/post.html`
 
-```{% assign minutes = content | number_of_words | divided_by: 180 %}
+```
+{% assign minutes = content | number_of_words | divided_by: 180 %}
 {% if minutes == 0 %}
 {% assign minutes = 1 %}
 {% endif %} 
@@ -27,5 +28,6 @@ Here is an example that how I use the indication of reading time along with my `
           {% if page.categories.size > 0 %}
           {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
           {% endif %}
-        </span><div align="left"><span class="post-meta small">{{ minutes }} minute read</span></div>
+        </span>
+<span class="post-meta small">{{ minutes }} minute read</span>
 ```
