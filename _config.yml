@@ -1,10 +1,10 @@
 # Site settings
 title:       Taylor Xu
-email:       your_email@example.com
+email:       taylor.h.xu@gmail.com
 author:      Taylor Xu
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         ""
+description: "I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast."
+baseurl:     "taylorhxu.com"
+url:         "taylorhxu.com"
 
 # Google analytics
 google_analytics:
@@ -16,15 +16,15 @@ show_post_footers:  false
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: taylorhxugj
 
 # Social icons
 show_social_icons: true
 github_username: taylorhxu
 stackoverflow_id:
-twitter_username:
+twitter_username: taylorhxu
 google_plus_id:
-linkedin_username:
+linkedin_username: taylorhxu
 bitcoin_url:
 paypal_url:
 flattr_button:
