@@ -1,16 +1,19 @@
 taylorhxu.github.io
+or
+taylorhxu.com
 ===================
-
+Taylor H. Xu's website
 # Infomation
 This is my personal site, including all my posts on [Medium.com](https://medium.com/@taylorhxu) and other relevant works.
 
 # About me
-I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast. For more detailed info, please visit [about me](/about)
+I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast. For more detailed info, please visit [About Me](http://taylorhxu.com/about)
 
+# Site
 ### Pages
 - Aboue me
 - Archive
-- Photos
+- Photos (in progress)
 
 ### Categories 
 - Engineering
@@ -20,6 +23,7 @@ I am a biomedical engineer, technologist, photography enthusiast, minimalist, co
 - Programming 
 - Personal
 
+In progress:
 ### Tags
 - Personal
 - Photography
@@ -28,3 +32,6 @@ I am a biomedical engineer, technologist, photography enthusiast, minimalist, co
 - Technology
 - Programming 
 
+### Other functionality under construction:
+- Tag cloud search page
+- Built-in contact form
