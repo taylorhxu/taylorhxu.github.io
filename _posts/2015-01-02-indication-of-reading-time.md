@@ -16,7 +16,8 @@ By simply adding the following code into `/_layouts/post.html`
 
 Then add the following to where indication is needed.
 
-```<span class="post-meta small">{{ minutes }} minute read</span>
+```<span class="post-meta small">{{ minutes }} minute read
+</span>
 ```
 
 Here is an example that how I use the indication of reading time along with my `post.html`
@@ -27,5 +28,6 @@ Here is an example that how I use the indication of reading time along with my `
           {{ page.categories | array_to_sentence_string | prepend: 'on ' }}
           {% endif %}
         </span>
-<span class="post-meta small">{{ minutes }} minute read</span>
+<span class="post-meta small">{{ minutes }} minute read
+</span>
 ```
