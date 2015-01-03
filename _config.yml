@@ -1,28 +1,39 @@
-<<<<<<< HEAD
-markdown: rdiscount
-pygments: true
-safe: false
-=======
 # Site settings
 title:       Taylor Xu
 email:       taylor.h.xu@gmail.com
 author:      Taylor Xu
-description: "I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast."
+description: "Technology enthusiast"
 baseurl:     ""
-url:         "taylorhxu.com"
->>>>>>> FETCH_HEAD
+url:         "http://taylorhxu.com"
 
-name: Taylor Xu
-description: Technology enthusiast.
-meta_description: "Technology enthusiast"
+# Google analytics
+google_analytics:
 
-logo: true
-paginate: 3
-baseurl: /
-domain_name: 'http://taylorhxu.com'
-google_analytics: 'UA-55488001-1'
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  true
 
-# Details for the RSS feed generator
-name:           Taylor Xu
-url:            'http://taylorhxu.com'
-author:         'Taylor Xu'
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: taylorhxugj
+
+# Social icons
+show_social_icons: true
+github_username:taylorhxu
+stackoverflow_id:
+twitter_username:taylorhxu
+google_plus_id:
+linkedin_username:taylorhxu
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     3
+sass:
+  compressed: true
