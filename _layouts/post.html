@@ -14,7 +14,7 @@ layout: default
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
   <span class="post-meta small">{{ minutes }} minute read</span>
-  <span class="post-meta smaill">{% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}</span> 
+  <br><span class="post-meta smaill">Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}</span></br> 
 </div>
 
 <article class="post-content">
