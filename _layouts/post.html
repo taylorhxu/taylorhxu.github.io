@@ -16,7 +16,7 @@ layout: default
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
-  <br><span class="post-meta small">{{ minutes }} minute read</span></br>
+  <span class="post-meta small">{{ minutes }} minute read</span>
   <br><span class="post-meta smaill">Tags: {% for tag in page.tags %} <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;"><u>{{ tag }}</u></a> {% if forloop.last != true %} {% endif %} {% endfor %}</span></br> 
 </div>
 
