@@ -19,8 +19,3 @@ I am a biomedical engineer, technologist, photography enthusiast, minimalist, co
 - Thoughts
 - Programming 
 - Personal
-
-### Other functionality under construction:
-- Tag cloud search page
-- Built-in contact form
-- Tags (personal / photography / film photography / reviews / technology / engineering / programming)
