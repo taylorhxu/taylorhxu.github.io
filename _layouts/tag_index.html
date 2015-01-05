@@ -1,0 +1,21 @@
+{% include head.html %}
+
+<div id="articles-box">
+  <div id="articles-container">
+
+  {% assign sep = false %}
+  {% for article in page.articles %}
+
+  {% if sep %}
+    <hr/>
+  {% endif %}
+
+
+
+  {% assign sep = true %}
+  {% endfor %}
+
+  {% include footer.html %}
+
+  </div>
+</div>
