@@ -6,16 +6,9 @@ This is my personal site, including all my posts on [Medium.com](https://medium.
 # About me
 I am a biomedical engineer, technologist, photography enthusiast, minimalist, coffee addicted and former London 2012 cast. For more detailed info, please visit [About Me](http://taylorhxu.com/about)
 
-# Site
-### Pages
-- Aboue me
-- Archive
-- Photos (in progress)
 
-### Categories 
+# Main posting areas
 - Engineering
 - Reviews
-- Photography
-- Thoughts
-- Programming 
+- Tech
 - Personal
