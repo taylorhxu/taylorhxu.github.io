@@ -4,7 +4,7 @@ title: Few thoughts on Inbox by Gmail
 date: 2014-11-17 22:43:25
 categories: Reviews
 summary: Inbox feels analogous to Perl. It’s a collection of clever, interesting, useful features, some of which have never been seen before. And, like Perl, there’s not just one way to use it, which makes it difficult for new users to understand how to use it best.
-tags: gmail inbox 
+tags: gmail inbox google
 ---
 ![inbox](/images/inbox/inbox-1.png)
 

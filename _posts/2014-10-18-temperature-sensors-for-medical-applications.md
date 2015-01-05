@@ -2,7 +2,7 @@
 layout: post
 title: Temperature sensors for medical applications
 date: 2014-10-18 22:43:25
-categories: engineering
+categories: Engineering
 tags: engineering biomedical sensors
 summary: This project provides an experimental development on temperature sensors and thermistors for respiration monitoring and body temperature measurement, using both respiratory sensor system and thermometer alarm system. 
 ---

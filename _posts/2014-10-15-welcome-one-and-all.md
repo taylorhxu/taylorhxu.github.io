@@ -2,7 +2,7 @@
 layout: post
 title: Moving over from WordPress
 date: 2014-10-14 22:43:25
-categories: personal
+categories: Personal
 tags: personal jekyll wordpress github
 ---
 ### Welcome!
