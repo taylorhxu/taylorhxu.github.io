@@ -37,3 +37,6 @@ permalink:    pretty
 paginate:     5
 sass:
   compressed: true
+
+tag_page_layout: tag-index
+tag_page_dir: tags
