@@ -9,7 +9,10 @@ layout: default
 
 <div class="post-header mb2">
   <h3>{{ page.title }}</h3>
-  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span><br>
+  <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
+  {% if page.categories.size > 0 %} 
+  <span class="post-meta">{{ page.categories | array_to_sentence_string | prepend: 'on ' }}</span><br>
+                {% endif %}
   {% if page.update_date %}
     <span class="post-meta">Updated: {{ page.update_date | date: "%b %-d, %Y" }}</span><br>
   {% endif %}
