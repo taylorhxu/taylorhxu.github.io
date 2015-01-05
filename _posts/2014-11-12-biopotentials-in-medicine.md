@@ -2,6 +2,8 @@
 layout: post
 title: Biopotentials in medicine - ECG
 date: 2014-11-12 10:43:25
+categories: Engineering
+tags: engineering biomedical ECG
 summary: Biopotential acquisition is a well-developed science, with the help of designed circuits and protection; ECG has become one of the main biopotential measuring method in the 21st century. By measuring the activities of the heart muscles, ECG is used in diseases diagnosis, and pre-recognition of potential risk of heart disease. Although with small amplitude and sometime noises, with special designed denoising method, filters and amplifiers, a complete ECG graph could be carried out, allows studying on the heart and medical uses.  The use of ECG in medicine and applications and the origin of biopotentials will be discussed. 
 ---
 # Introduction 

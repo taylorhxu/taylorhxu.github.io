@@ -2,6 +2,8 @@
 layout: post
 title: The best Google Reader alternative, Flipboard or Feedly?
 date: 2013-10-11 19:43:25
+categories: Reviews
+tags: google reader rss feedly flipboard
 summary: Flipboard or Feedly? 
 ---
 *Very sad news. Indeed.7 months earlier, on the 13th March 2013, Google announced that Google Reader will be closed on July 1, 2013, due to declining use.*
