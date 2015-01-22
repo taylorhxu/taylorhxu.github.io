@@ -8,5 +8,5 @@ tags: personal, music
 ---
 A stylophone is a hand-held, small analog monophonic instrument, a stylus-operated keyboard. It was invented and first introduced to the public in 1960s, sometimes it’s referred as the world’s first mass-produced synthesiser.
 
-![1](/images/stylo/stylo-1.jpg)
-- (Source: Wikipedia)
+![1](/images/stylo/stylo-1.JPG)
+(Source: Wikipedia)
