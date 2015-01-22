@@ -18,3 +18,4 @@ I found a circuit diagram of an early Stylophone online. So lets take a look. No
 Then later on, there is a more clearly labelled and structured circuit diagram with component layout.
 
 ![3](images/stylo/stylo-3.jpg)
+
