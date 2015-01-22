@@ -17,5 +17,6 @@ I found a circuit diagram of an early Stylophone online. So lets take a look. No
 
 Then later on, there is a more clearly labelled and structured circuit diagram with component layout.
 
-![3](images/stylo/stylo-3.jpg)
+![3](images/stylo/3.jpg)
 
+I have done a temperature sensor for my first year project, there were amplifiers and speakers involved, and from the circuit diagram, there aren’t much of a difference in terms of components used, therefore, I am going to use some of the parts that were used on the temperature sensor.
