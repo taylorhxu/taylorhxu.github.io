@@ -14,3 +14,7 @@ A stylophone is a hand-held, small analog monophonic instrument, a stylus-operat
 I found a circuit diagram of an early Stylophone online. So lets take a look. Note the details of alternative components: resistors in the top left and capacitors in the bottom left.
 
 ![2](/images/stylo/stylo-2.jpg)
+
+Then later on, there is a more clearly labelled and structured circuit diagram with component layout.
+
+![3](images/stylo/stylo-3.jpg)
