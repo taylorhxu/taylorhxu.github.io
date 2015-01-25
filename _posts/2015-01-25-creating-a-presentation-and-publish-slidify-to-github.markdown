@@ -15,7 +15,9 @@ Slidify makes it easy to publish your slide decks online.
 
 Publishing to Github is as easy as running `publish` from inside the slide directory. You need to have`git` installed on your system, create an empty `github` repo and `ssh` access set up for `github`.
 
-`publish(user = "USER", repo = "REPO")`
+```
+publish(user = "USER", repo = "REPO")
+```
 
 
 [slidify.org](http://slidify.org/start.html)
@@ -24,11 +26,11 @@ Publishing to Github is as easy as running `publish` from inside the slide direc
 
 Slidify is not on CRAN as yet and needs to be installed from github. You can use Hadley's devtools package to accomplish this easily. You will also need slidifyLibraries which contains all external libraries required by Slidify.
 
-`require(devtools)`
-
-`install_github("slidify", "ramnathv")`
-
-`install_github("slidifyLibraries", "ramnathv")`
+```
+require(devtools)
+install_github("slidify", "ramnathv")
+install_github("slidifyLibraries", "ramnathv")
+```
 
 ### Load
 
