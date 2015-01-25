@@ -15,7 +15,7 @@ Slidify makes it easy to publish your slide decks online.
 
 Publishing to Github is as easy as running `publish` from inside the slide directory. You need to have`git` installed on your system, create an empty `github` repo and `ssh` access set up for `github`.
 
-```
+```{r}
 publish(user = "USER", repo = "REPO")
 ```
 
@@ -26,11 +26,9 @@ publish(user = "USER", repo = "REPO")
 
 Slidify is not on CRAN as yet and needs to be installed from github. You can use Hadley's devtools package to accomplish this easily. You will also need slidifyLibraries which contains all external libraries required by Slidify.
 
-```
+```{r}
 require(devtools)
-
 install_github("slidify", "ramnathv")
-
 install_github("slidifyLibraries", "ramnathv")
 ```
 
@@ -42,7 +40,7 @@ install_github("slidifyLibraries", "ramnathv")
 
 This step will create a new directory ``mydeck`` and add the necessary scaffolding. If you have git installed, it will initialize it a ``git`` repo, checkout its ``gh-pages`` branch, add and commit everything. Finally, it will open ``index.Rmd`` for you to edit.
 
-```
+```{r}
 author("mydeck")
 ```
 
@@ -52,7 +50,7 @@ Write in RMarkdown, separating slides with a blank line followed by three dashes
 
 ### Generate Deck
 
-```
+```{r}
 slidify("index.Rmd")
 ```
 
@@ -60,7 +58,7 @@ slidify("index.Rmd")
 
 Login with your `github` account and create a new repository. Note that Github will prompt you to add a README file, but just use the defaults so that your repo is empty. You will need to have `git` installed on your computer and be able to push to `github` using `SSH`
 
-```
+```{r}
 # replace USER and REPO with your username and reponame
 publish(user = "USER", repo = "REPO")
 ```
