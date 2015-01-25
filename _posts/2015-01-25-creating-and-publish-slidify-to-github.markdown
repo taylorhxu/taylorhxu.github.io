@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a presentation and publish Slidify presentation to Github 
+title: Creating & publish Slidify presentation to Github 
 date: 2015-01-25 09:33:56
 categories: Programming
 summary: Step by step tutorial on how to create a presentation and publish Slidify presentation to Github with the publish Command. 
