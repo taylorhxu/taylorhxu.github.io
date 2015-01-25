@@ -28,7 +28,9 @@ Slidify is not on CRAN as yet and needs to be installed from github. You can use
 
 ```
 require(devtools)
+
 install_github("slidify", "ramnathv")
+
 install_github("slidifyLibraries", "ramnathv")
 ```
 
