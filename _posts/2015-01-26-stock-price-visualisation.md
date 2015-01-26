@@ -24,6 +24,8 @@ By default, Stock Price Visualisation(SPV) displays the GS(Goldman Sachs) ticker
 
 As we can see here, the date range has been selected to be within 2014-11-13 and 2014-12-20. 
 
+Let's see the R scripts.
+
 ### ui.R
 
 ```{r}
@@ -116,4 +118,6 @@ adjust <- function(data) {
 
 Although I am not a statistician, but by enrolling myself onto the Data science course on Coursera, has been a wonderful experience to me. From an engineer's point of view, learning by doing is the best way of getting things into my head. And also, it is always nice to see my work is actually running. 
 
-To finish, I am having great fun R and I hope I can develop more applications in the near future. As my interest lies in the area of biomedical healthcare related projects, I am hoping to develop another application on that. 
+To finish, I am having great fun R and I hope I can develop more applications in the near future. As my interest lies in the area of biomedical healthcare related projects, I am hoping to develop another application on that. 
+
+All files in the post and more work can be found on my [Github](https://github.com/taylorhxu).
