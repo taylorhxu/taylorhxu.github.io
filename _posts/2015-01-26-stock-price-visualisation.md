@@ -24,7 +24,7 @@ By default, Stock Price Visualisation(SPV) displays the GS(Goldman Sachs) ticker
 
 As we can see here, the date range has been selected to be within 2014-11-13 and 2014-12-20. 
 
-# ui.R
+### ui.R
 
 ```{r}
 	library(shiny)
@@ -59,4 +59,59 @@ shinyUI(fluidPage(
   )
 ))
 ```
+### server.R
 
+```{r}
+	# server.R
+
+library(quantmod)
+source("helpers.R")
+
+shinyServer(function(input, output) {
+
+  output$plot <- renderPlot({
+    data <- getSymbols(input$symb, src = "yahoo", 
+      from = input$dates[1],
+      to = input$dates[2],
+      auto.assign = FALSE)
+                 
+    chartSeries(data, theme = chartTheme("white"), 
+      type = "candles", log.scale = input$log, TA = NULL)
+      addVo() #add volume 
+      addBBands() #add Bollinger Bands 
+      addCCI()
+     
+  })
+  
+})
+```
+
+# helpers.R
+
+```{r}
+	if (!exists(".inflation")) {
+  .inflation <- getSymbols('CPIAUCNS', src = 'FRED', 
+     auto.assign = FALSE)
+}  
+
+# adjusts yahoo finance data with the monthly consumer price index 
+# values provided by the Federal Reserve of St. Louis
+# historical prices are returned in present values 
+adjust <- function(data) {
+             
+      
+      adjust_month <- function(month) {               
+        date <- substr(min(time(month[1]), inf.latest), 1, 7)
+        coredata(month) * latestcpi / .inflation[date][[1]]
+      }
+      
+      adjs <- lapply(months, adjust_month)
+      adj <- do.call("rbind", adjs)
+      axts <- xts(adj, order.by = time(data))
+      axts[ , 5] <- Vo(data)
+      axts
+}
+
+```
+
+
