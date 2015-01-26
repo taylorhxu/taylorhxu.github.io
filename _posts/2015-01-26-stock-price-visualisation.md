@@ -86,7 +86,7 @@ shinyServer(function(input, output) {
 })
 ```
 
-# helpers.R
+### helpers.R
 
 ```{r}
 	if (!exists(".inflation")) {
