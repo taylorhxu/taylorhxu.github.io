@@ -12,7 +12,7 @@ So, the title is clear enough. I am obssessed with wearble activity tracker. Fit
 
 This time last year I bought the fitbit Flex, with a stunning tangerine colour.
 
-![1](/images/wearable/1.png)
+![1](/images/wearable/1.png=100px)
 
 I wore the wristband 24/7 for about 2 months, before irritation rash had developed. I am sorry Fitbit, this was the main reason that I sold the tracker on eBay. Although I have sensitive skin, but Fitbit did have problems with the next product that launched after Flex. 
 
@@ -25,6 +25,8 @@ But please don’t get me wrong, I am not trying to make negetive comments on Fi
 And yes, I did use the word “was”. The excitement went away soon after Jawbone launched its UP3.
 
 As a biomedical engineering student, I am glad to see the bioimpedance technology has been used on a wearable health tracking device. My point of the industry is not developing a wristband that is small, shiny, tracking your heart beat, and your running distance, it is about a wearable device, that is small, shiny, waterproof, and it would give you all sort of data about your body. It is all about you.
+
+![](/images/wearable/3.png)
 
 That is just about right.
 
