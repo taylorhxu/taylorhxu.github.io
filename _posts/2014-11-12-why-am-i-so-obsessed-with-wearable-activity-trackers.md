@@ -12,7 +12,7 @@ So, the title is clear enough. I am obssessed with wearble activity tracker. Fit
 
 This time last year I bought the fitbit Flex, with a stunning tangerine colour.
 
-![1](/images/wearable/1.png =150px)
+![1](/images/wearable/1.png)
 
 I wore the wristband 24/7 for about 2 months, before irritation rash had developed. I am sorry Fitbit, this was the main reason that I sold the tracker on eBay. Although I have sensitive skin, but Fitbit did have problems with the next product that launched after Flex. 
 
