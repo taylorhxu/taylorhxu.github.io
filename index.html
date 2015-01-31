@@ -11,6 +11,7 @@ layout: default
           <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
           <h3 class="h3 post-title">{{ post.title }}</h3>
           <p class="post-summary">{{ post.summary }}</p>
+          <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
         </a>
       </div>
     {% endfor %}
