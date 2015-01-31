@@ -5,22 +5,38 @@ date: 2014-11-17 22:43:25
 categories: Reviews
 summary: Inbox feels analogous to Perl. It’s a collection of clever, interesting, useful features, some of which have never been seen before. And, like Perl, there’s not just one way to use it, which makes it difficult for new users to understand how to use it best.
 tags: gmail inbox google
+
 ---
-![inbox](/images/inbox/inbox-1.png)
 
-First of all I’d like to thank my friend Tommy who invited me. I was very excited that I got the chance to try this app. I have being using this app for about 4 weeks now, I’d like to share my thoughts.
+![](/images/inbox/inbox-1.png)
 
-Before using Inbox by Gmail, I used Mailbox as my main mail client. It gives me a more productive 
+First of all I’d like to thank my friend [Tommy](http://cargocollective.com/technommy) who invited me. I was very excited that I got the chance to try this app. I have being using this app for about 4 weeks now, I’d like to share my thoughts.
+
+Before using Inbox by Gmail, I used [Mailbox](http://www.mailboxapp.com/) as my main mail client. It gives me a more productive approach of dealing with both personal and work-related emails.
+
+After trying Inbox for few weeks, I have noticed that Inbox is designed specifically for people who:
+
+1. uses mail clients as to-do lists
+2. Gmail heavy
+
 ### Inbox is for people who uses mail client as to-do lists.
-GTD. Isn’t that familiar? The methodology of GTD is time management, and task prioritising. 
-1. You get an email, your deadline is next Friday, then you add that to your to-do-list. 
-2. Sometimes you  are busy, you are thinking “I will deal with this issue after lunch” and it is 12:50. Then you can snooze the mail in 1 hour time.
-### Inbox is for Gmail heavy-user
-1. Collecting mails
-2. Categorising mails
-3. Setting a deadline
 
-The concept showed promise. Users were able to more quickly find information related to the projects after time had passed, and they were better organized for the duration of the project. 
+GTD. Isn’t that familiar? The methodology of GTD is *time management, and task prioritising*. 
+
+1. You get an email, your deadline is next Friday, then you add that to your to-do-list, perhaps with an alarm. 
+
+2. Sometimes you  are busy, you are thinking “I will deal with that after lunch” and it is 12:50. Then you can snooze the mail in 1 hour time.
+
+
+### Inbox is for Gmail heavy-user
+
+Keywords are listed here:
+
+1. Collecting 
+2. Categorising 
+3. Deadline
+
+The concept showed promise. Users were able to more quickly find information related to the projects after time had passed, and they were better organised for the duration of the project. 
 
 Google’s adaptation of the idea focuses on managing email rather than discoverability, however. They automatically group messages that fit into one of the Gmail tab categories (along with a few others) into bundles without further user input. Messages in bundles show up grouped in the Inbox as a single entry, which takes up about as much space as an unbundled email. You can mark all of the messages in a Bundle as “Done” (like Archiving in Gmail) with a single click.
 
