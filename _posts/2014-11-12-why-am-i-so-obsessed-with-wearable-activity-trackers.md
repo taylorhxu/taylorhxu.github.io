@@ -34,7 +34,7 @@ That is just about right.
 
 Maybe I am upset about all the Apple Watch, Microsoft Band. Those products are just simple fitness tracker that count your steps, check your heartbeat, and follow you on runs.
 
-But I need MORE. A lot more.
+But I need more. A lot more. I think in the very near future, that Google could work on the healthcare and fitness aspects of wearable devices, perhaps adding more functionalities to Google Glass.
 
 Once my friend sent me a link on How the Napa earthquake affected bay area sleepers posted on Jawbone’s blog, I suddenly felt the urge to get a Jawbone fitness tracker. A company does its analysis based on the data its customers given, psychologically, it creates a good impression.
 
@@ -44,8 +44,6 @@ Maybe I should change the title to “My data obsession”.
 
 There are plenty fitness activity trackers on the market, the logical reason of getting one is that nowadays people just sit in front of their laptops, like what I am doing now, barely exercise. Therefore we needed a high-tech, fashionable wearable device to somehow to promote exercising, and restrain laziness.
 
-Recent years, we go to the gym, because it is what the others do. We love organic food, because it is mainstream. What about wearables? of course. It is getting more and more popular.
+Recent years, we go to the gym, because it is what the others do. We love organic food, because it is fad. What about wearables? Of course. It is getting more and more popular.
 
-But we shouldn’t use them just because it is trendy. We need to use it, for the sake of fitness.
-
-I am off to gym.
+But we shouldn’t use them just because it is trendy. We need to use it, for the sake of fitness. Wearables should give us more detailed analysis on our lifestyle, our sleeping pattern, fitness improvement advices and perhaps, early warning of diseases.
