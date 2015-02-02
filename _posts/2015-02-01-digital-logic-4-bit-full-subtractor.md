@@ -10,8 +10,6 @@ tags: engineering, digital logic, boolean
 
 ### Introduction
 
-![Overall Schematic Diagram of a 4-Bit Full Subtractor](/images/digital_logic/4-bit.png)
-
 This projects involves the designing, simplification and implementation of a fully functioning 4-bit full subtractor, in order to subtract 4-bit binary numbers. 
 
 The process itself was split into three major sections that involved the construction of a 2-bit full subtractor and two 1-bit full subtractors. In order to do this, a truth table that can be used to optimise the number of gates used, through the use of boolean algebra or Karnaugh maps was devised. 
