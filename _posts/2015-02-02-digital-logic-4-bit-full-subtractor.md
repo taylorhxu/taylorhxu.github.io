@@ -1,4 +1,5 @@
 ---
+-
 type: post
 title: Digital Logic: 4-bit full subtractor
 date: 2015-02-01 20:30:32
