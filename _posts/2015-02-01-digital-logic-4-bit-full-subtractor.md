@@ -8,7 +8,7 @@ tags: engineering, digital logic, boolean
 
 ---
 
-![Overall Schematic Diagram of a 4-Bit Full Subtractor!](/images/digital_logic/4-bit.png)
+![Overall Schematic Diagram of a 4-Bit Full Subtractor!](/images/digital_logic/4-bit.png=400x)
 
 ### Introduction
 
