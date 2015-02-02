@@ -8,9 +8,9 @@ tags: engineering, digital logic, boolean
 
 ---
 
-![Overall Schematic Diagram of a 4-Bit Full Subtractor!](/images/digital_logic/4-bit.png)
-
 ### Introduction
+
+![Overall Schematic Diagram of a 4-Bit Full Subtractor](/images/digital_logic/4-bit.png)
 
 This projects involves the designing, simplification and implementation of a fully functioning 4-bit full subtractor, in order to subtract 4-bit binary numbers. 
 
