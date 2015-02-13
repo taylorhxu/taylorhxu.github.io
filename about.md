@@ -17,4 +17,14 @@ Currently, She is:
 - a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer).
 - practising minimalism in all aspects of her life.
 
+Coursera courses completed:
+
+- Critical Thinking in Global Challenges (*The University of Edinburgh*)
+
+- The Language of Hollywood: Storytelling, Sound, and Color (*Wesleyan University*)
+
+- Introduction to Mathematical Philosophy (*Ludwig-Maximilians-Universität München*)
+
+- Developing Data Products (*Johns Hopkins University*)
+
 Thank you for stopping by.
