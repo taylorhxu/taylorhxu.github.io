@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Coursera
-comments: True
 
 ---
 
