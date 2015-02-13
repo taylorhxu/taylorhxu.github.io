@@ -11,13 +11,15 @@ Her main academic interest lies in the field of computational neuroscience & art
 
 She has specific interests in statistics, data analysis, medical informatics, biomaterials, nanotechnology, algorithm and machine learning.
 
-Currently, She is:
+###Currently, She is:
 
 - studying biomedical engineering with a specific interest in EEG bio-signal processing and neuroscience.
 - a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer).
 - practising minimalism in all aspects of her life.
 
-Coursera courses completed:
+###Coursera courses completed:
+
+View certifications [here](/coursera).
 
 - Critical Thinking in Global Challenges (*The University of Edinburgh*)
 
