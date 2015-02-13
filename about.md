@@ -19,7 +19,7 @@ She has specific interests in statistics, data analysis, medical informatics, bi
 
 ###Coursera courses completed:
 
-View certifications [here](/coursera).
+View certifications [here](https://github.com/taylorhxu/taylorhxu.github.io/tree/master/coursera).
 
 - Critical Thinking in Global Challenges (*The University of Edinburgh*)
 
