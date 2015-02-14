@@ -102,4 +102,5 @@ int main(void)
 |a2,a1,a0=2,1,3|The solutions are complex numbers. The first solution is -0.250000+1.198958i. The second solution is -0.250000-1.198958i. The determinant of the function is -23.000000|
 
 
+
 *Comment: the outputs are correct with different and small values of coefficients. *
