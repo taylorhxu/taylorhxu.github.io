@@ -8,9 +8,10 @@ tags: c, programming, quadratic equations,
 
 ---
 
-This project is aiming to write and compute quadratic equations by applying functions 
+This project is aiming to write and compute quadratic equations by applying functions. 
+I am hoping to update once a week.
 
-Question: Focus on quadratic equations of real coefficients
+###Question: Focus on quadratic equations of real coefficients
 
 Requirement: Using int `quad_roots` (`double a2`, `double a1`, `double a0`, `double *r1`, `double* r2` ) to write the programme.
 
