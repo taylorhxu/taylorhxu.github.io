@@ -11,5 +11,6 @@ I am a biomedical engineer, technologist, photography enthusiast, minimalist, mu
 - Engineering
 - Reviews
 - Tech
+- Thoughts
 - Personal
 - Programming
