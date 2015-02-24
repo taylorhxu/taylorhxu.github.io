@@ -103,4 +103,6 @@ int main(void)
 
 
 
-*Comment: the outputs are correct with different and small values of coefficients.*
+*Comment: the outputs are correct with different and small values of coefficients*.
+
+
