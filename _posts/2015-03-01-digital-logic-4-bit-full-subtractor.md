@@ -1,9 +1,9 @@
 ---
 type: post
-title: 4-bit full subtractor
+title: 4 bit full subtractor
 date: 2015-03-01 12:30:05
 categories: engineering
-summary: This project involves the designing, simplification and implementation of a full functioning 4-bit full subtractor.
+summary: This project involves the designing, simplification and implementation of a full functioning 4 bit full subtractor.
 tags: engineering, digital logic, boolean
 
 ---
