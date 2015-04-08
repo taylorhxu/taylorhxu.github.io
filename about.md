@@ -23,14 +23,4 @@ She has specific interests in statistics, data analysis, medical informatics, bi
 
 View all certifications [here](https://github.com/taylorhxu/taylorhxu.github.io/tree/master/coursera).
 
-|Course | Grade Achieved | Awarding body |
---- | --- | --- |
-Critical Thinking in Global Challenges|  73.9%| The University of Edinburgh|
-The Language of Hollywood: Storytelling, Sound, and Colour |80%|Wesleyan University|
-Introduction to Mathematical Philosophy |75.0%|Ludwig-Maximilians-Universität München|
-Developing Data Products|77.3%|Johns Hopkins University|
-The Data Scientist’s Toolbox| 100.0% with Distinction|Johns Hopkins University|
-
-
-
 Thank you for stopping by.
