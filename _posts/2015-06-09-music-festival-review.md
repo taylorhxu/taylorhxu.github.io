@@ -8,7 +8,7 @@ tags: music festival, field day, london, review
 
 ---
 
-![](/images/fd/1.jpg)
+![](/images/fd/1.JPG)
 
 It was such a great festival, ice cream vans everywhere, not to mention the sun, and the anticipation for the London’s biggest, possibly the earliest summer party has reached apparent new heights, across ten stages. For two days every year, Victoria Park which located in East London, transforms into a mini English version of Coachella, but without campsite.
 
@@ -16,7 +16,7 @@ The line-up was great, headlined by Caribou, Patti Smith, and recent returned Ox
 
 [Shura - Soundcloud](https://soundcloud.com/shura/sets/shura-2shy)
 
-![](/images/fd/2.jpg)
+![](/images/fd/2.JPG)
 
 Anyone keeps up with the BBC Sound of award would know Aleksandra Denton (stage name Shura), her fantastic songwriting tricks mix with shimmered new wave textures lead her way up to a fixture on radio playlists. Both Jungle DJ set and performance at Shacklewell Arms Stage were impressive, although the allocated time slot was quite early — most people entered the park around 2pm, there were still a good amount of engaging audience present bring great vibe to the festival.
 
@@ -34,4 +34,4 @@ Saturday’s line-up skews towards the younger, more electronic and more indie. 
 
 Mac DeMarco and the band probably had the best time slot for the Sunday afternoon, the weather was perfect — summery but not too humid. Not only the audience had fun, the band themselves had loads of fun too — by demanding the crowd participate in an attempt to break the world record of people on other’s shoulders, followed by the successful DeMarco crowd surf. The entire set was engaging and interactive — the crowd singing along with all the memorable tunes.
 
-![](/images/fd/3.jpg)
+![](/images/fd/3.JPG)
