@@ -2,9 +2,9 @@
 layout: post
 title: Field Day 2015 Festival review
 date: 2015-06-09 13:54:09
-categories: music festival review
+categories: reviews
 summary: It was such a great festival, ice cream vans everywhere, not to mention the sun, and the anticipation for the London’s biggest, possibly the earliest summer party has reached apparent new heights, across ten stages. For two days every year, Victoria Park which located in East London, transforms into a mini English version of Coachella, but without campsite.
-tags: music festival, field day, london, review
+tags: music festival, field day, london, reviews
 
 ---
 
