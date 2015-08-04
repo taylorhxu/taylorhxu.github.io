@@ -16,7 +16,7 @@ This application is actually a modified and advanced version of an existing stoc
 
 This app uses R's `quantmod` package, which detailed information can be found [here](http://www.quantmod.com/).
 
-The function of this application is very easy to understand. By entering a stock ticker symbol into the textbox, the application would plot a the stock price within the given date range.
+The function of this application is very easy to understand. By entering a stock ticker symbol into the textbox, the application would plot the stock price within the given date range.
 
 By default, Stock Price Visualisation(SPV) displays the GS(Goldman Sachs) ticker. To check a different stock, type in a stock symbol that Yahoo finance will recognise. Some common symbols are GOOG (Google), AAPL (Apple).
 
