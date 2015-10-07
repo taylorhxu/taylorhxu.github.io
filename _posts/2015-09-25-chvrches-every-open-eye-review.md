@@ -7,7 +7,7 @@ summary: Many of you would say Never Ending Circles sounds like a mix of The Mot
 tags: chvrches music review
 
 ---
-[!](/images/chvrches/CHVRCHES.jpg)
+![](/images/chvrches/CHVRCHES.jpg)
 
 I have recently written a piece for [The Hippo Collectve](http://www.thehippocollective.com/2015/09/25/chvrches-every-open-eye-review/) on Churches's new album.
 
