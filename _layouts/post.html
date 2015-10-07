@@ -22,6 +22,11 @@ layout: default
 <article class="post-content">
   {{ content }}
 </article>
+  <p class="post-meta">Tags:&nbsp;
+  {{ range $i, $e := .Params.tags }}
+      {{if $i}},&nbsp;{{end}}
+      <a href="{{ $baseurl }}/tags/{{ . }}">{{ . }}</a>
+  {{ end }}</p>
 
 {% if site.show_post_footers %}
   {% include post_footer.html %}
