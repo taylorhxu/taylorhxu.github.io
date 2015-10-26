@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Churches Every Open Eye Review
+title: Chvrches Every Open Eye Review
 date: 2015-09-25 22:43:25
 categories: Reviews
 summary: Many of you would say Never Ending Circles sounds like a mix of The Mother We Share and Lies after one’s first listen, however, if you spend enough time listening to this song, you will get reminded of the phenomenon of Chvrches - clear, sharp and focused.
