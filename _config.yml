@@ -1,19 +1,39 @@
 # Site settings
-title: Taylor H Xu
-description: >
-  Aspiring biomedical engineer, music 
+title:       Taylor H. Xu
+email:       taylor.h.xu@gmail.com
+author:      Taylor Xu
+description: "Technology enthusiast"
+baseurl:     "http://taylorhxu.com"
+url:         "http://taylorhxu.com"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://taylorhxu.com" # the base hostname & protocol for your site
+# Google analytics
+google_analytics: UA-55488001-1
 
-author:
-  fullname: Taylor H Xu
-  googleplus: https://plus.google.com/+TaylorXutaylorhxu/
-  github: taylorhxu
-  twitter: taylorhxu
-  # disqus: your_disqus_username
+# Optional features
+animated:           false
+show_related_posts: false
+show_post_footers:  true
 
-# google_analytics: 'UA-55488001-1'
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname: taylorhxugj
+
+# Social icons
+show_social_icons: true
+github_username: taylorhxu
+stackoverflow_id: 
+twitter_username: taylorhxu
+google_plus_id: 
+linkedin_username: taylorhxu
+bitcoin_url:
+paypal_url:
+flattr_button:
 
 # Build settings
-markdown: kramdown
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+paginate:     5
+sass:
+  compressed: true

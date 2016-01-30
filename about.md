@@ -1,7 +1,8 @@
 ---
 layout: page
 title: About
-permalink: /about/
+comments: True
+
 ---
 
 Taylor Xu is a biomedical engineering student, tech enthusiast, music festival goer & former London 2012 cast.
