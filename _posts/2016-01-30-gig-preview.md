@@ -14,9 +14,7 @@ Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Me
 
 The literal band of brothers has started off playing cover set on the shores of Cape Cod, now living in Brooklyn. After recording a 3 song EP The Worst Humans with producer Joel Hamilton (Elvis Costello, Plastic Ono Band, Black Keys/Wu-Tang Clan), their debut album, Mister Asylum, is a reflection of experiences of the band members, “It’s losing your mind and finding yourself. That’s us. ” The record debuted at #56 on the Billboard Top 20.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ev-bR9ii7Gs" frameborder="0"> </iframe>
-
-Grammy nomination 2016: Best Rock Song – Highly Suspect, “Lydia”
+Grammy nomination 2016: Best Rock Song – Highly Suspect, [“Lydia”](https://www.youtube.com/watch?v=ev-bR9ii7Gs)
 
 In their single “Bath Salts”, Rich and Ryan play off their primal connection to hold down a rocking, tension filled rhythm section, while lead singer Johnny’s lo-fi vocals play into the songs’ themes of recklessness and wasted youth. “We have been rogue, nomadic, bohemian, and poor for years now, but we stay together because this life and this music is what we love”
 
