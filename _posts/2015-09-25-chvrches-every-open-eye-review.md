@@ -17,8 +17,6 @@ Many of you would say Never Ending Circles sounds like a mix of The Mother We Sh
 
 Few days prior the official release, Glaswegian trio Chvrches, comprised of Martin Doherty, Iain Cook, and famous lead vocalist Lauren Mayberry has already excited their fans with their second album, via NPR.
 
-<iframe width="100%" height="290" src="http://www.npr.org/player/embed/439491238/440274224" frameborder=0></iframe>
-
 I am sure we all learnt this from a young age, almost all good things will reach an end, we are used to accommodate it - there are many times where the quality of each new song starts to fade, this album just keeps rising.
 
 After ‘Leave a Trace’ video was met with misogynistic comments, Lauren Mayberry sat down with Cathy Newman for an interview on Channel 4, discussing the internet trolls, and she also said the following:
