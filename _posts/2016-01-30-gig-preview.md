@@ -2,7 +2,7 @@
 layout: post
 title: Highly Suspect at The Old Blue Last Gig Preview 
 date: 2016-01-30 23:43:25
-categories: review
+categories: reviews
 summary: Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Meyer, and their best friend Johnny Stevens in 2009) has picked up two Grammy nominations for Best Rock Album & Best Rock Song just last December, is making their first trip to the UK. 
 tags: music  
 
@@ -14,7 +14,7 @@ Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Me
 
 The literal band of brothers has started off playing cover set on the shores of Cape Cod, now living in Brooklyn. After recording a 3 song EP The Worst Humans with producer Joel Hamilton (Elvis Costello, Plastic Ono Band, Black Keys/Wu-Tang Clan), their debut album, Mister Asylum, is a reflection of experiences of the band members, “It’s losing your mind and finding yourself. That’s us. ” The record debuted at #56 on the Billboard Top 20.
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ev-bR9ii7Gs" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=ev-bR9ii7Gs" frameborder="0"/iframe>
 
 Grammy nomination 2016: Best Rock Song – Highly Suspect, “Lydia”
 
