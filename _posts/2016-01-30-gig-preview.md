@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gig Preview Highly Suspect at The Old Blue Last
+title: Highly Suspect at The Old Blue Last Gig Preview 
 date: 2016-01-30 23:43:25
 categories: review
 summary: Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Meyer, and their best friend Johnny Stevens in 2009) has picked up two Grammy nominations for Best Rock Album & Best Rock Song just last December, is making their first trip to the UK. 
