@@ -8,7 +8,7 @@ tags: music
 
 ---
 
-![](/images/hs/hs.ipg)
+![](/images/hs/hs.jpg)
 
 Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Meyer, and their best friend Johnny Stevens in 2009) has picked up two Grammy nominations for Best Rock Album & Best Rock Song just last December, is making their first trip to the UK. Managed by In De Goot Entertainment, the band will be in the UK from the 27th January – 8th February, as part of The Carnival of Madness Tour as well as a handful of solo performances. The Carnival of Madness is a hard rock/alternative rock tour founded in 2010 with this 2016 run being the inaugural UK edition.
 
