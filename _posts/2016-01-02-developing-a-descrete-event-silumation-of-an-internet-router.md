@@ -6,6 +6,8 @@ categories: programming
 summary: Developing a discrete-event simulation of an Internet router with a single input queue and a single output interface. 
 tags: python programming  
 
+---
+
 Simulation is a method of analysing real-world events or newly designed algorithms and solutions. The
 discrete event simulation model consists of identifying individual events in the simulated model and
 assigning these events a unique time in the time schedule. Discrete event simulation can be used to
