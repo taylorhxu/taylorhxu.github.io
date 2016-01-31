@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Gig Preview-Highly Suspect at The Old Blue Last
+title: Gig Preview Highly Suspect at The Old Blue Last
 date: 2016-01-30 23:43:25
 categories: review
-summary: Many of you already know this website called THE SETUP INTERVIEWS, I think it would be fun to do a similar style of post listing all my setups.
-tags: tech personal macbook cameras photography
+summary: Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Meyer, and their best friend Johnny Stevens in 2009) has picked up two Grammy nominations for Best Rock Album & Best Rock Song just last December, is making their first trip to the UK. 
+tags: music  
 
 ---
+
+![](/images/hs/hs.ipg)
 
 Brooklyn based rock music trio Highly Suspect (Founded by twins Rich and Ryan Meyer, and their best friend Johnny Stevens in 2009) has picked up two Grammy nominations for Best Rock Album & Best Rock Song just last December, is making their first trip to the UK. Managed by In De Goot Entertainment, the band will be in the UK from the 27th January – 8th February, as part of The Carnival of Madness Tour as well as a handful of solo performances. The Carnival of Madness is a hard rock/alternative rock tour founded in 2010 with this 2016 run being the inaugural UK edition.
 
@@ -20,13 +22,13 @@ The band will be headlining The Old Blue Last on 27th Jan and The Black Heart on
 
 UK Tour Dates:
 
-27th – Old Blue Last, London UK
-28th – Carnival of Madness Tour @ Motorpoint Arena Cardiff, Cardiff, UK
-29th – Carnival of Madness Tour @ Nottingham Capital FM Arena, Nottingham, UK
-30th – Carnival of Madness Tour @ Liverpool Echo Arena, Liverpool UK
-1st – Carnival of Madness Tour @ The SSE Hydro, Glasgow UK
-2nd – Carnival of Madness Tour @ Birmingham Barclaycard Arena, Birmingham, UK
-4th – Carnival of Madness Tour @ Wembley The SSE Arena, London, UK
-5th – Carnival of Madness Tour @ Leeds First Direct Arena, Leeds, UK
-6th – Carnival of Madness Tour @ Manchester Arena, Manchester UK
-8th – Black Heart, London UK
+- 27th – Old Blue Last, London UK
+- 28th – Carnival of Madness Tour @ Motorpoint Arena - Cardiff, Cardiff, UK
+- 29th – Carnival of Madness Tour @ Nottingham Capital FM Arena, Nottingham, UK
+- 30th – Carnival of Madness Tour @ Liverpool Echo Arena, Liverpool UK
+- 1st – Carnival of Madness Tour @ The SSE Hydro, Glasgow UK
+- 2nd – Carnival of Madness Tour @ Birmingham Barclaycard Arena, Birmingham, UK
+- 4th – Carnival of Madness Tour @ Wembley The SSE Arena, London, UK
+- 5th – Carnival of Madness Tour @ Leeds First Direct Arena, Leeds, UK
+- 6th – Carnival of Madness Tour @ Manchester Arena, Manchester UK
+- 8th – Black Heart, London UK
