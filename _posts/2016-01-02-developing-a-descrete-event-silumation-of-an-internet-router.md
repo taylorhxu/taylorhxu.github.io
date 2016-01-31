@@ -16,7 +16,7 @@ chains, and a variety of scheduling problems.
 For this assignment, you are expected to produce a python code which performs a full discrete event
 simulation of a very simple Internet router. 
 
-The router is characterized by:
+The router is characterised by:
 
 - Random arrival of packets
 - Random distribution of packet sizes
@@ -53,7 +53,7 @@ time for the packets, and should calculate the following parameters:
 - probability that the queue size is 0 at arrival of a new call
 - probability that the queue size is greater than 5 times the average packet size. 
 
-```
+```python
 import random
 from collections import deque
 #A while loop statement in Python programming language repeatedly executes a target statement as long as a given condition is true.
