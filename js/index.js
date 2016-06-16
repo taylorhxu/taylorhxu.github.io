@@ -5,8 +5,8 @@
 
 	Flickr.prototype = {
 		init: function() {
-			this.user = "123194585@N06";
-			this.album = "72157646849974903";
+			this.user = "53117239@N08";
+			this.album = "72157667350882120";
 
 
 			window.getPhotos = this.getPhotos;
