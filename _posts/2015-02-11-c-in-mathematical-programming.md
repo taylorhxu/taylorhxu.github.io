@@ -2,7 +2,7 @@
 layout: post
 title: C in Mathematical Programming I
 date: 2015-02-11 13:54:09
-categories: programming
+categories: Programming
 summary: This project is aiming to write and compute quadratic equations by applying functions.
 tags: c, programming, quadratic equations,
 

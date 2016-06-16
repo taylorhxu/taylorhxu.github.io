@@ -2,7 +2,7 @@
 layout: post
 title: Stock Price Visualisation
 date: 2015-01-26 13:54:09
-categories: programming
+categories: Programming
 summary: By taking the Coursera Data Science course - Developing Data Products, I have created an interactive application using Shiny by RStudio.
 tags: coursera, github, programming, r, shiny
 

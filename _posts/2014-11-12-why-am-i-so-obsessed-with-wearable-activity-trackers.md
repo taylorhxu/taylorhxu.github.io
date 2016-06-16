@@ -2,7 +2,7 @@
 layout: post
 title: Why am I so obsessed with wearable activity trackers?
 date: 2014-11-12 10:54:09
-categories: technology
+categories: Technology
 summary: So, the title is clear enough. I am obssessed with wearble activity tracker. Fitbit, Jawbone UP, you name it, I’ve tried it.
 tags: fitness, wearable, fitbit, jawbone up, activity tracker, technology
 

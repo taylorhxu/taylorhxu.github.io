@@ -2,7 +2,7 @@
 layout: post
 title: Stylophone, music and circuits
 date: 2015-01-21 19:31:33
-categories: Tech
+categories: Music
 summary: Recently I got very interested in music electronics. As a part of my course, I am familiar with electronic circuit design. To feed off my curiosity, I bought a stylophone, and I am going to build one myself.
 tags: personal, music
 ---

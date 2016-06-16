@@ -2,7 +2,7 @@
 layout: post
 title: Discrete Event Simulation of an Internet Router 
 date: 2016-01-02 23:43:25
-categories: programming
+categories: Programming
 summary: Developing a discrete-event simulation of an Internet router with a single input queue and a single output interface. 
 tags: python programming  
 
