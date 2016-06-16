@@ -25,7 +25,7 @@ i
 }
 
 #wrapper.toggled {
-    padding-left: 180px;
+    padding-left: 280px;
 }
 
 
@@ -83,7 +83,7 @@ a {
     left: 180px;
     width: 0;
     height: 100%;
-    margin-left: -180px;
+    margin-left: -280px;
     overflow-y: auto;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
@@ -102,7 +102,7 @@ font-family: "Roboto Condensed", Arial, sans-serif;
 }
 
 #wrapper.toggled #sidebar-wrapper {
-    width: 180px;
+    width: 280px;
 }
 
 #page-content-wrapper {
@@ -115,12 +115,12 @@ font-family: "Roboto Condensed", Arial, sans-serif;
 
 #wrapper.toggled #page-content-wrapper {
     position: absolute;
-    margin-right: -180px;
+    margin-right: -280px;
 }
 
             /* --------------- Sidebar Nav --------------- */
 .sidebar-nav {
-    width: 180px;
+    width: 280px;
     margin: 0;
     padding: 0;
     padding-left: 50px;
@@ -357,4 +357,3 @@ li.li-hover:hover
 #flickr .images a img {
 	padding: 5px;
 }
-
