@@ -12,7 +12,7 @@ tags: personal, music
 
 [The Tuts](http://thetuts.bandcamp.com/) are an all-girl punk trio from West London. “This West London three piece buzz like a female version of the Libertines. From the same town as the Ruts, with only a letter difference, the Tuts are a bundle of attitude and suss.”
 
-####Could you briefly introduce yourself? How did the band get together?
+>####Could you briefly introduce yourself? How did the band get together?
 
 B: I’m Beverley, I’m the drummer.
 
@@ -33,7 +33,7 @@ N: Looking back, at school the boys were intimidated and envious of our energy. 
 
 B: We had no fear
 
-####You have been on tour with Kate Nash and The Selecter, how was that experience?
+>####You have been on tour with Kate Nash and The Selecter, how was that experience?
 
 N: It was incredible, life changing. The most fun I’ve ever had in my life.
 
@@ -49,7 +49,7 @@ B: It was like a big magnifying glass on what we needed to be like as a band on 
 
 N: Looking back at old Kate videos we were much more timid compared to how we are now. Now we’re hair whipping
 
-####Did the touring experience have an influence on your own music making process?
+>####Did the touring experience have an influence on your own music making process?
 
 H: I guess it does, cos after playing live to big responsive crowd you start thinking “I wanna play a live song like this!” or “I wanna do this on stage!”. So it will impact on areas of songs because it’ll allow you to do even more fun stuff when you perform. After a few of our early shows Nadia and I realised we were accidentally doing synchronised dance moves on stage, so then we took it even further and started doing it on purpose/even more.
 
@@ -57,7 +57,7 @@ N: Yeah like for dynamics, cos you know how things will work live after you play
 
 B: I think Hayley Williams of Paramore was saying in an interview that live, she purposefully has crowd participation songs. If you’re touring you need songs like that – to party with the audience.
 
-####There is going to be a new album coming out this summer, could you tell us a little bit more about that? 
+>####There is going to be a new album coming out this summer, could you tell us a little bit more about that? 
 
 B: OUT THIS SUMMER!!!
 
@@ -75,9 +75,7 @@ N: Hope it gets us on a larger platform too to play some bigger festivals, as th
 
 H: We need to catapult ourselves over that barrier. Sounds like I’m talking about sneaking into festivals haha.
 
-####Also how does the Pledge Campaign work? 
-
- www.pledgemusic.com/thetuts
+>####Also how does the Pledge Campaign work? 
 
 N: Pledge works by setting yousrelf a target in what you want to achieve in terms of a budget. The budget is needed to record the album and get it made on CD, vinyl and so on. So you have the pre-orders of the album available to get that money before you record the album. We’ve put a lot of thought into it and what our fans and people would like. There’s different incentive deals. Signed CDs, handwritten lyrics, scarp books, signed instruments, personalised things that people can have.
 
@@ -91,7 +89,7 @@ B: We’re lucky we get to tour a lot so people get to come see us and our songs
 
 N: People wanna buy this stuff and part of it! On limited edition stuff exclusive to Pledge!
 
-####Is there going to be a launch party?
+>####Is there going to be a launch party?
 
 N: YES! There’s going to be a massive launch party.
 
@@ -99,7 +97,7 @@ B: P-A-R-T-Y cos you gotta!
 
 N: Massive launch in London. Part of our pledge is we’re gonna be selling launch tickets on there and the set lists we’ll be using that night on our pledge too. We’re gonna play ALL of our songs from our EPs and albums. Its gonna be so much fun, DJ sets, dancing. There’ll be punks, old school punks, young girls, old men. A wide range of people from all different backgrounds there.
 
-####As a band you don’t have a PR or a manager, The Tuts is becoming better known, would you say you are not worried about getting press and gigs or you would prefer completely DIY?
+>####As a band you don’t have a PR or a manager, The Tuts is becoming better known, would you say you are not worried about getting press and gigs or you would prefer completely DIY?
 
 N: Well we want and need the press.
 
@@ -115,15 +113,15 @@ N: Some bands keep their managers even if they don’t like having one.
 
 B: I just think more bands should do it themselves. Maybe some bands benefit from a manager. But we know what we want. We just need more access to stuff, when we get that access we’ll be flying.
 
-####Possibility to sign with a record label in the near future?
+>####Possibility to sign with a record label in the near future?
 
 N: If the deal was good enough, yeah why not? Would be amazing. Could be like one of those boy bands that roll out of bed into success. Go to gigs with a crusty bum hole. Showers on the tour bus innit. Would be nice to have someone doing hair and make up. Gogol bordello had a tour bus haha.
 
-####The band played at Glastonbury 2014, is there any music festival The Tuts is going to play this year?
+>####The band played at Glastonbury 2014, is there any music festival The Tuts is going to play this year?
 
 H: Glastonbury was incredible. We have a huge list of festivals we want to play but it’s tough as a girl band getting on them. We have been confirmed for Glastonwick, Bearded Theory Festival AND Undercover festival this year though.
 
-####The song Worry Warrior is about anxiety, you’ve spoken before about your own anxiety issue, how do you deal with your anxiety?
+>####The song Worry Warrior is about anxiety, you’ve spoken before about your own anxiety issue, how do you deal with your anxiety?
 
 N: Moan about it to my friends. Lie in bed and not move. But in all seriousness, some good advice: force yourself out of bed and make yourself lists of things to do and slowly work through getting stuff done. Whatever you’re worrying about is probably gonna happen either way.
 
@@ -133,7 +131,7 @@ H: Yeah, obviously there are ways to try and deal with a specific stressful situ
 
 N: Sometimes a stressful feeling is leading towards something amazing.
 
-####Where do you usually find your inspirations from? And how do you stay inspired?
+>####Where do you usually find your inspirations from? And how do you stay inspired?
 
 B: Go to loads of gigs?
 
@@ -143,7 +141,7 @@ B: There’s so much on the internet that gets you inspired. TV shows even.
 
 N: And there’ll be one dickhead that will try and upset you and it might inspire a song. And something whether its art, a band, music or whatever…if it moves you and makes you feel emotions it could be enough to inspire a song or something else.
 
-####How do you balance being in a band with your day jobs?
+>####How do you balance being in a band with your day jobs?
 
 N: Ain’t got one!
 
@@ -181,13 +179,13 @@ H: Yeah Jesscia Jones too. I love Buffy, Veronica Mars, The Walking Dead. Parks 
 
 N: Orange is the new black. I’m watching that Making a Murder on Netflix. Shortchange, remember that? That was sick! I also like the one where they find the dodgy builder with a secret a camera.
 
-####On a personal level, what magazines/zines you read regularly? Since you have played for Parallel magazine and also you did an interview with Rookie
+>####On a personal level, what magazines/zines you read regularly? Since you have played for Parallel magazine and also you did an interview with Rookie
 
 N: Yeah Rookie. I read lots of shit online. Vice, Noisey, all that.
 
 H: She Shreds magazine is cool.
 
-####Have you guys read Carrie Brownstein’s Hunger Makes Me a Modern Girl?
+>####Have you guys read Carrie Brownstein’s Hunger Makes Me a Modern Girl?
 
 H: No I wanted it for Christmas and forgot to ask anyone. Can’t wait to read it eventually.
 
@@ -201,7 +199,7 @@ H: The independent ones are all getting shut down because of ‘luxury flats’ 
 
 B: Don’t even mention it, I’m scared it’ll get shut down now! I like The Lexington too.
 
-####New year resolution(s)?
+>####New year resolution(s)?
 
 N: ALBUM. Getting better on guitar. Spend time with my family. Just be happy. Eat food. Get a plump face.
 
@@ -211,7 +209,7 @@ B: Not really into new years resolutions. Live in the moment with that type of s
 
 N: Typical Gemini.
 
-####What issues are important to you, you talked about feminism, sexism and politics before, since the National Student Pride is coming up,  just wondering if there is anything you would like to say to the young queer kids out there and the LGBT community?
+>####What issues are important to you, you talked about feminism, sexism and politics before, since the National Student Pride is coming up,  just wondering if there is anything you would like to say to the young queer kids out there and the LGBT community?
 
 B: Don’t give up! Fight the good fight.
 
