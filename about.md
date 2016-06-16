@@ -13,11 +13,15 @@ Besides English, she speaks Mandarin Chinese, also she has a good knowledge of F
 
 She has specific interests in statistics, data analysis, medical informatics, biomaterials, nanotechnology, algorithm and building computational tools.
 
-####Currently, She is:
+####Currently, she is:
 
 - studying biomedical engineering with a specific interest in EEG bio-signal processing and neuroscience.
 - a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer.) 
 - practising minimalism in all aspects of her life.
+
+####Previously, she was: 
+
+- London 2012 Opening & Closing ceremonies cast, drummer & athletes marshall. 
 
 ####Coursera courses completed:
 
