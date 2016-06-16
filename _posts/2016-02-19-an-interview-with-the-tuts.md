@@ -6,6 +6,10 @@ categories: Music
 summary: The Tuts are an all-girl punk trio from West London. “This West London three piece buzz like a female version of the Libertines. From the same town as the Ruts, with only a letter difference, the Tuts are a bundle of attitude and suss.”
 tags: personal, music
 
+---
+
+![1](/images/tuts/thetuts-21.jpg)
+
 [The Tuts](http://thetuts.bandcamp.com/) are an all-girl punk trio from West London. “This West London three piece buzz like a female version of the Libertines. From the same town as the Ruts, with only a letter difference, the Tuts are a bundle of attitude and suss.”
 
 ####Could you briefly introduce yourself? How did the band get together?
@@ -212,3 +216,7 @@ N: Typical Gemini.
 B: Don’t give up! Fight the good fight.
 
 H: It’s important that the headline shows we play are safe spaces for women, people of colour and the LGBT community. This country is run by white middle class straight men and corporations- it’s gross. For now we just need to focus on the people around us, our communities, the scenes we take part in and how we can have an impact there and keep our scenes intersectional. Contribute positivity and show solidarity. Solidarity is KEY!
+
+![1](/images/tuts/thetuts-32.jpg)
+
+>(Photo credit: Jamie-Lee Facer)
