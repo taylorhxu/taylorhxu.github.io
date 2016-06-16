@@ -15,14 +15,16 @@ At the same time, I have specific interests in statistics, data analysis, medica
 
 ####Currently, I am:
 
-- studying biomedical engineering with a specific interest in EEG bio-signal processing and neuroscience.
-- a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer). 
-- Planning to complete my final year project on robotics.
+- studying biomedical engineering with a specific interest in EEG bio-signal processing and neuroscience
+- a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer)
+- Freelance music writer for The Hippo Collective
+- Brand Ambassador for financial professionals networking app, NexChange
+- Planning to complete my final year project on robotics
 
 ####Previously, I was: 
 
-- London 2012 Opening & Closing ceremonies cast, drummer & athletes marshall. 
-- TEDxImperial College official photographer: [Flickr Album](https://www.flickr.com/photos/tedximperialcollege/tags/taylorxu/).
+- London 2012 Opening & Closing ceremonies cast, drummer & athletes marshall 
+- TEDxImperial College official photographer: [Flickr Album](https://www.flickr.com/photos/tedximperialcollege/tags/taylorxu/)
 - Official videographer for *Battle of Ideas 2011*
 
 ####Coursera courses completed:
