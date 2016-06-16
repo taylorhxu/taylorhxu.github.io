@@ -16,4 +16,6 @@ twitter: taylorhxu
 footer: © Taken theme
 
 # Build settings
-markdown: kramdown
+markdown:     redcarpet
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
