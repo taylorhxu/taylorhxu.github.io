@@ -1,64 +1,38 @@
-<div id="wrapper">
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-    <!-- Sidebar -->
-    <div id="sidebar-wrapper">
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
 
-        <div id="sidebar-middle">
-        <div id="picture" style="background-image: url(https://pbs.twimg.com/profile_images/748241909752143872/3wooYigu_400x400.jpg)"></div>
-        <a href="http://taylorhxu.com" class="site-title">{{ site.title }}</a>
-        <p>{{site.description}}</p>
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}/">Home</a>
 
-        <hr>
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
 
-        <div id="social-icons">
-            <ul>
-                <li><a href="http://facebook.com/{{ site.facebook }}"><i class="fa fa-facebook"></i></a></li>
-                <li><a href="https://mx.linkedin.com/in/{{ site.linkedin }}"><i class="fa fa-linkedin"></i></a></li>
-                <li><a href="http://github.com/{{ site.github }}"><i class="fa fa-github"></i></a></li>
-                <li><a href="https://twitter.com/{{site.twitter}}"><i class="fa fa-twitter"></i></a></li>
-            </ul>
-        </div>
+    {% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
 
-        <hr>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a>
+    <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
+    <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
+  </nav>
 
-        <div class="navigation">
-            <ul>
-                {% for my_page in site.pages %}
-                    {% if my_page.title %}
-                    <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
-                {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
-
-        <hr>
-
-        <p>Flickr Feed<p>
-        <div id="flickr"></div>
-        <hr>
-
-        <p>{{site.footer}}<p>
-        <p>Powered by Jekyll<p>
-
-        <hr>
-
-    </div>
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
+  </div>
 </div>
-
-
-    <!-- /#sidebar-wrapper -->
-
-    <!-- Page Content -->
-    <div id="page-content-wrapper">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-lg-12 content">
-                    <a href="#menu-toggle" class="btn btn-default hidden-lg hidden-md hidden-sm" id="menu-toggle">Menu</a>
-                    {{ content }}
-                </div>
-            </div>
-        </div>
-    </div>
-
-</div>
-<!-- /#wrapper -->

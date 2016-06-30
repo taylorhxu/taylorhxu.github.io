@@ -1,43 +1,30 @@
 ---
 layout: page
 title: About
-permalink: /about/
-
 ---
 
-I am a biomedical engineering student at City university London.
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-My main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved biomedical engineering, and also I enjoy photography, travelling, and foreign languages.
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
-Besides English, I speak fluent Mandarin Chinese, also I have a good knowledge of French and German. 
+There are currently two themes built on Poole:
 
-At the same time, I have specific interests in statistics, data analysis, medical informatics, biomaterials, nanotechnology, algorithm and building computational tools.
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
-####Currently, I am:
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-- studying biomedical engineering with a specific interest in EEG bio-signal processing and neuroscience
-- a self-taught programmer, learning by doing. (Read [Tips by Ryan Levick](https://www.wunderlist.com/blog/Landing-your-dream-job/)  on becoming a self-taught programmer)
-- Freelance music writer for The Hippo Collective
-- Brand Ambassador for financial professionals networking app, NexChange
-- Planning to complete my final year project on robotics
+## Setup
 
-####Previously, I was: 
+Some fun facts about the setup of this project include:
 
-- London 2012 Opening & Closing ceremonies cast, drummer & athletes marshall 
-- TEDxImperial College official photographer: [Flickr Album](https://www.flickr.com/photos/tedximperialcollege/tags/taylorxu/)
-- Official videographer for *Battle of Ideas 2011*
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
 
-####Coursera courses completed:
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
-- Critical Thinking in Global Challenges
-- The Language of Hollywood: storytelling, sound and colour
-- Introduction to Mathematical Philosophy
-- The Data Scientist's Toolbox
-- Developing Data Products
-- Statistical Analysis of fMRI Data
-
-View all certifications [here](https://github.com/taylorhxu/taylorhxu.github.io/tree/master/coursera).
-
-Thank you for stopping by.
-
-T
+Thanks for reading!
