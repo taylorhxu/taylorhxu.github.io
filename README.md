@@ -1,5 +1,16 @@
-# getmicah.github.io
-My blog made with [jekyll](http://jekyllrb.com) and hosted with Github Pages.
+taylorhxu.com
+===================
+# Infomation
+This is my personal site, including all my posts on [Medium.com](https://medium.com/@taylorhxu) and other relevant works.
 
-### License
-All this stuff is under the [MIT License](https://raw.githubusercontent.com/getmicah/getmicah.github.io/master/LICENSE)
+# About me
+I am a biomedical engineer, technologist, photography enthusiast, minimalist, music festival goer, coffee addict and former London 2012 cast.
+
+
+# Post categories
+- Engineering
+- Reviews
+- Tech
+- Thoughts
+- Personal
+- Programming
