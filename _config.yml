@@ -1,22 +1,27 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: true
+# Blog settings
+permalink: /blog/:title
 
-# Setup
-title:               Taylor Xu
-tagline:             'techno'
-description:         ''
-url:                 http://taylorhxu.github.io
-baseurl:             ''
-paginate:            5
 
-# About/contact
-author:
-  name:              Taylor Xu
-  url:               https://twitter.com/taylorhxu
-  email:             taylorhxu@gmail.com
+# My variables
+name: Taylor Xu
+description: Futuristic web design
+google_verification: null
 
-# Custom vars
-version:             1.0.0
+
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
+
+
+# Sass
+sass:
+  style: :compressed
+  sass_dir: _sass
+
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
