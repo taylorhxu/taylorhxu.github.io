@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: about
 ---
+
 Hello,
 
 My name is Taylor Xu, a biomedical engineering student who has experience in data science and analytics.
