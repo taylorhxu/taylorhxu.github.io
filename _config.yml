@@ -5,18 +5,18 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Taylor Xu
-tagline:             'All about tech, above and beyond.'
+title:               Lanyon
+tagline:             'A Jekyll theme'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://taylorhxu.com
+url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Taylor Xu
-  url:               https://twitter.com/taylorhxu
-  email:             taylorhxu@gmail.com
+  name:              Mark Otto
+  url:               https://twitter.com/mdo
+  email:             markdotto@gmail.com
 
 # Custom vars
 version:             1.0.0
