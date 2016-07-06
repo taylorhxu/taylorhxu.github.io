@@ -11,6 +11,7 @@ At the same time, I have specific interests in statistics, data analysis, medica
 
 ## Education
 
+
 * BEng. Biomedical Engineering, City University London
 * Summer programme, Technische Universität Braunschweig
 * A Levels, Duff Miller College
@@ -19,7 +20,10 @@ At the same time, I have specific interests in statistics, data analysis, medica
 
 ## Professional Experience
 
+
 * Brand ambassador, NexChange' 15
+
+
 * Freelance writer, The Hippo Collective'15                                                                       
 * Integrated Supply & Trading (IST) Discovery day candidate, BP'15
 * Workshop candidate, Rails Girls London'15
