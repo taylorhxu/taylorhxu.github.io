@@ -2,13 +2,8 @@
 layout: about
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
+I am a biomedical engineering student at City University London, tech enthusiast, music festival goer & former London 2012 cast, I write for The Hippo Collective.
 
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
+My main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved biomedical engineering, and also I enjoy photography, travelling, and language learning.
 
-# Who are your favorite artists?
-Currently I'm listening to a lot of James Blake and Kaytranada.
-
-# What programming languages do you use?
-When making websites I like using Javascript and Sass but I also like Python and bash for making linux scripts.
+I have specific interests in statistics, data analysis, medical informatics, biomaterials, nanotechnology, algorithm and building computational tools.
