@@ -8,4 +8,4 @@ tags: arduino
 
 ---
 
-![](/images/mini/1.png=250x)
+![](https://github.com/taylorhxu/taylorhxu.github.io/blob/master/images/mini/1.png width="200")
