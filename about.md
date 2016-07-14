@@ -18,6 +18,21 @@ My main academic interest lies in the field of computational neuroscience & arti
 
 I have specific interests in statistics, data analysis, medical informatics, biomaterials, nanotechnology, algorithm and building computational tools.
 
-#### License 
+#### Certification
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+*Coursera*
+
+- Critical Thinking in Global Challenges 
+- The Language of Hollywood: storytelling, sound and colour
+- Introduction to Mathematical Philosophy
+- The Data Scientist’s Toolbox
+- Developing Data Products
+- Statistical Analysis of fMRI Data
+
+*Google Analytics Academy*
+
+- Digital Analytics Fundamentals
+- Google Analytics Platform Principles
+- E-commerce Analytics: From Data to Decisions
+- Mobile App Analytics Fundamentals
+- Google Tag Manager Fundamentals
