@@ -18,4 +18,5 @@ Completed soldering just under an hour. Although few resistors don't look as nea
 
 Sample video:
 
-<iframe width="420" height="315" src="https://vimeo.com/174713347" frameborder="0"></iframe>
+<iframe src="https://player.vimeo.com/video/174713347" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/174713347">miniATMEGATRON</a> from <a href="https://vimeo.com/taylorhxu">Taylor Xu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
