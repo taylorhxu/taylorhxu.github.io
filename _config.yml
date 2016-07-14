@@ -8,7 +8,7 @@ relative_permalinks: true
 title:               Taylor H. Xu
 tagline:             'techno'
 description:         'Techno, above and beyond.'
-url:                 http://taylorhxu.github.io
+url:                 
 baseurl:             ''
 paginate:            5
 
