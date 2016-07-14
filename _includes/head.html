@@ -87,4 +87,16 @@
        ga('send', 'pageview');
     </script>
     {% endif %}
+
+    {% if page.support contains 'jquery' %}
+    <script src="{{ site.baseurl }}/assets/jquery/dist/jquery.min.js" type="text/javascript"></script>
+    {% endif %}
+
+    {% if page.support contains 'gallery' %}
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/lightgallery/dist/js/lightgallery-all.min.js" />
+    <link src="{{ site.baseurl }}/assets/lightgallery/dist/css/lightgallery.min.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/masonry/dist/masonry.pkgd.js" />
+    <link src="{{ site.baseurl }}/css/gallery.css" />
+    {% endif %}
+
 </head>
