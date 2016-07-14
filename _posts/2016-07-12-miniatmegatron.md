@@ -18,7 +18,7 @@ Completed soldering just under an hour. Although few resistors don't look as nea
 
 Sample video:
 
-Shoot with Fuji X100T.
+Shot with Fuji X100T.
 
 <iframe src="https://player.vimeo.com/video/174713347" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
