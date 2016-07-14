@@ -21,4 +21,5 @@ Sample video:
 Shoot with Fuji X100T.
 
 <iframe src="https://player.vimeo.com/video/174713347" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/174713347">miniATMEGATRON</a> from <a href="https://vimeo.com/taylorhxu">Taylor Xu</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+I will upload more videos later on, thanks for reading! 
