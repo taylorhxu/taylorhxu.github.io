@@ -9,3 +9,7 @@ tags: arduino
 ---
 
 ![](/images/mini/1.jpg)
+
+Completed soldering just under an hour.
+
+<iframe width="420" height="315" src="https://vimeo.com/174713347" frameborder="0" allowfullscreen></iframe>
