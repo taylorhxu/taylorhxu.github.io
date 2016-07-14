@@ -14,3 +14,7 @@ I am a biomedical engineer, technologist, photography enthusiast, minimalist, mu
 - Thoughts
 - Personal
 - Programming
+
+# Jekyll settings
+
+- the blog contact form is using [Formspree](https://formspree.io/).
