@@ -1,5 +1,8 @@
 ---
-layout: about
+layout: page
+title: About
+permalink: /about/
+tags: about
 ---
 
 This is my personal site, including all my posts on [Medium.com](https://medium.com/@taylorhxu) and other relevant works.
