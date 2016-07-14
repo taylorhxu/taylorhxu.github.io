@@ -1,14 +1,6 @@
 source 'https://rubygems.org'
 
-group :jekyll_plugins do
-gem 'jekyll'
-gem 'jekyll-sitemap'
-gem 'jemoji'
-gem 'jekyll-redirect-from'
-gem 'jekyll-paginate'
-gem 'jekyll-compose'
-end
-
-gem 'font-awesome-sass'
-gem 'kramdown'
-gem 'rouge'
+# A simple Ruby Gem to bootstrap dependencies for setting up and
+# maintaining a local Jekyll environment in sync with GitHub Pages
+# https://github.com/github/pages-gem
+gem 'github-pages'

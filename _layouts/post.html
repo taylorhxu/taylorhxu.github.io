@@ -2,61 +2,66 @@
 layout: default
 ---
 
-<div class="post">
-  <h1 itemprop="name" class="post-title">{{ page.title }}</h1>
-  <span class="post-date" itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="{{ site.url }}{{ page.url }}" itemprop="url" title="Permanent link to this post">{{ page.date | date_to_string }}</a> </i></span>
-  {% if page.modified.size > 2 %}{% assign moddate = page.modified | date_to_string %}{% assign pgdate = page.date | date_to_string %}{% unless moddate == pgdate | date_to_string %}<span class="post-date" itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ page.modified | date_to_string }}</i></span>{% endunless %}{% endif %}
-  <span class="post-tags" itemprop="keywords" content="{{ page.tags | array_to_sentence_string }}">{% for tag in page.tags %}{% if forloop.first %}<i class="fa fa-tags" title="page tags"></i>{% endif %} <a href="{{ site.url }}/tags/#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
-    {% unless page.show_meta == false %}
-      {% include meta_info.html %}
-    {% endunless %}
+{% assign minutes = content | strip_html | number_of_words | divided_by: 180 %}
+{% if minutes == 0 %}
+{% assign minutes = 1 %}
+{% endif %}
+
+<div class="post-header mb2">
+  <h1>{{ page.title }}</h1>
+  <span class="post-meta">{{ page.date | date: site.date_format }}</span><br>
+  {% if page.update_date %}
+    <span class="post-meta">{{ site.text.post.updated }}: {{ page.update_date | date: site.date_format }}</span><br>
+  {% endif %}
+  <span class="post-meta small">
+  {% if page.minutes %}
+    {{ page.minutes }} {{ site.text.post.minute_read }}
+  {% else %}
+    {{ minutes }} {{ site.text.post.minute_read }}
+  {% endif %}
+  </span>
+</div>
+
+<article class="post-content">
   {{ content }}
-  <hr>
-  {% if page.tags contains 'R' %}
-   {% include rblogger.html %}
-  {% endif %}
-  <span class="post-date metafoot" itemprop="datePublished" content="{{ page.date | date: "%Y-%m-%d" }}"><i class="fa fa-calendar" title="Date published"> <a class="permalink" href="{{ site.url }}{{ page.url }}" itemprop="url" title="Permanent link to this post">{{ page.date | date_to_string }}</a> </i></span>
-  {% if page.modified.size > 2 %}{% assign moddate = page.modified | date_to_string %}{% assign pgdate = page.date | date_to_string %}{% unless moddate == pgdate | date_to_string %}<span class="post-date metafoot" itemprop="dateModified" content="{{ page.modified | date: "%Y-%m-%d" }}"><i class="fa fa-edit" title="Last updated"> {{ page.modified | date_to_string }}</i></span>{% endunless %}{% endif %}
-  <span class="post-tags" itemprop="keywords" content="{{ page.tags | array_to_sentence_string }}">{% for tag in page.tags %}{% if forloop.first %}<i class="fa fa-tags" title="page tags"></i>{% endif %} <a href="{{ site.url }}/tags/#{{ tag | cgi_escape }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
-    {% unless page.show_meta == false %}
-      {% include meta_info.html %}
-    {% endunless %}
-</div>
+</article>
 
-{% unless page.hide_printmsg == true %}
-  {% include printmsgposts.html %}
-{% endunless %}
+{% if site.show_sharing_icons %}
+  {% include share_buttons.html %}
+{% endif %}
 
-<div class="page-break"></div>
-<div class="related">
-  <h2>Related Posts</h2>
-<ul>
-  {% for post in site.posts %}
-    {% if post.url != page.url %} 
-      {% for tag in page.tags %} 
-        {% if post.tags contains tag %}
-          <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a><br /></li>
-          {% break %}
-        {% endif %}
-      {% endfor %}
-    {% endif %}
+{% if site.show_post_footers %}
+  {% include post_footer.html %}
+{% endif %}
+
+{% if site.disqus_shortname %}
+  <div id="disqus_thread"></div>
+  <script type="text/javascript">
+    var disqus_shortname  = '{{ site.disqus_shortname }}';
+    var disqus_identifier = '{{ page.id }}';
+    var disqus_title      = '{{ page.title }}';
+
+    (function() {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+{% endif %}
+
+{% if site.facebook_comments %}
+  <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="{{ site.facebook_comments_number }}"></div>
+{% endif %}
+
+{% if site.show_related_posts %}
+  <h3 class="related-post-title">{{ site.text.post.related_posts }}</h3>
+  {% for post in site.related_posts %}
+    <div class="post ml2">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">
+        <h4 class="post-title">{{ post.title }}</h4>
+        <p class="post-summary">{{ post.summary }}</p>
+      </a>
+    </div>
   {% endfor %}
-</ul>
-</div>
-
-<div class="prevnext">
-  {% if page.previous.url %}
-    <a class="prevnext-item older" href="{{ site.url }}{{page.previous.url}}" title="{{ page.previous.title }}">Older</a>
-  {% else %}
-    <span class="prevnext-item older">Older</span>
-  {% endif %}
-  {% if page.next.url %}
-    <a class="prevnext-item older" href="{{ site.url }}{{page.next.url}}" title="{{ page.next.title }}">Newer</a>
-  {% else %}
-    <span class="prevnext-item older">Newer</span>
-  {% endif %}
-</div>
-
-<div class="page-break"></div>
-
-{% if site.disqus_shortname and page.comments == true %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
+{% endif %}
