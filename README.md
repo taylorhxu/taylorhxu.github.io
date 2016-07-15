@@ -21,3 +21,9 @@ I am a biomedical engineering student, technologist, photography enthusiast, min
 - Gallery function is under construction, sample: [jekyll gallery sample](https://github.com/opieters/jekyll-image-gallery-example) by [Oliver Pieters](https://olivierpieters.be).
 
 The photo galleries are created using free (for non-commercial use) and open source frameworks, lightGallery and Isotope. 
+
+# To-do
+
+- add photo gallery
+- add CV 
+- add project page for display
