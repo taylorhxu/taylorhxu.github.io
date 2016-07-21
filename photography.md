@@ -7,10 +7,4 @@ tags: photography
 
 “The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.” - Marcel Proust
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/splendorevision/albums/72157667350882120" title="Iceland 2016 - FUJI X100T"><img src="https://c3.staticflickr.com/8/7131/26554483130_a18a1c3a6a_z.jpg" width="640" height="427" alt="Iceland 2016 - FUJI X100T"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Iceland 2016
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/splendorevision/albums/72157665088319263" title="Paris 2016 - FUJI X100T"><img src="https://c7.staticflickr.com/2/1486/26275176590_7644dd2571_z.jpg" width="640" height="427" alt="Paris 2016 - FUJI X100T"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-Paris 2016
+<a data-flickr-embed="true" data-header="true"  href="https://www.flickr.com/photos/splendorevision/albums/72157670630820101" title="Showcase "><img src="https://c5.staticflickr.com/9/8744/28342753836_9fcfbc54bb_c.jpg" width="800" height="534" alt="Showcase "></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
