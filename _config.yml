@@ -1,18 +1,7 @@
-<<<<<<< Updated upstream
-# Site settings
-title:       Taylor Xu
-email:       taylorhxu@gmail.com
-author:      Taylor Xu
-description: "Technology, above and beyond."
-baseurl:     ""
-url:         "http://taylorhxu.github.io"
-date_format: "%b %-d, %Y"
-=======
 ### your site title here
->>>>>>> Stashed changes
 
-title: Hagura - Light!
-baseurl: /hagura # name of the repository
+title: Taylor Xu
+baseurl: /taylorhxu # name of the repository
 
 highlighter: rouge
 markdown: kramdown
@@ -20,25 +9,8 @@ markdown: kramdown
 
 
 
-<<<<<<< Updated upstream
-# Social icons
-github_username: taylorhxu
-bitbucket_username:
-stackoverflow_id: 
-twitter_username: taylorhxu
-skype_username:
-steam_nickname:
-google_plus_id: 
-linkedin_username: taylorhxu
-angellist_username:
-medium_id: taylorhxu
-bitcoin_url:
-paypal_url:
-flattr_button:
-=======
 # Tracker
-analytics: UA-83979019-1
->>>>>>> Stashed changes
+analytics: 
 
 #optimization
 #compress.html
