@@ -12,7 +12,9 @@ This is a mainly a static site, created with Jekyll and hosted on Github. The si
 
 #### About Me
 
-I am a biomedical engineering student at City University London, tech enthusiast, music festival goer & former London 2012 cast, I write for The Hippo Collective.
+I am a final year biomedical engineering student at City, University of London, tech enthusiast, music festival goer & former London 2012 cast, I write for The Hippo Collective.
+
+I am currently working for National Student Pride as Events Officer and Stage Manager.
 
 My main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved biomedical engineering, and also I enjoy photography, travelling, and language learning.
 
