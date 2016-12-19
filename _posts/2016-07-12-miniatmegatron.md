@@ -20,6 +20,6 @@ Sample video:
 
 Shot with Fuji X100T.
 
-<iframe src="https://player.vimeo.com/video/174713347" width="768" height="432" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/174713347" width="770" height="440" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 I will upload more videos later on, thanks for reading! 
