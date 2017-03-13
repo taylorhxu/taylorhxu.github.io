@@ -19,7 +19,6 @@ ecgY=ecg.data(:,2);
 
 %% HRV
 [pks, loc, w, p] = findpeaks(ecgY,ecgX, 'MinPeakProminence', 0.0035);
-% [pks2,loc2,w2,p2] = findpeaks(ecgY,ecgX,'MinPeakHeight',0.00035);
 figure(1)
 plot(ecgX,ecgY, 'k',loc,pks,'rd')
 RR = diff(loc);
@@ -83,7 +82,7 @@ title('Poincare plot')
 %% Spline
 z = spline (loc, pks, ecgX);
 
-figure
+figure(5)
 plot (loc, pks, 'ro', ecgX, z, 'b')
 
 %% SDNN = 0.2543 (Standard deviation of all NN intervals)
