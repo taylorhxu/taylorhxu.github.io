@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Set Up
+title: The Set Up 
 permalink: /setup/
 tags: setup
 
