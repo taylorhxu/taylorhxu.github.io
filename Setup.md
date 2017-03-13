@@ -7,7 +7,7 @@ tags: setup
 ---
 
 Many of you already know this website called [*THE SETUP INTERVIEWS*
-](/https://usesthis.com/), I think it would be fun to do a similar style of post listing all my setups.
+](https://usesthis.com/), I think it would be fun to do a similar style of post listing all my setups.
 
 #### Hardware
 
