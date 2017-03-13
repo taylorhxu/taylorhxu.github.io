@@ -2,7 +2,7 @@
 layout: page
 title: The Set Up
 permalink: /setup/
-tags: tech
+tags: setup
 
 ---
 
