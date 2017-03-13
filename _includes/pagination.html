@@ -1,11 +1,20 @@
-{% if paginator.total_pages > 1 %}
-  <div class="pagination">
-    {% if paginator.next_page %}
-      <a class="previous" href="{{ paginator.next_page_path | relative_url }}">&laquo; Older</a>
-    {% endif %}
-
+<div class="pagination clearfix mb1 mt4">
+  <div class="left">
     {% if paginator.previous_page %}
-      <a class="next" href="{{ paginator.previous_page_path | relative_url }}">Newer &raquo;</a>
+      {% if paginator.page == 2 %}
+        <a class="pagination-item" href="{{ site.baseurl }}/">{{ site.text.pagination.newer }}</a>
+      {% else %}
+        <a class="pagination-item" href="{{ paginator.previous_page_path }}">{{ site.text.pagination.newer }}</a>
+      {% endif %}
+    {% else %}
+      <span class="pagination-item disabled">{{ site.text.pagination.newer }}</span>
     {% endif %}
   </div>
-{% endif %}
+  <div class="right">
+    {% if paginator.next_page %}
+      <a class="pagination-item" href="{{ paginator.next_page_path }}">{{ site.text.pagination.older }}</a>
+    {% else %}
+      <span class="pagination-item disabled">{{ site.text.pagination.older }}</span>
+    {% endif %}
+  </div>
+</div>
