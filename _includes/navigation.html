@@ -8,4 +8,9 @@
         <a href="{{ page.url }}">{{ page.title }}</a>
     {% endif %}
 {% endfor %}
+{% for page in site.pages %}
+    {% if page.tags contains "yearinreview" %}
+        <a href="{{ page.url }}">{{ page.title }}</a>
+    {% endif %}
+{% endfor %}
 

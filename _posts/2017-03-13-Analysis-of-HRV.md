@@ -3,11 +3,11 @@ layout: post
 title: Analysis of Heart Rate Variability from ECG Time Series
 date: 2017-03-13 09:43:25
 categories: Technology
-summary: The aim of this project is to develop a program in Matlab orto read back the data and to calculate the R-R interval (NN interval) in milliseconds for every heart beat in the data set.
+summary: The aim of this project is to develop a program in Matlab to read back the data and to calculate the R-R interval (NN interval) in milliseconds for every heart beat in the data set.
 
 ---
 
-The aim of this project is to develop a program in Matlab orto read back the data and to calculate the R-R interval (NN interval) in milliseconds for every heart beat in the data set.
+The aim of this project is to develop a program in Matlab to read back the data and to calculate the R-R interval (NN interval) in milliseconds for every heart beat in the data set.
 
 ```matlab
 file = 'WS18.lvm';
