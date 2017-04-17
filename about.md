@@ -39,6 +39,6 @@ I have specific interests in statistics, data analysis, medical informatics, bio
 - Mobile App Analytics Fundamentals
 - Google Tag Manager Fundamentals
 
-*Google Digital Garage
+*Google Digital Garage*
 
 - The Online Marketing Fundamentals
