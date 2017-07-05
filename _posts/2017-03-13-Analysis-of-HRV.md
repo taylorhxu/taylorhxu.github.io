@@ -118,7 +118,9 @@ Heart Rate Variability (HRV) is a key indication of physiological resiliency, HR
 Few points were concluded during the research and the analysis of the signal:
 
 •	Low HRV is a risk factor for cardiovascular diseases, including hypertension, ventricular arrhythmia, chronic heart failure, and ischemic heart disease
+
 •	HRV could be largely affected by physiological stress
+
 •	Statistical values help clinicians to give fast and accurate diagnosis 
 
 Despite the errors identified in the Frequency domain analysis, overall the project was a success, each stage of the project was carried out smoothly, with good time management.
