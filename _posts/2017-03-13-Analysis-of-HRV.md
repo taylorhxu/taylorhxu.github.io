@@ -112,3 +112,17 @@ PHF = bandpower(z, 1000, [0.15 0.4]);
 %% Ratio of power in low to high frequency range (PLF/PHF)
 Ratio = PLF/PHF
 ```
+
+
+Heart Rate Variability (HRV) is a key indication of physiological resiliency, HRV reflects how well an individual can adapt effectively to the change of environment.  Existing research on how different levels of HRV associate with disorders help medical professionals to identify and provide diagnosis efficiently and effectively. 
+Few points were concluded during the research and the analysis of the signal:
+
+•	Low HRV is a risk factor for cardiovascular diseases, including hypertension, ventricular arrhythmia, chronic heart failure, and ischemic heart disease
+•	HRV could be largely affected by physiological stress
+•	Statistical values help clinicians to give fast and accurate diagnosis 
+
+Despite the errors identified in the Frequency domain analysis, overall the project was a success, each stage of the project was carried out smoothly, with good time management.
+From familiarisation of Matlab, learning to analyse the data with the new software, the comfort level with Matlab has grown, and in depth knowledge of HRV was gained. 
+
+HRV is emerging as an objective measure of individual differences in the regulatory system, it’s largely involved in Homeostasis, a good indicator of diseases and disorders, as well as its key involvement in emotional responses, mental health and social processes.  
+
