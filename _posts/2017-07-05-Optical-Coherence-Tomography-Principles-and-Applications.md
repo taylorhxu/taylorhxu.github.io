@@ -144,3 +144,73 @@ In addition to the sensitivity and resolution limits, when the light is backscat
 Although the principle of FD-OCT was introduced and known since 1995, due to the lack of advancement of the technology, the first in vivo retinal experiment using FD-OCT was performed in 2002, since then FD-OCT has been rapidly developed [19]. The first 19kHz A-scan was demonstrated in 2003, later with 115kHz was achieved in 2005. Later on, with the advanced laser technology, high speed SS-OCT was developed, approximately 100 times faster than the early on TD-OCT technology, imaging speed of 370kHz is reached. The advancement in imaging speed greatly helped medical professionals with 3D OCT of highly scattered tissue imaging, therefore has an important impact on diagnosis [19].
 
 With the rapid development of technology, especially medical imaging technology, OCT is expected evolve in terms of resolution and acquisition speed are to be developed, and improved. 
+
+### 4. Glossary
+
+Confocal microscopy - an optical imaging technique for increasing optical resolution and contrast of a micrograph by means of adding a spatial pinhole placed at the confocal plane of the lens to eliminate out-of-focus light. It enables the reconstruction of three-dimensional structures from the obtained images.
+
+Bandwidth – the range that frequencies are allowed to pass, in particular used when transmitting a signal.
+
+Coherence time – the time interval within the propagating laser beam’s phase, is on average predictable.
+
+Coherence length – the propagation distance over a coherence wave maintains a specified degree of coherence.
+
+Fourier transform - a function derived from a given function and representing it by a series of sinusoidal functions.
+
+In situ – in the original state.
+
+In vitro - studies are performed with microorganisms, cells or biological molecules outside their normal biological context.
+
+In vivo – studies are performed with microorganisms, cells or biological molecules inside their normal biological context. 
+
+Signal-to-noise Ratio – the ratio of the strength of an electrical or other signal carrying information to that unwanted interference.
+
+Tomography - a technique for displaying a representation of a cross section through a human body or other solid object using X-rays or ultrasound.
+
+### 5. References
+
+[1] Recent Advances in Optical Coherence Tomography for the Diagnoses of Lung Disorders, Randy Hou; Tho Le; Septimiu D Murgu; Zhongping Chen; Matt Brenner. Expert Rev Resp Med. 2011;5(5):711­724.
+
+[2] The Role of Optical Coherence Tomography in Coronary Intervention, Mitsuyasu Terashima, Hideaki Kaneda, Takahoko Suzuki, The Korean Journal of Internal Medicine 2012; 27(1): 1-12. Published online: February 28, 2012, PubMed ID: 22403493, Article Id (pmc): 3295975. DOI: http://dx.doi.org/10.3904/kjim.2012.27.1.1
+
+[3] Huang D, Swanson EA, Lin CP, et al. Optical coherence tomography.
+Science 1991;254:1178-1181
+
+[4] James G Fujimoto, Costas Pitris, Stephen A Boppart, and Mark E Brezinski,, Optical Coherence Tomography: An Emerging Technology for Biomedical Imaging and Optical Biopsy, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1531864/
+
+[5] Rowińska, Z.  Gocławski, J.  Sekulska-Nalewajko, J., The perspectives of Applying OCT technology to the Investigations of Selected Biological Materials and Processes, AUTOMATYKA, 2010
+
+[6] Bunch, Bryan H; Hellemans, Alexander (April 2004). The History of Science and Technology. Houghton Mifflin Harcourt. p. 695. ISBN 978-0-618-22123-3.
+
+[7] Magnat R. Dogra, Vishali Gupta, ATLAS Optical Coherence Tomography of Macular Diseases and Glaucoma, p.15
+
+[8] Erkki Alarousu, Low Coherence Interferometry and Optical Coherence Tomography in Paper Measurements, ISBN: 9514282140, p.25
+
+[9] 12 Orders of Coherence Control: Tailoring the coherence length of diode lasers, Anselm Deninger, Ph.D., and Thomas Renner, Ph.D. TOPTICA Photonics AG
+
+[10] David A Boas, Constantinos Pitris, Nimmi  Ramamujam, Handbook of Biomedical Optics, p. 258
+
+[11] A. F. Fercher, W. Drexler, C. K. Hitzenberger and T. Lasser, Optical Coherence Tomography - Principles and Applications, p.262
+
+[12] David A Boas, Constantinos Pitris, Nimmi  Ramamujam, Handbook of Biomedical Optics, p. 255
+
+[13] Anna Wang Roe, Imaging the brain with optical methods, Springer, DOI 10.1007/978-1-4419-0452-2, p.20
+
+[14] David A Boas, Constantinos Pitris, Nimmi  Ramamujam, Handbook of Biomedical Optics, p. 256
+
+[15] A. Gh Podoleanu, Optical Coherence Tomography, DOI: 10.1111/j.1365-2818.2012.03619.x
+
+[16] DAVID HUANG, M.D., PH.D, OCT Terminology – Demystified!
+http://www.ophthalmologymanagement.com/articleviewer.aspx?articleID=102795
+
+[17] Bruno Lumbroso, Guide to Interpreting Spectral Domain Optical Coherence Tomography, 2nd Edition, ISBN-13: 978-9351521396
+
+[18] Santec Corporation: Inner Vision. Vol.1.1. 2010 http://www.santec.com
+
+[19] [14] David A Boas, Constantinos Pitris, Nimmi  Ramamujam, Handbook of Biomedical Optics, p. 258
+
+[20] Luigi Vignal, Emilia Solinas and Enzo Emanuele, Research and Clinical Applications of Optial Coherence Tomography Invasive Cardiology: A Review http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4101202/
+
+[21] Gangjun Liu and Zhongping Chen, Advances in Doppler OCT, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3893147/
+
+[22] A.F. Fercher, C.K. Hizenberger, in Progress in Optics, ed. by E. Wolf (Elsevier, North-Holland, 2002), p. 215
