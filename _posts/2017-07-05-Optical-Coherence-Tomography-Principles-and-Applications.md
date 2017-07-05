@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Optical Coherence Tomography: Principles and Applications
-date: 2016-03-03 09:33:56
-categories: Thoughts
+date: 2017-07-05 09:33:56
+categories: BME
 summary: Optical coherence tomography (OCT) is a non-invasive, high resolution, medical imaging technique has been widely adopted in the biomedical field, that obtains topographical images of human organs, based the coherence of light, from optical tissue interfaces, and uses the principle of optical interferometry 
 tags: optics, science, stem, 
 
