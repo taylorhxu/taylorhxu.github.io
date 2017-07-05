@@ -116,7 +116,7 @@ Optical coherence tomography technique and clinical applications have advance si
 
 ### 3.1 Cardiology
 
-As an analog of intravascular ultrasound, optical coherence tomography (OCT) can be used to examine coronary arteries and has higher resolution than intravascular ultrasound. The first use of OCT in coronary artery observations was in 1991, as a non-invasive imaging technique, OCT is widely accepted and has maintained a strong presence in the field, for identifying vulnerable plaques. Recent development of computational techniques including algorithms for tissue characterization with £D and 4D Doppler OCT advance the imaging process in order to achieve a more objective interpretation of results. The involvement of the OCT technique not only improved our understanding of vascular morphology and patho-physiology, but also in long-term vascular assessments [20]. 
+As an analog of intravascular ultrasound, optical coherence tomography (OCT) can be used to examine coronary arteries and has higher resolution than intravascular ultrasound. The first use of OCT in coronary artery observations was in 1991, as a non-invasive imaging technique, OCT is widely accepted and has maintained a strong presence in the field, for identifying vulnerable plaques. Recent development of computational techniques including algorithms for tissue characterization with 3D and 4D Doppler OCT advance the imaging process in order to achieve a more objective interpretation of results. The involvement of the OCT technique not only improved our understanding of vascular morphology and patho-physiology, but also in long-term vascular assessments [20]. 
 
 ### 3.2 Ophthalmology
 
