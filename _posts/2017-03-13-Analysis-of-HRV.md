@@ -29,6 +29,9 @@ xlabel('Seconds'); ylabel('Amplitude'); legend('Real Time ECG signal')
 grid on
 title('Heart Rate Variability')
 
+![](/images/hrv/1.png)
+
+![](/images/hrv/2.png)
 
 %% RR
 figure(2)
