@@ -9,6 +9,9 @@ summary: The aim of this project is to develop a program in Matlab to read back 
 
 The aim of this project is to develop a program in Matlab to read back the data and to calculate the R-R interval (NN interval) in milliseconds for every heart beat in the data set.
 
+![](/images/hrv/3.png)
+
+
 ```matlab
 file = 'WS18.lvm';
 ecg = importdata(file,'\t',23);
