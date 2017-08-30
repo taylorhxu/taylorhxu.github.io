@@ -6,7 +6,7 @@ tags: review
 
 ---
 
-As a huge music lover and list enthusiast, I started making playlists for my personal annual reviews.
+As a huge music lover and list enthusiast, I started making playlists for my personal annual reviews since 2012.
 
 
 2016 
