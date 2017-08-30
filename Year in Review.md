@@ -6,6 +6,9 @@ tags: review
 
 ---
 
+As a huge music lover and list enthusiast, I started making playlists for my personal annual reviews.
+
+
 2016 
 
 January: Angels Echoes – Four Tet
