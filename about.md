@@ -12,7 +12,7 @@ This is a mainly a static site, created with Jekyll and hosted on Github. The si
 
 #### About Me
 
-I am a Biomedical Engineering graduate from City, University of London, tech enthusiast, music festival goer & former London 2012 cast, I write for The Hippo Collective.
+I am a Biomedical Engineering graduate from City, University of London, tech enthusiast, music festival goer & former London 2012 cast, I write for [The Hippo Collective](http://www.thehippocollective.com/author/taylorhxu/).
 
 I am currently working for National Student Pride as Events Officer and Stage Manager.
 
