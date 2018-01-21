@@ -11,16 +11,27 @@ As a huge music lover and list enthusiast, I started making playlists for my per
 
 ### 2017
 January: Party Monster - the Weekend
+
 February: Scared to be lonely - Dua Lipa
+
 March: Superstar -Broods
+
 April: Emotional - Charlie XCX 
+
 May: Vivaldi Violin Concerto in F Minor
+
 June: Saturn - Sleeping At Last
+
 July: We can’t stop - Miles Cyrus 
+
 August: Lust for life - Lana Del Rey 
+
 September: Farolito - Alondra de la Parra 
+
 October: Grizzly bear - Angus & Julia Stone
+
 November: Be Together -Major Lazer
+
 December: Stranger - Tove Lo
 ### 2016 
 January: Angels Echoes – Four Tet
