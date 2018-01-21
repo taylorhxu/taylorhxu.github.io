@@ -14,7 +14,9 @@ This is a mainly a static site, created with Jekyll and hosted on Github. The si
 
 I am a Biomedical Engineering graduate from City, University of London, tech enthusiast, music festival goer & former London 2012 cast, I write for [The Hippo Collective](http://www.thehippocollective.com/author/taylorhxu/).
 
-I am currently working for National Student Pride as Events Officer and Stage Manager.
+I am currently working for J.P. Morgan.
+
+Previously , i worked at National Student Pride as Events Officer and Stage Manager, customer experience consultant at Adthena.
 
 My main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved biomedical engineering, and also I enjoy photography, travelling, and language learning.
 
