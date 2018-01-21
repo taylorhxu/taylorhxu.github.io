@@ -9,8 +9,20 @@ tags: review
 As a huge music lover and list enthusiast, I started making playlists for my personal annual reviews since 2012.
 
 
-2016 
-
+### 2017
+January: Party Monster - the Weekend
+February: Scared to be lonely - Dua Lipa
+March: Superstar -Broods
+April: Emotional - Charlie XCX 
+May: Vivaldi Violin Concerto in F Minor
+June: Saturn - Sleeping At Last
+July: We can’t stop - Miles Cyrus 
+August: Lust for life - Lana Del Rey 
+September: Farolito - Alondra de la Parra 
+October: Grizzly bear - Angus & Julia Stone
+November: Be Together -Major Lazer
+December: Stranger - Tove Lo
+### 2016 
 January: Angels Echoes – Four Tet
 
 February: Avril 14th – Aphex Twin
@@ -35,7 +47,7 @@ November: Starboy – The Weeknd
 
 December: Gasoline – Halsey
 
-2015 
+### 2015 
 
 January: Banoffee - Get it
 
@@ -61,7 +73,7 @@ November: Basement Jaxx - Something About You
 
 December: Lianne La Havas - No Room For Doubt 
 
-2014
+### 2014
 
 January: Lana Del Rey - Never Let Me Go 
 
@@ -87,7 +99,7 @@ November: JJ -Ecstacy
 
 December: Masquer - A Crush
 
-2013 
+### 2013 
 
 January: Mumford and Sons - The Cave
 
