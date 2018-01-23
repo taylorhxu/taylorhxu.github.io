@@ -7,6 +7,7 @@ tags: setup
 ---
 
 ### Digital camera(s): 
+- <s>Nikon D7000</s>
 - <s>Nikon D750</s>
 - <s>Fuji X100T</s>
 - Sony A7ii
@@ -14,8 +15,8 @@ tags: setup
 - GoPro Hero 4
 - Fujifilm Instax 7
 
-### Film camera: 
-- <s> Yashica FX-3 Super (My dad got it in late 1980s) </s> 
+### Film camera(s): 
+- <s>Yashica FX-3 Super</s> 
 - Minolta Freedom Dual C
 - Ricoh GR1s
 
