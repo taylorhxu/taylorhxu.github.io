@@ -29,5 +29,5 @@ tags: setup
 - Audio-Technica Black AT-LP120USB Turntable
 
 ### Other(s): 
-- LaCie 1TB Rugged thunderbolt
+- <s>LaCie 1TB Rugged thunderbolt</s>
 - echo dot (gen 2)
