@@ -15,9 +15,14 @@ tags: setup
 - GoPro Hero 4
 - Fujifilm Instax 7
 
+### Lens(es):
+- Samyang 35mm f2.8
+- Sony 50m f1.8
+- Sony 28-70mm f3.5-5.6
+
 ### Film camera(s): 
 - <s>Yashica FX-3 Super</s> 
-- Minolta Freedom Dual C
+- <s>Minolta Freedom Dual C</s>
 - Ricoh GR1s
 
 ### Computer(s): 
