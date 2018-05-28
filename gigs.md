@@ -11,8 +11,7 @@ All Points East 2018
 
 Field Day 2017
 
-Florence + The Machine & Kendrick Lamar | British Summer Time Hyde Park 2016 
-
+Florence + The Machine & Kendrick Lamar at British Summer Time Hyde Park 2016 
 
 Glastonbury 2016
 
@@ -26,7 +25,7 @@ Camden Crawl 2014
 
 Glastonbury 2014
 
-The Libertines | British Summer Time Hyde Park 2014
+The Libertines at British Summer Time Hyde Park 2014
 
 ### Artists
 
