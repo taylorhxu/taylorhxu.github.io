@@ -35,9 +35,15 @@ Arctic Monkeys
 
 Alt J 
 
+ABRA
+
 Apothek
 
 Alvvays
+
+Alexis Taylor
+
+Allie X
 
 Bajofondo
 
@@ -51,9 +57,17 @@ Bombay bicycle club
 
 Bo Ningen 
 
+Björk
+
+Beck
+
 Chvrches 
 
+Christine and the Queens
+
 Clean bandit 
+
+Cloves
 
 Clean cut kid 
 
@@ -81,6 +95,8 @@ DIIV
 
 Darlia
 
+Dua Lipa
+
 Editors
 
 Ellie Goulding
@@ -101,6 +117,8 @@ Foals
 
 FFS (Franz Ferdinand and Sparks)
 
+Four Tet 
+
 The Horrors
 
 Haim
@@ -108,6 +126,8 @@ Haim
 Halsey 
 
 Hurts
+
+Hot Chip
 
 Jessie Ware 
 
@@ -157,7 +177,7 @@ Nick Mulvey
 
 Nitin Sawney
 
-The Naked and famous
+Oscar and the wolf
 
 Poliça 
 
@@ -166,6 +186,10 @@ Patti Smith
 Placebo 
 
 Royal Blood
+
+Rex Orange County
+
+Rhye
 
 Roseau
 
@@ -178,6 +202,10 @@ Ride
 Reverend and the makers
 
 Sons & Lovers 
+
+Superorganism
+
+Sampha
 
 Sam Smith
 
@@ -195,6 +223,8 @@ Susanne Sundfor
 
 Shura 
 
+Sylvan Esso
+
 Tei Shi
 
 The Subways
@@ -202,6 +232,8 @@ The Subways
 The Libertines
 
 The Wytches
+
+The Naked and famous
 
 The Last Internationale 
 
@@ -225,6 +257,8 @@ The XX
 
 Viet Cong
 
+Vessels
+
 White lies
 
 Wet
@@ -232,3 +266,9 @@ Wet
 Wolf Alice 
 
 Wyles & Simpson 
+
+Youngg Fathers
+
+Years & Years
+
+Yeah Yeah Yeahs
