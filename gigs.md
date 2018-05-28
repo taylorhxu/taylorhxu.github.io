@@ -2,6 +2,7 @@
 layout: page
 title: gigs
 permalink: /gigs/
+tags: gigs
 ---
 
 All Points East 2018
