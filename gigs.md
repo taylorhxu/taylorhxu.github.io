@@ -1,13 +1,18 @@
 ---
 layout: page
-title: gigs
+title: Gigs
 permalink: /gigs/
 tags: gigs
 ---
 
+### Festivals
+
 All Points East 2018
 
 Field Day 2017
+
+Florence + The Machine & Kendrick Lamar | British Summer Time Hyde Park 2016 
+
 
 Glastonbury 2016
 
@@ -22,12 +27,14 @@ Camden Crawl 2014
 Glastonbury 2014
 
 The Libertines | British Summer Time Hyde Park 2014
--
+
+### Artists
+
 Angel Haze
 
 Arctic Monkeys
 
-Alt J x4
+Alt J 
 
 Apothek
 
@@ -35,39 +42,41 @@ Alvvays
 
 Bajofondo
 
+BADBADNOTGOOD
+
 Babymetal
 
 Blondie
 
 Bombay bicycle club
 
-Bo Ningen x2
+Bo Ningen 
 
-Chvrches x4
+Chvrches 
 
-Clean bandit x2
+Clean bandit 
 
-Clean cut kid x2
+Clean cut kid 
 
-Cuckoolander x3
+Cuckoolander 
 
 Charli XCX
 
 Carmody
 
-Catfish and the Bottlemen x2
+Catfish and the Bottlemen 
 
 Caribou
 
 Chet Faker
 
-Circa Waves x2
+Circa Waves 
 
 Cymbal Play Guitars
 
 Disclosure
 
-Drenge x2
+Drenge 
 
 DIIV
 
@@ -87,6 +96,8 @@ EX HEX
 
 FKA Twigs
 
+Friendly Fires
+
 Foals
 
 FFS (Franz Ferdinand and Sparks)
@@ -95,25 +106,29 @@ The Horrors
 
 Haim
 
-Halsey x2
+Halsey 
 
 Hurts
 
-Jessie Ware x2
+Jessie Ware 
 
 Kaiser chiefs
 
 Kelis
 
-Kindness x2
+Kindness 
 
 The Libertines
 
-Los Campesinos! x2
+Los Campesinos! 
 
 Lana Del Rey
 
-Lykke Li x3
+Lykke Li 
+
+Lorde
+
+LCD Soundsystem
 
 Lucy rose
 
@@ -121,7 +136,7 @@ Lapsley
 
 Lily Allen
 
-Little Dragon x2
+Little Dragon 
 
 M.I.A
 
@@ -145,17 +160,17 @@ Nitin Sawney
 
 The Naked and famous
 
-Poliça x5
+Poliça 
 
 Patti Smith
 
-Placebo x2
+Placebo 
 
 Royal Blood
 
 Roseau
 
-Rae Morris x2
+Rae Morris 
 
 Run the Jewels
 
@@ -163,7 +178,7 @@ Ride
 
 Reverend and the makers
 
-Sons & Lovers x2
+Sons & Lovers 
 
 Sam Smith
 
@@ -171,14 +186,15 @@ Slowdive
 
 Skrillex
 
-Spector x2
+Spector 
 
 Spiritualized
 
-Swim Deep x2
+Swim Deep 
+
 Susanne Sundfor
 
-Shura x3
+Shura 
 
 Tei Shi
 
@@ -190,10 +206,9 @@ The Wytches
 
 The Last Internationale 
 
+The 1975 
 
-The 1975 x2
-
-Twin Atlantic x2
+Twin Atlantic 
 
 Twin Peaks
 
@@ -202,9 +217,12 @@ Tom Misch
 Todd Terje and the Oslens
 
 Tame Impala
+
 Temples
 
-TOY x2
+TOY 
+
+The XX
 
 Viet Cong
 
@@ -212,6 +230,6 @@ White lies
 
 Wet
 
-Wolf Alice x3
+Wolf Alice 
 
-Wyles & Simpson x2
+Wyles & Simpson 
