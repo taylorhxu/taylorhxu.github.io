@@ -11,9 +11,9 @@ Artificial Intelligence
 
 Biomedical Engineer 
 
-C. G. Jung theories
+Chinese
 
-D
+Data analytics
 
 Eric Kandel In Search of Memory
 
@@ -21,15 +21,15 @@ Elizabeth Bishop & Lota de Macedo Soares
 
 Fencing martial arts
 
-German 
+German language
 
 H
 
-INFJ extroverted introverted
+INFJ extroverted introvert
 
 Jungian
 
-K
+Klimt
 
 Literature journey never ends
 
