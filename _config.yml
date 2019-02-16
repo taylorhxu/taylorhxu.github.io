@@ -17,7 +17,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   true
 show_post_footers:    true
 show_social_icons:    true
@@ -40,7 +40,7 @@ facebook_comments_number: 10
 github_username: taylorhxu
 bitbucket_username:
 stackoverflow_id: 
-twitter_username: 
+twitter_username: taylorhxu
 skype_username:
 steam_nickname:
 google_plus_id: 
