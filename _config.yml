@@ -1,112 +1,31 @@
-# Site settings
-title:       Taylor Xu
-email:       taylorhxu@gmail.com
-author:      Taylor Xu
-description: "Techno, above and beyond."
-baseurl:     ""
-url:         "http://taylorhxu.github.io"
-date_format: "%b %-d, %Y"
+# top level stuff you probably don't need to touch
+highlighter: rouge
+markdown: kramdown
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+plugins: [jekyll-paginate]
+port: 3000
+safe: true
 
-# Google services
-google_verification:
-# Use either direct GA implementation or set up GTM account
-# - using both will skew your data (leave blank to not use at all)
-google_analytics: UA-55488001-1
-google_tag_manager:
-# Bing services
-bing_verification:
 
-# Optional features
-animated:             true
-show_related_posts:   true
-show_post_footers:    true
-show_social_icons:    true
-ajaxify_contact_form: true
-enable_mathjax: true
-extended_fonts: true
-enable_anchorjs: true
+# edit here to achieve your personal greatness
+url: http://taylorhxu.github.io/
+baseurl: 
+title: Taylor Xu
+author: Taylor Xu
+description: Personal blog and resume
+avatar: me.jpg
+email: taylorhxu@email.com
+github: taylorhxu # username
+twitter: taylorhxu
+linkedin: taylorhxu
+stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus
+disqus: 
+google_analytics: 
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname: taylorhxugj
 
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments:
-facebook_appid:
-facebook_comments_number: 10
-
-# Social icons
-github_username: taylorhxu
-bitbucket_username:
-stackoverflow_id: 
-twitter_username: taylorhxu
-skype_username:
-steam_nickname:
-google_plus_id: 
-linkedin_username: taylorhxu
-angellist_username:
-medium_id: 
-bitcoin_url:
-paypal_url:
-flattr_button:
-
-# Post sharing icons
-show_sharing_icons: false
-# Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
-share_digg: false
-share_tumblr: false
-share_reddit: false
-share_stumbleupon: false
-share_hackernews: false
-
-text:
-  pagination:
-    newer: 'Newer'
-    older: 'Older'
-  share_buttons:
-    text:         'Share this post!'
-    facebook:     'Share on Facebook'
-    twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
-    linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
-    reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
-    hackernews:   'Share on Hacker News'
-  post:
-    updated:        'Updated'
-    minute_read:    'minute read'
-    related_posts:  'Related Posts'
-  index:
-    coming_soon: 'Coming soon...'
-  contact:
-    email:    'Email Address'
-    content:  'What would you like to say?'
-    subject:  'New submission!'
-    submit:   'Say Hello'
-    ajax:
-      sending:  'sending..'
-      sent:     'Message sent!'
-      error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
-  og_locale: 'en_US'
-
-# Build settings
-markdown:     kramdown
-redcarpet:
-  extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    pretty
-paginate:     5
-sass:
-  compressed: true
-gems:
-  - jekyll-paginate
-  - jekyll-sitemap
-# https://github.com/jekyll/jekyll/issues/2938
+# needed for travis-ci build
 exclude: [vendor]
