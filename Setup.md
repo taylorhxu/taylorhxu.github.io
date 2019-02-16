@@ -11,9 +11,11 @@ tags: setup
 - <s>Nikon D750</s>
 - <s>Fuji X100T</s>
 - Sony A7ii
-- iPhone 7
+- <s>iPhone 7 </s>
 - GoPro Hero 4
-- Fujifilm Instax 7
+- <s>Fujifilm instax 7</s>
+- iPhone Xs
+- Fujifilm instax mini 90
 
 ### Lens(es):
 - Samyang 35mm f2.8
@@ -28,10 +30,12 @@ tags: setup
 ### Computer(s): 
 - 13” MacBook Pro Retina (Mid 2014) with 3GHz Intel Core i7 processor, 16GB RAM, 256GB SSD
 - Monitor: Samsung C27F591 27 inch Curved LED Monitor White
+- Logitech Multi-Device K380 Wireless Bluetooth
 
 ### Audio: 
 - Bose Soundtouch 10 x2 (Black)
 - Audio-Technica Black AT-LP120USB Turntable
+- Bose SoundSport Bluetooth Wireless In-Ear Headphones
 
 ### Other(s): 
 - <s>LaCie 1TB Rugged thunderbolt</s>
