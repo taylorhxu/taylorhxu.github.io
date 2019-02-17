@@ -4,7 +4,7 @@ title: What is the role of science journalism in the 21st century?
 date: 2013-06-06 09:33:56
 categories: Thoughts
 summary: "Science values detail, precision, the impersonal, the technical, the lasting, facts, numbers and being right. Journalism values brevity, approximation, the personal, the colloquial, the immediate, stories, words and being right now. There are going to be tensions."
-tags: journalism, science, stem, 
+tags: journalism 
 
 ---
 
