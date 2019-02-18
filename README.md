@@ -24,6 +24,6 @@ The photo galleries are created using free (for non-commercial use) and open sou
 
 # To-do
 
-- add photo gallery
 - add CV 
 - add project page for display
+
