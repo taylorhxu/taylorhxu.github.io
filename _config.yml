@@ -1,31 +1,41 @@
-# top level stuff you probably don't need to touch
-highlighter: rouge
+name: Dark Paper
+description: >
+    A simple jekyll theme aimed at programmers who like clean interface to write posts
+    and show off some code.
+about: >
+    At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+
+master_repo: false
+url: ""
 markdown: kramdown
-rdiscount:
-  extensions: [smart]
-permalink: /:title.html
-paginate: 5
-plugins: [jekyll-paginate]
-port: 3000
-safe: true
+highlighter: rouge
+subdomain_slug: dark-paper
+# make on_subdomain false if using on a root domain
+on_subdomain: true
 
 
-# edit here to achieve your personal greatness
-url: http://taylorhxu.github.io/
-baseurl: http://taylorhxu.github.io/
-title: Taylor Xu
-author: Taylor Xu
-description: Personal blog and resume
-avatar: me.jpg
-email: taylorhxu@email.com
-github: taylorhxu # username
-twitter: taylorhxu
-linkedin: taylorhxu
-stackoverflow: username   #e.g: users/2735833/proton1h1
-#Comment out if you don't want disqus
-disqus: 
-google_analytics: 
+plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
+paginate: 4
 
-# needed for travis-ci build
-exclude: [vendor]
+logo:             favicon-96x96.png
+disqus_shortname:
+
+rtl: false
+owner:
+  name:           Taylor Xu
+  avatar:         ""
+  email:          "taylor.h.xu"gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter: taylorhxu
+  github: https://github.com/taylorhxu
+  stackexchange: 
+  linkedin: h
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
