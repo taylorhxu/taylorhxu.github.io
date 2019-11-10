@@ -7,6 +7,8 @@ tags: gigs
 
 ### Festivals
 
+Pitchfork Paris 2019
+
 All Points East 2018
 
 Field Day 2017
@@ -160,6 +162,8 @@ Lapsley
 Lily Allen
 
 Little Dragon 
+
+Lizzo
 
 M.I.A
 
