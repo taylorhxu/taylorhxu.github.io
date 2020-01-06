@@ -7,13 +7,14 @@ tags: gigs
 
 ### Festivals
 
+
 Pitchfork Paris 2019
 
 All Points East 2018
 
 Field Day 2017
 
-Florence + The Machine & Kendrick Lamar at British Summer Time Hyde Park 2016 
+Florence + The Machine & Kendrick Lamar at BST Hyde Park 2016 
 
 Glastonbury 2016
 
@@ -30,6 +31,7 @@ Glastonbury 2014
 The Libertines at British Summer Time Hyde Park 2014
 
 ### Artists
+
 
 Angel Haze
 
