@@ -9,11 +9,11 @@ tags: az
 
 Artificial Intelligence
 
-Biomedical Engineer 
+Biomedical Engineering Bachelor
 
 Chinese
 
-Data analytics
+Data science
 
 Eric Kandel In Search of Memory
 
@@ -23,7 +23,7 @@ Fencing martial arts
 
 German language
 
-H
+Hampstead based
 
 INFJ extroverted introvert
 
@@ -31,15 +31,15 @@ Jungian
 
 Klimt
 
-Literature journey never ends
+Light installation
 
-Marine corps all my heart
+M
 
 Neuropsychiatrist enthusiast
 
 Object storage
 
-Pescetarian non restrictly
+P
 
 Queer identified
 
@@ -51,7 +51,7 @@ Tailored tweed jacket
 
 UK bred Scandinavian minimalist
 
-Vinyl will never die
+Vinyl
 
 W
 
