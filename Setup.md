@@ -10,23 +10,23 @@ tags: setup
 - <s>Nikon D7000</s>
 - <s>Nikon D750</s>
 - <s>Fuji X100T</s>
-- <s>Sony A7ii</s>s>
+- <s>Sony A7ii</s>
 - <s>iPhone 7 </s>
 - <s>GoPro Hero 4</s>s>
 - <s>Fujifilm instax 7</s>
 - iPhone Xs
 - FujiFilm instax mini 90
-- FujiFilm X100F
+- FujiFilm X100F (less is more :) )
 
 ### Lens(es):
-- <s>Samyang 35mm f2.8</s>s>
+- <s>Samyang 35mm f2.8</s>
 - <s>Sony 50m f1.8</s>
 - <s>Sony 28-70mm f3.5-5.6</s>
 
 ### Film camera(s): 
 - <s>Yashica FX-3 Super</s> 
 - <s>Minolta Freedom Dual C</s>
-- <s>Ricoh GR1s</s>s>
+- <s>Ricoh GR1s</s>
 - Leica Minilux
 
 ### Computer(s): 
