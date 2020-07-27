@@ -12,7 +12,7 @@ tags: setup
 - <s>Fuji X100T</s>
 - <s>Sony A7ii</s>
 - <s>iPhone 7 </s>
-- <s>GoPro Hero 4</s>s>
+- <s>GoPro Hero 4</s>
 - <s>Fujifilm instax 7</s>
 - iPhone Xs
 - FujiFilm instax mini 90
