@@ -16,7 +16,11 @@ I am a Biomedical Engineering graduate from City, University of London, tech ent
 
 I currently work for J.P. Morgan as a Software Engineer.
 
-Previously , I worked at National Student Pride as Events Officer and Stage Manager, customer experience consultant at [Adthena](https://www.adthena.com/).
+Previously, I worked at National Student Pride as Events Officer and Stage Manager, customer experience consultant at [Adthena](https://www.adthena.com/).
+
+Used to be a massive [music festival fan](https://taylorhxu.github.io/gigs/).
+
+And was a drummer for [London 2012 Olympics ceremonies](https://www.imdb.com/name/nm5344656/).
 
 My main academic interest lies in the field of computational neuroscience & artificial intelligence applications for improved biomedical engineering, and also I enjoy photography, travelling, and language learning.
 
