@@ -6,6 +6,8 @@ tags: setup
 
 ---
 
+Inspired by [Use This](https://usesthis.com/)
+
 ### Digital camera(s): 
 - <s>Nikon D7000</s>
 - <s>Nikon D750</s>
