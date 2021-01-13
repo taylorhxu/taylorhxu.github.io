@@ -1,0 +1,11 @@
+links:
+- title: Misc. Taylor
+  url: /
+- title: About
+  url: /about
+- title: Search
+  url: /search
+- title: A-Z
+  url: /az
+- title: Rss
+  url: /atom.xml

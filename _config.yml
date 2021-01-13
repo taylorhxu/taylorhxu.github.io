@@ -1,22 +1,62 @@
-# Permalinks
-#
-# Use of `relative_permalinks` ensures post links from the index work properly.
-permalink:           pretty
-relative_permalinks: false
-
-# Setup
-title:               Misc Taylor
-tagline:             'personal wiki in progress'
-description:         ''
-url:                 http://taylorhxu.github.io
-baseurl:             ''
-paginate:            5
-
-# About/contact
+site: Sidey
+url: #yoururl
+title: Sidey
+description: Simple and minimalistic jekyll blogging theme.
+twitter:
+  username: taylorhxu
+  card: summary
+  creator: #yourusername
 author:
-  name:              Taylor Xu
-  url:               https://twitter.com/taylorhxu
-  email:             taylorhxu@gmail.com
+  twitter: taylorhxu
+  name: #yourusername
+  avatar:
+  email: #youremail
+  url: #yoururl
+permalink: pretty
 
-# Custom vars
-version:             1.0.0
+baseurl: ""
+
+highlighter: none
+
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
+
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
