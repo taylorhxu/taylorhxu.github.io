@@ -1,5 +1,5 @@
 links:
-- title: Misc. Taylor
+- title: Taylor Xu
   url: /
 - title: About
   url: /about
@@ -7,5 +7,7 @@ links:
   url: /search
 - title: A-Z
   url: /az
+- title: Year in Review
+  url: /yearinreview
 - title: Rss
   url: /atom.xml

@@ -8,7 +8,34 @@ tags: review
 
 As a huge music lover and list enthusiast, I started making playlists for my personal annual reviews since 2012.
 
+### 2019
+
+Jan: Sufjan Stevens - Visions of Gideon
+
+Feb: Tove Styrke- On the Low
+
+Mar: Bipolar Sunshine - Tears
+
+Apr: Rina Sawayama - Cyber Stockholm Syndrome 
+
+May: Wham! - Wake me up before you go-go
+
+Jun: Allie X - Not so bad in LA
+
+Jul: Anne Marie - Can I get your number 
+
+Aug: Tessa Violet - Crush 
+
+Sept: Mitski - Geyser 
+
+Oct: Swim Deep - King City 
+
+Nov: Cigarettes After Sex - Sweet 
+
+Dec: Charlie XCX - Emotional
+
 ### 2018 
+
 Jan: Sufjan Stevens - Visions of Gideon
 
 Feb: Tove Styrke- On the Low
@@ -35,6 +62,7 @@ Dec: Charlie XCX - Emotional
 
 
 ### 2017
+
 January: Party Monster - the Weekend
 
 February: Scared to be lonely - Dua Lipa
@@ -58,7 +86,9 @@ October: Grizzly bear - Angus & Julia Stone
 November: Be Together -Major Lazer
 
 December: Stranger - Tove Lo
+
 ### 2016 
+
 January: Angels Echoes – Four Tet
 
 February: Avril 14th – Aphex Twin
