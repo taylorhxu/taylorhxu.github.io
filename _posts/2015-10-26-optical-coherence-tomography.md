@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Optical Coherence Tomography: Principles and Applications
+date: 2015-10-26 19:33:56
 description: The discussion of pathologies for Drug Abuse, Epilepsy, Dementia, Alzheimer' disease and Parkinson's Disease
-tags: [medical imaging, neuro, cognitive]
+tags: [biomedical engineering]
 ---
 
 ### Introduction 
