@@ -2,43 +2,41 @@
 layout: post
 title: Brain Neurological Disorders and Cognitive Research
 description: The discussion of pathologies for Drug Abuse, Epilepsy, Dementia, Alzheimer' disease and Parkinson's Disease
-summary: In this Medical Imaging Modalities Report for Brain Neurological Disorders, the discussion of pathologies for Drug Abuse, Epilepsy, Dementia, Alzheimer' disease and Parkinson's Disease, and their respective imaging modalities will be looked at. Based on the range of different modalities, research on each chosen disorder and available modalities will be compared, a demonstration of image processing using 3D slicer and Matlab will be carried out, using DICOM volumes and available resources.
 tags: [medical imaging, neuro, cognitive]
 ---
 
-###Brain Neurological Disorders and Cognitive Research
+#### Abstract 
 
-####Abstract####
-
-In this Medical Imaging Modalities Report for Brain Neurological Disorders, the discussion of pathologies for Drug Abuse, Epilepsy, Dementia, Alzheimer&#39;s disease and Parkinson&#39;s Disease, and their respective imaging modalities will be looked at.
+In this Medical Imaging Modalities Report for Brain Neurological Disorders, the discussion of pathologies for Drug Abuse, Epilepsy, Dementia, Alzheimer's disease and Parkinson's Disease, and their respective imaging modalities will be looked at.
 
 Based on the range of different modalities, research on each chosen disorder and available modalities will be compared, a demonstration of image processing using 3D slicer and Matlab will be carried out, using DICOM volumes and available resources.
 
 
-# Introduction
+### Introduction
+
 The human brain is the most complex organ in the body – regulating basic functions, responding and shaping the thoughts, emotions and behaviours[1]. Neurological disorders are diseases of the brain, spine and the nerves that connect them. There are more than 600 diseases of the nervous system, such as Epilepsy, Parkinson's disease, and Dementia.
 
-This report will include:
+This report will discuss:
 
 - the specific characteristics of pathologies related to these disorders and how current medical imaging modalities can help to correctly diagnose these disorders
-- why each individual imaging modalities are used for evaluation of the conditions along with a brief description of the principle &amp; theory behind each modality
+- why each individual imaging modalities are used for evaluation of the conditions along with a brief description of the principle, and theory behind each modality
 - the advantages and disadvantages of the modality when applied to a specific problem along with various factors such as the duration of conducting the imaging examinations
 - different methods that can be used to process images acquired, for instance through enhancement, registration or 3D reconstruction
 
-1.
-# Problem Domain
 
-## 2.1 Physiology
+### Problem Domain
+
+#### Physiology
 
 ![](RackMultipart20210113-4-1id6ssm_html_b57900ab0e96dc83.jpg) [CITATION Bra171 \l 2057]
 
 _Figure 1 Brain Physiology_
 
-The brain is known to be the most complex organ in the human body and is usually referred to as the body&#39;s &#39;control centre&#39;, as it is responsible for a variety of different processes such as movement, speech, emotions and consciousness. On average the human brain makes up 2% of the body&#39;s overall weight, weighing 1.4kg. It is often described as a &quot;spongy&quot; organ which is comprised of nerve and support tissues and typically made up of three main parts; cerebrum, cerebellum and brain stem. Owing to the brains high fragility it is made up of three major lines of defence. The first line comprises of the hair and skull, preventing excessive heat loss and protecting the brain from any external impact that may occur. The second line of defence is the meninges, this is a set of thin membranes which serve to protect the integrity of the brain and its physical structure, it also provides shock absorption Lastly the cerebrospinal fluid makes up the third line of defence. This is a fluid found in the ventricles of the brain; it acts as a cushion and provides a transportation path for material. The lower part of the brain is connected to the spinal cord and the combination of these two regions forms the central nervous system.
+The brain is known to be the most complex organ in the human body and is usually referred to as the body's "control centre";, as it is responsible for a variety of different processes such as movement, speech, emotions and consciousness. On average the human brain makes up 2% of the body's overall weight, weighing 1.4kg. It is often described as a "spongy"organ which is comprised of nerve and support tissues and typically made up of three main parts; cerebrum, cerebellum and brain stem. Owing to the brains high fragility it is made up of three major lines of defence. The first line comprises of the hair and skull, preventing excessive heat loss and protecting the brain from any external impact that may occur. The second line of defence is the meninges, this is a set of thin membranes which serve to protect the integrity of the brain and its physical structure, it also provides shock absorption Lastly the cerebrospinal fluid makes up the third line of defence. This is a fluid found in the ventricles of the brain; it acts as a cushion and provides a transportation path for material. The lower part of the brain is connected to the spinal cord and the combination of these two regions forms the central nervous system.
 
-## 2.2 Brain neurological Pathologies
+### Brain neurological Pathologies
 
-### 2.21 Drug Abuse
+#### Drug Abuse
 
 Drug abuse, Cocaine for example, can have a variety of effects on the human brain, especially in vasoconstriction, the lesions may cause acute haemorrhages and infraction in the brain[CITATION Pat17 \l 2057].
 
@@ -48,9 +46,9 @@ Drug abuse, Cocaine for example, can have a variety of effects on the human brai
 
 _Figure 2 Low level of Dopamine in Drug Abusers Brain Scan_
 
-Dopamine is a neurotransmitter that regulates emotions, movements and feelings, in healthy human brain, there is normal level of dopamine, that rewards natural behaviours [CITATION Sta17 \l 2057]. Drug abusers&#39; brains show low dopamine level, due to long term drug abuse, subjects need large amount of dopamine, two to 10 times, that natural rewards such as food does, compare to healthy subjects [CITATION Sta17 \l 2057].
+Dopamine is a neurotransmitter that regulates emotions, movements and feelings, in healthy human brain, there is normal level of dopamine, that rewards natural behaviours [CITATION Sta17 \l 2057]. Drug abusers' brains show low dopamine level, due to long term drug abuse, subjects need large amount of dopamine, two to 10 times, that natural rewards such as food does, compare to healthy subjects [CITATION Sta17 \l 2057].
 
-### 2.22 Epilepsy
+#### Epilepsy
 
 ![](RackMultipart20210113-4-1id6ssm_html_3be7df2fb55f1a7b.jpg)
 
@@ -58,7 +56,7 @@ _Figure 3 Epilepsy Brain shows higher metabolism rate_
 
 Epilepsy is a condition that affects the nervous system and causes repeated seizures. Seizures are caused by disturbances in the electrical activity of the brain: abnormal burns of neurons firing off electrical impulses which results in a strange behaviour of the brain and body [CITATION Hea17 \l 2057]. In 80% of Epilepsy cases, there is increases in blood flow and glucose metabolism.[CITATION Bra17 \l 2057]
 
-### 2.23 Dementia
+#### Dementia
 
 Dementia is a chronic disorder associated with a constant deterioration of the brain and its abilities including memory loss, thinking speed, judgement understanding as well as language [CITATION NHS17 \l 2057].
 
@@ -71,7 +69,7 @@ Dementia is an umbrella term, that is used to describe a wide range of symptoms 
 - reduced thinking speed
 - Difficulty understanding
 
-### 2.24 Alzheimer&#39;s Disease
+#### Alzheimer's Disease
 
 The typical neuropathological signs of Alzheimer&#39;s are amyloid plaques and neurofibrillary tangles [CITATION Alz17 \l 2057]. Patients with Alzheimer&#39;s typically experience brain inflammation.
 
@@ -93,7 +91,7 @@ _Figure 5 (a) CT scan of normal brain; (b) CT scan of early stage AD; (c) CT sca
 
 Figure 5 (a) shows a CT scan produced from an individual with a healthy brain as opposed to the image on the far right which shows the brain of an Alzheimer&#39;s patient. By analysing the overall size of the brain, it can be seen that there is a slight reduction in size of the patient effected by this disease, Furthermore there is a difference in indentations, whereby figure 1 shows very few narrow ones whereas (b) and (c) show several, that are a lot wider. the fluid filled ventricles, are also a lot more larger in (c) than they are in (a). These features enable comparisons to be made and simplify the diagnosis procedure.
 
-### 2.25 Parkinson&#39;s Disease (PD)
+#### Parkinson's Disease (PD)
 
 PD is described as a gradual neurological condition. Those who suffer from this disease lack a chemical substance known as dopamine, this deficiency arises from dead nerve cells in the brain. The main symptoms of this disorder include tremor, rigidity and slowness of movement [CITATION Par17 \l 2057]. Diagnosis of PD can be done based on the volume and shape degeneration of Substantia nigra [CITATION Gio16 \l 2057].
 
@@ -105,10 +103,9 @@ _Figure 6 Substantia nigra in PD_
 
 _Figure 7 PET scan of normal brain and A&#39;s brain_
 
-# Medical Imaging Modalities
+### Medical Imaging Modalities
 
-  1.
-## Computed Tomography (CT)
+#### Computed Tomography (CT)
 
 ![](RackMultipart20210113-4-1id6ssm_html_b783bccf5c8bec2.jpg)
 
@@ -118,7 +115,7 @@ _Figure 2 A Typical CT Scanner_
 
 CT is a modality that uses a series of x-rays then process these images together into a computer. With the high resolution of x-rays, CT is very useful for determining the structure inside the body [CITATION Can17 \l 2057]. CT scan is used for pre-surgery planning and injuries following trauma. A cranial CT scan can diagnose abnormal blood vessels, aneurysms, bone infection, brain damage, brain swelling, brain tumours, or a stroke, as 3D images can be produced with CT. However, due to CT does not produce high resolution of soft tissue, this modality doesn&#39;t produce good quality of brain scans compare to other modalities. At the same time, high radiation is required [CITATION FDA17 \l 2057].
 
-## 3.2 Magnetic Resonance Imaging (MRI)
+#### Magnetic Resonance Imaging (MRI)
 
 MRI is the most common tool for brain imaging due to the absence of ionising radiation, which gives a better tissue contrast. MRI provides high quality images of the brain with higher resolution compared to CT, using a magnetic field created by a large magnet rotating around the head. MRI measures the water and fat content, hydrogen nuclei in the brain are altered, the protons in free state can be aligned when spinning in line with magnetic field [CITATION eye17 \l 2057]. the changes are recorded, and images are produced.
 
@@ -140,7 +137,7 @@ Figure above shows a severe shrinkage of the hippocampus, thus the brain on the 
 | --- | --- | --- | --- |
 | T1 weighted imaging is useful for assessing structures that are high in fat or structures that are near water filled structures, such as joints. | The differences of T1 and T2 can be differentiated by the brightness of the Cerebrospinal fluid, it appears darker on T1 – weighted imaging, and bright on T2 – weighted imaging [CITATION Mag17 \l 2057]. | Non-invasive imaging technique that provides images of neural activities, brain functions and metabolism altered by pathologies [CITATION ama08 \l 2057]. It can be used to visualise changes in oxygenation and blood flow associated with brain activities. | For pathological conditions, the diffusion of water molecules is altered and the amount of diffusion changes in the affect area of the brain. Image contrast in DW –MRI represents the difference in rate of diffusion between tissues [CITATION Gee15 \l 2057]. |
 
-## 3.5 Position Emission Tomography (PET)
+#### Position Emission Tomography (PET)
 
 Quantify biochemical and pharmacological processes, including glucose metabolism, drug distribution and kinetics.
 
@@ -148,7 +145,7 @@ Quantify biochemical and pharmacological processes, including glucose metabolism
 
 _Figure 11 PET scan of three brains in the three different states_
 
-Figure above shows the brain in three different conditions. The image on the left hand side, labelled &quot;normal brain&quot; shows an even distribution of colour with majority of the scan covered by a bright red. This indicates that there is higher level of activity i.e a greater number of neutrons firing in these areas. By analysing the brain effected by mild cognitive impairment it can be seen that less of the brain is covered in the red colour and hence it is associated with less brain activity. The image on the far right portrays an Alzheimer brain, whereby majority of the brain is covered in black leaving only the outer regions of the brain in colour. This suggests degeneration of brain cells and hence very low brain activity which is usually associated with Alzheimer&#39;s. This is a powerful imaging technique used in differentiating Alzhiemers disease from other forms of dementia, as good comparisons can be made providing sufficient information about the severity of dementia.
+Figure above shows the brain in three different conditions. The image on the left hand side, labelled &quot;normal brain&quot; shows an even distribution of colour with majority of the scan covered by a bright red. This indicates that there is higher level of activity i.e a greater number of neutrons firing in these areas. By analysing the brain effected by mild cognitive impairment it can be seen that less of the brain is covered in the red colour and hence it is associated with less brain activity. The image on the far right portrays an Alzheimer brain, whereby majority of the brain is covered in black leaving only the outer regions of the brain in colour. This suggests degeneration of brain cells and hence very low brain activity which is usually associated with Alzheimer's. This is a powerful imaging technique used in differentiating Alzhiemers disease from other forms of dementia, as good comparisons can be made providing sufficient information about the severity of dementia.
 
 3.6 Single photon emission computed tomography (SPECT)
 
@@ -160,7 +157,7 @@ Similarly to PET scan, SPECT imaging technique provides information about brain 
 
 _Figure 12 Epilepsy Brain in SPECT[CITATION Und17 \l 2057] Figure 13 Healthy Brain in SPECT[CITATION Und17 \l 2057]_
 
-## 3.7 Comparison of Medical Imaging Modalities
+#### Comparison of Medical Imaging Modalities
 
 | **Modalities** | **Advantages** | **Disadvantages** |
 | --- | --- | --- |
@@ -193,7 +190,7 @@ _Figure 12 Epilepsy Brain in SPECT[CITATION Und17 \l 2057] Figure 13 Healthy Bra
  |
 
 1.
-# Medical Imaging Processing Examples
+### Medical Imaging Processing Examples
 
 For this project, 3D slicer will be used as an imaging processing and 3D visualisation tool with the aid of DICOM volumes to visualise and analyse the physiological changes of the organ and the specific condition.
 
