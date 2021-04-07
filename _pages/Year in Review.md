@@ -8,31 +8,58 @@ tags: review
 
 As a huge music lover and list enthusiast, I started making playlists for my personal annual reviews since 2012.
 
+### 2020
+
+Jan: Joji - SLOW DANCING IN THE DARK
+
+Feb: The Lumineers - Ophelia
+
+Mar: MARINA - About Love
+
+Apr: Rina Sawayama -  Chosen Family
+
+May: Madison Beer - Dear Society
+
+Jun: FLETCHER - Bitter
+
+Jul: Sia - Together
+
+Aug:  Tove Lo - Glad He's Gone
+
+Sept: FLETCHER - If I Hated You
+
+Oct: Lil Kleine - Drank & Drugs
+
+Nov:  The Weeknd - Blinding Lights
+
+Dec: Usher, Alicia Keys - My Boo
+
 ### 2019
 
-Jan: Sufjan Stevens - Visions of Gideon
+Jan: Sam Smith - Dancing With a Stranger
 
-Feb: Tove Styrke- On the Low
+Feb: Hamilton - It’s Quiet Uptown
 
-Mar: Bipolar Sunshine - Tears
+Mar: Flavien Berger - Mars Balneaire
 
-Apr: Rina Sawayama - Cyber Stockholm Syndrome 
+Apr: ROSALIA - MALAMENTE - Cap.1: Augurio
 
-May: Wham! - Wake me up before you go-go
+May: The National - Oblivions
 
-Jun: Allie X - Not so bad in LA
+Jun: Jorja Smith - Let me down
 
-Jul: Anne Marie - Can I get your number 
+Jul: Jorja Smith - Lost & Found
 
-Aug: Tessa Violet - Crush 
+Aug: Maribou State - Part Time Glory
 
-Sept: Mitski - Geyser 
+Sept: Miley Cyrus - Mother’s Daughter
 
-Oct: Swim Deep - King City 
+Oct:  Aya Nakamuwa - Djadja 
 
-Nov: Cigarettes After Sex - Sweet 
+Nov: Charli XCX - Dream Glow
 
-Dec: Charlie XCX - Emotional
+Dec: Regard - Ride it
+
 
 ### 2018 
 
